@@ -1,5 +1,5 @@
 +++
-date = "2013-06-17T12:00:00-00:00"
+date = "2019-02-22"
 title = "Direttori"
 
 +++
@@ -15,5 +15,8 @@ title = "Direttori"
 * M° Fernando G. Swiech
 
 ---
+<center>
 
-[**Solisti**]({{< ref "../Solisti.md" >}})
+|[**Solisti**]({{< ref "../Solisti.md" >}}) | [**Cantanti**]({{< ref "../Solisti.md" >}}) | [**Compositori**]({{< ref "../Solisti.md" >}}) |
+
+</center>
