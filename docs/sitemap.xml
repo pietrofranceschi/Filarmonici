@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://pietrofranceschi.github.io/Filarmonici/solisti/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://pietrofranceschi.github.io/Filarmonici/service/inevidenza/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -13,22 +18,12 @@
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/solisti/</loc>
-    <lastmod>2013-06-17T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pietrofranceschi.github.io/Filarmonici/archivio/vivamus-lacus-mauris/</loc>
     <lastmod>2013-06-17T12:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://pietrofranceschi.github.io/Filarmonici/chisiamo/vivamus-lacus-mauris/</loc>
-    <lastmod>2013-06-17T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/collaborazioni/solisti/</loc>
     <lastmod>2013-06-17T12:00:00+00:00</lastmod>
   </url>
   
@@ -62,7 +57,7 @@
   
   <url>
     <loc>https://pietrofranceschi.github.io/Filarmonici/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
