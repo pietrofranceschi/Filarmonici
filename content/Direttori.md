@@ -13,10 +13,3 @@ title = "Direttori"
 * M° Maurizio Postai
 * M° Italo Rizzi
 * M° Fernando G. Swiech
-
----
-<center>
-
-|[**Solisti**]({{< ref "../Solisti.md" >}}) | [**Cantanti**]({{< ref "../Solisti.md" >}}) | [**Compositori**]({{< ref "../Solisti.md" >}}) |
-
-</center>
