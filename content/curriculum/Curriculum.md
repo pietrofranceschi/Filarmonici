@@ -1,5 +1,5 @@
 +++
-date = ""
+date = "2019-02-22"
 title = "I Filarmonici di Trento"
 
 +++

@@ -52,6 +52,11 @@ publishDir = "docs"
     url = "/archivio/"
     weight = 5
 
+[[menu.main]]
+    name = "Media"
+    url = "/media/"
+    weight = 5
+
 
 [params.disqus]
     site = "hugo-initio-site.disqus.com"
