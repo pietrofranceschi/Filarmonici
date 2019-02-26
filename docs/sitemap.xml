@@ -3,7 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/collaborazioni/direttori/</loc>
+    <loc>https://pietrofranceschi.github.io/Filarmonici/cantanti/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pietrofranceschi.github.io/Filarmonici/collaborazioni/collaborazioni/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pietrofranceschi.github.io/Filarmonici/compositori/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pietrofranceschi.github.io/Filarmonici/direttori/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pietrofranceschi.github.io/Filarmonici/curriculum/curriculum/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pietrofranceschi.github.io/Filarmonici/media/media/media/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pietrofranceschi.github.io/Filarmonici/organico/organico/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -52,6 +82,7 @@
   
   <url>
     <loc>https://pietrofranceschi.github.io/Filarmonici/curriculum/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -62,11 +93,14 @@
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/organico/organico/</loc>
+    <loc>https://pietrofranceschi.github.io/Filarmonici/media/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://pietrofranceschi.github.io/Filarmonici/organico/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -79,10 +113,6 @@
   <url>
     <loc>https://pietrofranceschi.github.io/Filarmonici/tags/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/curriculum/curriculum/</loc>
   </url>
   
 </urlset>
