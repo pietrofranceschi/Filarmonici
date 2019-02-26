@@ -12,4 +12,8 @@ title = "Direttori"
 * M° Sergio Lasaponara
 * M° Maurizio Postai
 * M° Italo Rizzi
+* M° Stefano Torboli
+* M° Gabriele Di Toma
 * M° Fernando G. Swiech
+
+

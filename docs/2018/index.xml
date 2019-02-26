@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2018s on I Filarmonici di Trento</title>
+    <link>https://pietrofranceschi.github.io/Filarmonici/2018/</link>
+    <description>Recent content in 2018s on I Filarmonici di Trento</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <lastBuildDate>Fri, 22 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pietrofranceschi.github.io/Filarmonici/2018/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>L. v. Beethoven - Sinfonia n° 9</title>
+      <link>https://pietrofranceschi.github.io/Filarmonici/2018/beethoven_9_soligo/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pietrofranceschi.github.io/Filarmonici/2018/beethoven_9_soligo/</guid>
+      <description>Duomo di Pieve di Soligo - Venerdì 2 Novembre, ore 20:30  Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento Coro &amp;ldquo;Città di Piazzola sul Brenta&amp;rdquo; Coro &amp;ldquo;I Polifonici Vicentini   Soprano: Luciana Pansa Mezzosoprano: Michela Bregantin Tenore: Danilo Formaggia Basso: Maurizio Franceschetti  Direttore: Gabriele Di Toma</description>
+    </item>
+    
+    <item>
+      <title>Requiem Nei Monti</title>
+      <link>https://pietrofranceschi.github.io/Filarmonici/2018/requiem_nei_monti/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pietrofranceschi.github.io/Filarmonici/2018/requiem_nei_monti/</guid>
+      <description>Duomo di Trento - Sabato 24 Novembre, ore 20:30 Convento di Gries - Domenica 25 Novembre, ore 16:00  Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento Coro &amp;ldquo;Coronelle&amp;rdquo; di Cavalese Coro &amp;ldquo;Città di Ala Coro &amp;ldquo;Monti Pallidi&amp;rdquo; di Laives  Direttore: Alessandro Arnoldo</description>
+    </item>
+    
+  </channel>
+</rss>

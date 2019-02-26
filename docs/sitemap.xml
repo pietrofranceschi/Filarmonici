@@ -18,12 +18,22 @@
   </url>
   
   <url>
+    <loc>https://pietrofranceschi.github.io/Filarmonici/archivio/archivio/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://pietrofranceschi.github.io/Filarmonici/direttori/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://pietrofranceschi.github.io/Filarmonici/curriculum/curriculum/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pietrofranceschi.github.io/Filarmonici/2018/beethoven_9_soligo/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,6 +48,11 @@
   </url>
   
   <url>
+    <loc>https://pietrofranceschi.github.io/Filarmonici/2018/requiem_nei_monti/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://pietrofranceschi.github.io/Filarmonici/solisti/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
@@ -48,18 +63,19 @@
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/archivio/vivamus-lacus-mauris/</loc>
-    <lastmod>2013-06-17T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pietrofranceschi.github.io/Filarmonici/chisiamo/vivamus-lacus-mauris/</loc>
     <lastmod>2013-06-17T12:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://pietrofranceschi.github.io/Filarmonici/2018/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://pietrofranceschi.github.io/Filarmonici/archivio/</loc>
-    <lastmod>2013-06-17T12:00:00+00:00</lastmod>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
