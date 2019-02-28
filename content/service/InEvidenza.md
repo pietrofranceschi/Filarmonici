@@ -4,5 +4,5 @@ title = "Concerto per i Vent'anni"
 +++
 
 
-{{< figure src="images/test.jpg" title="Steve Francia" height="800px">}}
+{{< figure src="images/Natale2018.jpg" title="Steve Francia" height="800px">}}
 

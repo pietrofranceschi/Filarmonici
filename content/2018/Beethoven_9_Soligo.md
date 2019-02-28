@@ -6,11 +6,16 @@ title = "L. v. Beethoven - Sinfonia n° 9"
 +++
 
 <center>
-{{< figure src="../../images/Beethoven_9_Soligo.png" width="500px">}}
+##### Duomo di Pieve di Soligo - Venerdì 2 Novembre, ore 20:30
 </center>
+
 ---
 
-##### Duomo di Pieve di Soligo - Venerdì 2 Novembre, ore 20:30
+**Programma**
+
+* *L. van Beethoven* - Sinfonia n° 9
+
+---
 
 
 * **Orchestra "I Filarmonici" di Trento**
@@ -27,3 +32,8 @@ title = "L. v. Beethoven - Sinfonia n° 9"
 
 Direttore: *Gabriele Di Toma*
 
+---
+
+<center>
+{{< figure src="../../images/Beethoven_9_Soligo.png" width="500px">}}
+</center>
