@@ -12,3 +12,13 @@ title = "Concerti"
 * [Concerto Sinfonico – Abano Terme]({{< ref "../2018/Sinfonico_Abano.md" >}})
 * [L. Cherubini – Messa da Requiem in Do Minore]({{< ref "../2018/Cherubini_requiem.md" >}})
 * [Concerto Lirico: “o Soave Fanciulla”]({{< ref "../2018/soave_fanciulla.md" >}})
+
+---
+
+## 2017
+
+* [Natale in Duomo]({{< ref "../2017/Natale_Duomo.md" >}})
+* [Concerti di Natale]({{< ref "../2017/Concerti_Natale.md" >}})
+* [P.I. Tchaikovsky Concerto per Violino]({{< ref "../2017/Concerto_Violino_Patuzzi.md" >}})
+* L.v. Beethoven Sinfonia n.9
+* G. Verdi – Messa da Requiem

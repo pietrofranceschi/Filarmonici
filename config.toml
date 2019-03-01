@@ -9,7 +9,7 @@ publishDir = "docs"
     description = "Musica per Voi"
     email = ""
     phone = ""
-    address = "Via G. Verdi 30, 38123, Trento"
+    address = "c/o Soc. Filarmonica di Trento, Via G. Verdi 30, 38123, Trento"
     year = 2019
     avatar = "images/filarmonici.png"
     background = ""
@@ -70,7 +70,7 @@ publishDir = "docs"
 
 [[params.social]]
 	title = "facebook"
-	url = "https://www.facebook.com/nickname"
+	url = "https://www.facebook.com/filarmonicitrento/"
     icon = "fa-facebook-square"
     footer = true
     sharethis = true
@@ -84,7 +84,7 @@ publishDir = "docs"
     network = "twitter"
 [[params.social]]
 	title = "instagram"
-	url = "https://www.instagram.com/nickname"
+	url = "https://www.instagram.com/orchestra_filarmoniciditrento"
     icon = "fa-instagram"
     footer = true
     sharethis = false

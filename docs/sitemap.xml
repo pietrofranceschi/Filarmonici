@@ -23,12 +23,22 @@
   </url>
   
   <url>
+    <loc>https://pietrofranceschi.github.io/Filarmonici/2017/concerti_natale/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://pietrofranceschi.github.io/Filarmonici/2018/concerti_natale/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://pietrofranceschi.github.io/Filarmonici/2018/soave_fanciulla/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pietrofranceschi.github.io/Filarmonici/2017/concerto_violino_patuzzi/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -49,6 +59,11 @@
   
   <url>
     <loc>https://pietrofranceschi.github.io/Filarmonici/media/media/media/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pietrofranceschi.github.io/Filarmonici/2017/natale_duomo/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -85,6 +100,12 @@
   <url>
     <loc>https://pietrofranceschi.github.io/Filarmonici/chisiamo/vivamus-lacus-mauris/</loc>
     <lastmod>2013-06-17T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pietrofranceschi.github.io/Filarmonici/2017/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
