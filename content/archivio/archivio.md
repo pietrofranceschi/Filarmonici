@@ -20,5 +20,5 @@ title = "Concerti"
 * [Natale in Duomo]({{< ref "../2017/Natale_Duomo.md" >}})
 * [Concerti di Natale]({{< ref "../2017/Concerti_Natale.md" >}})
 * [P.I. Tchaikovsky Concerto per Violino]({{< ref "../2017/Concerto_Violino_Patuzzi.md" >}})
-* L.v. Beethoven Sinfonia n.9
-* G. Verdi – Messa da Requiem
+* [L.v. Beethoven Sinfonia n.9]({{< ref "../2017/Beethoven_Nona.md" >}})
+* [G. Verdi – Messa da Requiem]({{< ref "../2017/Verdi_Requiem.md" >}})
