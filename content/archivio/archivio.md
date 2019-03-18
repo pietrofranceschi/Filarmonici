@@ -22,3 +22,14 @@ title = "Concerti"
 * [P.I. Tchaikovsky Concerto per Violino]({{< ref "../2017/Concerto_Violino_Patuzzi.md" >}})
 * [L.v. Beethoven Sinfonia n.9]({{< ref "../2017/Beethoven_Nona.md" >}})
 * [G. Verdi – Messa da Requiem]({{< ref "../2017/Verdi_Requiem.md" >}})
+
+---
+
+## 2016
+
+* Natale in Duomo
+* [Concerti di Natale]({{< ref "../2016/Concerti_Natale.md" >}})
+* [TEDxTrento]({{< ref "../2016/TEDxTrento.md" >}})
+* [Requem di Verdi - Maggio]({{< ref "../2016/Verdi_Requiem_maggio.md" >}})
+* [Requiem di Verdi - Giugno]({{< ref "../2016/Verdi_Requiem_giugno.md" >}})
+* [Concerto Lirico]({{< ref "../2016/Concerto_lirico.md" >}})
