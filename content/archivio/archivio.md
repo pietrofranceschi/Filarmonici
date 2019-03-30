@@ -1,4 +1,4 @@
-+++
+﻿+++
 
 date = "2019-02-22"
 title = "Concerti"
@@ -33,3 +33,34 @@ title = "Concerti"
 * [Requem di Verdi - Maggio]({{< ref "../2016/Verdi_Requiem_maggio.md" >}})
 * [Requiem di Verdi - Giugno]({{< ref "../2016/Verdi_Requiem_giugno.md" >}})
 * [Concerto Lirico]({{< ref "../2016/Concerto_lirico.md" >}})
+
+---
+
+## 2015
+
+* [Natale in Duomo]({{< ref "../2015/Natale_Duomo.md" >}})
+* Concerto di Natale
+
+---
+
+## 2014
+
+* [Natale in Duomo]({{< ref "../2014/Natale_Duomo.md" >}})
+
+---
+
+## 2013
+
+* [Natale in Duomo]({{< ref "../2013/Natale_Duomo.md" >}})
+
+---
+
+## 2012
+
+* [Natale in Duomo]({{< ref "../2012/Natale_Duomo.md" >}})
+
+---
+
+## 2011
+
+* [Natale in Duomo]({{< ref "../2011/Natale_Duomo.md" >}})

@@ -9,7 +9,7 @@ title = "Organico"
 
 **Violini II**: Francesca Chemolli, Mario Lullo, Lorenzo Sartori, Arianna, Baldo, Giovanna Ferrari, Alessandra Fruet, Elisa Libardi, Wolfgang Irler, Giuseppe De Nisi, Lisa Folcato, Giulio Robol, Rita Festi
 
-**Viole**: Chizuru Deguchi, Isabella Corbolini, alessandro Gaddo
+**Viole**: Chizuru Deguchi, Isabella Corbolini, Alessandro Gaddo
 
 **Violoncelli**: Silvano Zanoni, Osvaldo Demozzi, Elena Chini
 
