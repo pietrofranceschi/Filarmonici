@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2012s on I Filarmonici di Trento</title>
+    <link>https://pietrofranceschi.github.io/Filarmonici/2012/</link>
+    <description>Recent content in 2012s on I Filarmonici di Trento</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <lastBuildDate>Fri, 22 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pietrofranceschi.github.io/Filarmonici/2012/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Natale in Duomo</title>
+      <link>https://pietrofranceschi.github.io/Filarmonici/2012/natale_duomo/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pietrofranceschi.github.io/Filarmonici/2012/natale_duomo/</guid>
+      <description>Duomo di Trento - Lunedì 24 Dicembre, ore 23:30 
+Programma
+ Andreas Hammerschmidt - Machet die Tore weit (Salmo 24,7) Nicola Segatta - Concerto di Natale Johannes Brahms - Ninna Nanna Franz Xaver Gruber - Stille Nacht  Gruppo cameristico dell&amp;rsquo;Orchestra &amp;ldquo;I Filarmonici&amp;rdquo;
+ Violino: Astrid Harlan, Luisa Giarizzo Viola: Giuseppe Calliari Violoncello: Tiziana Guastamacchia Contrabbasso: Daniele Giongo Clarinetto: Pietro Franceschi Corno: Marco Franceschi Tromba: Roberto Guastamacchia Clavicembalo: Paola Bertagnolli Celesta: Nicola Segatta Percussioni: Matteo Facchini</description>
+    </item>
+    
+  </channel>
+</rss>

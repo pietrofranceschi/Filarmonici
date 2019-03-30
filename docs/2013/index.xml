@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2013s on I Filarmonici di Trento</title>
+    <link>https://pietrofranceschi.github.io/Filarmonici/2013/</link>
+    <description>Recent content in 2013s on I Filarmonici di Trento</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <lastBuildDate>Fri, 22 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pietrofranceschi.github.io/Filarmonici/2013/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Natale in Duomo</title>
+      <link>https://pietrofranceschi.github.io/Filarmonici/2013/natale_duomo/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pietrofranceschi.github.io/Filarmonici/2013/natale_duomo/</guid>
+      <description>Duomo di Trento - Martedì, 24 Dicembre, ore 23:30 
+Programma
+ W. A. Mozart - Quartetti per flauto, violino, viola e violoncello in Do magg. KV 285b e in La magg. KV 298 Canti natalizi  Gruppo cameristico dell&amp;rsquo;Orchestra &amp;ldquo;I Filarmonici&amp;rdquo;
+ Violino: Astrid Harlan Viola: Chiara Morstabilini Violoncello: Eva Gruhn Flauto: Salvatore Lucci</description>
+    </item>
+    
+  </channel>
+</rss>

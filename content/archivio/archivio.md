@@ -60,7 +60,3 @@ title = "Concerti"
 * [Natale in Duomo]({{< ref "../2012/Natale_Duomo.md" >}})
 
 ---
-
-## 2011
-
-* [Natale in Duomo]({{< ref "../2011/Natale_Duomo.md" >}})
