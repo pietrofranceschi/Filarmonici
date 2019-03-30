@@ -60,3 +60,22 @@ title = "Concerti"
 * [Natale in Duomo]({{< ref "../2012/Natale_Duomo.md" >}})
 
 ---
+
+## 2011
+* [Natale in Duomo]({{< ref "../2011/Natale_Duomo.md" >}})
+
+---
+
+## 2010
+* [Natale in Duomo]({{< ref "../2010/Natale_Duomo.md" >}})
+
+---
+
+## 2009
+* [Natale in Duomo]({{< ref "../2009/Natale_Duomo.md" >}})
+
+---
+
+## 2008
+* [Natale in Duomo]({{< ref "../2008/Natale_Duomo.md" >}})
+* [Concerti di Natale]({{< ref "../2008/Concerti_Natale.md" >}})
