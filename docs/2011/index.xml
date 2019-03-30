@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2011s on I Filarmonici di Trento</title>
+    <link>https://pietrofranceschi.github.io/Filarmonici/2011/</link>
+    <description>Recent content in 2011s on I Filarmonici di Trento</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <lastBuildDate>Fri, 22 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pietrofranceschi.github.io/Filarmonici/2011/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Natale in Duomo</title>
+      <link>https://pietrofranceschi.github.io/Filarmonici/2011/natale_duomo/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pietrofranceschi.github.io/Filarmonici/2011/natale_duomo/</guid>
+      <description>Duomo di Trento - Sabato 24 Dicembre, ore 23:30 
+Programma
+ Sebastiano Evangelista - Ottetto per la Notte di Natale Andreas Hammerschmidt - Machet die Tore weit (Salmo 24, 7-10) Johannes Brahms - Ninna Nanna Franz Xaver Gruber - Stille Nacht  Ottetto dell&amp;rsquo;Orchestra &amp;ldquo;I Filarmonici&amp;rdquo;
+ Violino I: Gianni Romagnoli Violino II: Astrid Harlan Viola: Chizuru Deguchi Violoncello: Eva Gruhn, Roberto Guastamacchia Contrabbasso: Daniele Giongo Clarinetto: Pietro Franceschi Corno: Marco Franceschi</description>
+    </item>
+    
+  </channel>
+</rss>
