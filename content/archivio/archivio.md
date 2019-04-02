@@ -40,6 +40,12 @@ title = "Concerti"
 
 * [Natale in Duomo]({{< ref "../2015/Natale_Duomo.md" >}})
 * Concerto di Natale
+* [Concerto Sinfonico - Novembre]({{< ref "../2015/Sinfonico_Novembre.md" >}})
+* [Gemellaggio con Kepten]({{< ref "../2015/Gemellaggio_Kempten.md" >}})
+* [Concerto Sinfonico - Maggio]({{< ref "../2015/Sinfonico_Maggio.md" >}})
+* [Requiem - Livorno]({{< ref "../2015/Requiem_Livorno.md" >}})
+* [Requiem - Marzo]({{< ref "../2015/Requiem_Marzo.md" >}})
+* [Concerto Lirico]({{< ref "../2015/Concerto_Lirico.md" >}})
 
 ---
 
