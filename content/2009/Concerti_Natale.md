@@ -24,7 +24,7 @@ title = "Concerti di Natale"
 
 * **Orchestra "I Filarmonici" di Trento**
 * **Coro "Anzolim de la Tor" di Riva del Garda**
-* **Coro "Vincenzo Gianferrari" di Trento
+* **Coro "Vincenzo Gianferrari" di Trento**
 
 ---
 
