@@ -28,7 +28,7 @@ title = "Concerti di Natale"
 
 ---
 
-* Soprano Solista: Maria Pia Molinari
+Soprano Solista: Maria Pia Molinari
 
 
 Direttore: *Fabrizio Cunial*

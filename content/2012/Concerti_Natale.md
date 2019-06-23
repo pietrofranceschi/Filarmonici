@@ -27,7 +27,7 @@ title = "Concerti di Natale"
 * **Orchestra "I Filarmonici" di Trento**
 ---
 
-* **Soprano Solista: Daniela Pellizzari*
+* **Soprano Solista: Daniela Pellizzari**
 
 Direttore: *Sergio Lasaponara*
 
