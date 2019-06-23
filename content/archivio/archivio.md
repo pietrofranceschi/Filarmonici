@@ -58,27 +58,33 @@ title = "Concerti"
 ## 2013
 
 * [Natale in Duomo]({{< ref "../2013/Natale_Duomo.md" >}})
+* [Concerto di Natale] ({{< ref "../2013/Concerto_Natale.md" >}})
+* [Concerto di Natale per Amnesty International]({{< ref "../2013/Concerto_Natale_Amnesty_International.md" >}})
 
 ---
 
 ## 2012
 
 * [Natale in Duomo]({{< ref "../2012/Natale_Duomo.md" >}})
+* [Concerti di Natale]({{< ref "../2012/Concerti_Natale.md" >}})
 
 ---
 
 ## 2011
 * [Natale in Duomo]({{< ref "../2011/Natale_Duomo.md" >}})
+* [Concerti di Natale]({{< ref "../2011/Concerti_Natale.md" >}})
 
 ---
 
 ## 2010
 * [Natale in Duomo]({{< ref "../2010/Natale_Duomo.md" >}})
+* [Concerto di Natale]({{< ref "../2010/Concerto_Natale.md" >}})
 
 ---
 
 ## 2009
 * [Natale in Duomo]({{< ref "../2009/Natale_Duomo.md" >}})
+* [Concerti di Natale]({{< ref "../2009/Concerti_Natale.md" >}})
 
 ---
 
