@@ -4,9 +4,10 @@ title = "Direttori"
 
 +++
 
-* [**M° Alessandro Arnoldo**](http://www.circuitomusica.it/alessandroarnoldo)
+* [**M° Alessandro Arnoldo**](https://alessandroarnoldo.wixsite.com/alessandroarnoldo)
 * M° Mauro Roveri
 * M° Daniela Contessi
+* M° Andrea Albertin
 * M° Fabrizio Cunial
 * M° Nicola Fasano
 * M° Sergio Lasaponara

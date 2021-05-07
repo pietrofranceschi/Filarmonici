@@ -1,8 +1,8 @@
 +++
 date = "2019-01-01"
-title = "Concerto per i Vent'anni"
+title = "Concerti di Natale"
 +++
 
 
-{{< figure src="images/Natale2018.jpg" title="Steve Francia" height="800px">}}
+{{< figure src="images/Natale2018.jpg" height="800px">}}
 

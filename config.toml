@@ -1,8 +1,8 @@
 baseURL = "https://pietrofranceschi.github.io/Filarmonici/"
 languageCode = "it"
 title = "I Filarmonici di Trento"
-theme = "hugo-initio"
 publishDir = "docs"
+relativeURLs = "False"
 
 [params]
     name = "I Filarmonici di Trento"
@@ -16,11 +16,13 @@ publishDir = "docs"
     favicon = "images/gt_favicon.png"
     DateForm = "January 2, 2006"
 
+
     showSubheader = true
-    showServices = true
+    showServices = false
     showRecentWorks = false
     showDownload = false
-    showClients = true
+    showClients = false
+
 
     footerEnableContact = true
     footerEnableFollowme = true
@@ -56,6 +58,12 @@ publishDir = "docs"
     name = "Media"
     url = "/media/"
     weight = 5
+
+[[menu.main]]
+    name = "Contatti"
+    url = "/contatti/"
+    weight = 5
+
 
 
 [params.disqus]
@@ -119,8 +127,9 @@ publishDir = "docs"
     network = ""
 [[params.social]]
 	title = "email"
-	url = "mailto:some.email@somewhere.com"
+	url = "mailto:filarmonicitrento@gmail.com"
     icon = "fa-envelope"
-    footer = false
+    footer = true
     sharethis = true
     network = "email"
+

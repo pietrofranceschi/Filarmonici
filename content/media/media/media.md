@@ -9,4 +9,3 @@ title = "Media"
 
 ---
 
-{{< instagram Bdc4pFYAwFN hidecaption >}}
