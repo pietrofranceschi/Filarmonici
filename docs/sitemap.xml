@@ -3,366 +3,411 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2017/beethoven_nona/</loc>
+    <loc>https://www.filarmonicitrento.it/2019/gala_lugano/</loc>
+    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.filarmonicitrento.it/2019/concerto_natale/</loc>
+    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.filarmonicitrento.it/2020/concerto_bergamo/</loc>
+    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.filarmonicitrento.it/2019/concerto_ventanni/</loc>
+    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.filarmonicitrento.it/2020/e_lucean_le_stelle/</loc>
+    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.filarmonicitrento.it/2019/gala_rovereto/</loc>
+    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.filarmonicitrento.it/2019/concerto_natale_duomo/</loc>
+    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.filarmonicitrento.it/2017/beethoven_nona/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/cantanti/</loc>
+    <loc>https://www.filarmonicitrento.it/cantanti/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/collaborazioni/collaborazioni/</loc>
+    <loc>https://www.filarmonicitrento.it/collaborazioni/collaborazioni/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/compositori/</loc>
+    <loc>https://www.filarmonicitrento.it/compositori/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/archivio/archivio/</loc>
+    <loc>https://www.filarmonicitrento.it/2008/concerti_natale/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2008/concerti_natale/</loc>
+    <loc>https://www.filarmonicitrento.it/2009/concerti_natale/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2009/concerti_natale/</loc>
+    <loc>https://www.filarmonicitrento.it/2011/concerti_natale/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2011/concerti_natale/</loc>
+    <loc>https://www.filarmonicitrento.it/2012/concerti_natale/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2012/concerti_natale/</loc>
+    <loc>https://www.filarmonicitrento.it/2016/concerti_natale/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2016/concerti_natale/</loc>
+    <loc>https://www.filarmonicitrento.it/2017/concerti_natale/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2017/concerti_natale/</loc>
+    <loc>https://www.filarmonicitrento.it/2018/concerti_natale/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2018/concerti_natale/</loc>
+    <loc>https://www.filarmonicitrento.it/2015/concerto_lirico/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2015/concerto_lirico/</loc>
+    <loc>https://www.filarmonicitrento.it/2018/soave_fanciulla/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2018/soave_fanciulla/</loc>
+    <loc>https://www.filarmonicitrento.it/2015/sinfonico_maggio/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2015/sinfonico_maggio/</loc>
+    <loc>https://www.filarmonicitrento.it/2015/sinfonico_novembre/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2015/sinfonico_novembre/</loc>
+    <loc>https://www.filarmonicitrento.it/2010/concerto_natale/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2010/concerto_natale/</loc>
+    <loc>https://www.filarmonicitrento.it/2013/concerto_natale/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2013/concerto_natale/</loc>
+    <loc>https://www.filarmonicitrento.it/2013/concerto_natale_amnesty_international/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2013/concerto_natale_amnesty_international/</loc>
+    <loc>https://www.filarmonicitrento.it/2016/concerto_lirico/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2016/concerto_lirico/</loc>
+    <loc>https://www.filarmonicitrento.it/2017/concerto_violino_patuzzi/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2017/concerto_violino_patuzzi/</loc>
+    <loc>https://www.filarmonicitrento.it/direttori/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/direttori/</loc>
+    <loc>https://www.filarmonicitrento.it/2015/gemellaggio_kempten/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2015/gemellaggio_kempten/</loc>
+    <loc>https://www.filarmonicitrento.it/curriculum/curriculum/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/curriculum/curriculum/</loc>
+    <loc>https://www.filarmonicitrento.it/2018/beethoven_9_soligo/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2018/beethoven_9_soligo/</loc>
+    <loc>https://www.filarmonicitrento.it/media/media/media/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/media/media/media/</loc>
+    <loc>https://www.filarmonicitrento.it/2015/requiem_livorno/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2015/requiem_livorno/</loc>
+    <loc>https://www.filarmonicitrento.it/2015/requiem_marzo/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2015/requiem_marzo/</loc>
+    <loc>https://www.filarmonicitrento.it/2008/natale_duomo/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2008/natale_duomo/</loc>
+    <loc>https://www.filarmonicitrento.it/2009/natale_duomo/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2009/natale_duomo/</loc>
+    <loc>https://www.filarmonicitrento.it/2010/natale_duomo/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2010/natale_duomo/</loc>
+    <loc>https://www.filarmonicitrento.it/2011/natale_duomo/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2011/natale_duomo/</loc>
+    <loc>https://www.filarmonicitrento.it/2012/natale_duomo/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2012/natale_duomo/</loc>
+    <loc>https://www.filarmonicitrento.it/2013/natale_duomo/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2013/natale_duomo/</loc>
+    <loc>https://www.filarmonicitrento.it/2014/natale_duomo/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2014/natale_duomo/</loc>
+    <loc>https://www.filarmonicitrento.it/2015/natale_duomo/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2015/natale_duomo/</loc>
+    <loc>https://www.filarmonicitrento.it/2017/natale_duomo/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2017/natale_duomo/</loc>
+    <loc>https://www.filarmonicitrento.it/organico/organico/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/organico/organico/</loc>
+    <loc>https://www.filarmonicitrento.it/2018/requiem_nei_monti/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2018/requiem_nei_monti/</loc>
+    <loc>https://www.filarmonicitrento.it/2018/cherubini_requiem/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2018/cherubini_requiem/</loc>
+    <loc>https://www.filarmonicitrento.it/solisti/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/solisti/</loc>
+    <loc>https://www.filarmonicitrento.it/2016/tedxtrento/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2016/tedxtrento/</loc>
+    <loc>https://www.filarmonicitrento.it/2017/verdi_requiem/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2017/verdi_requiem/</loc>
+    <loc>https://www.filarmonicitrento.it/2016/verdi_requiem_giugno/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2016/verdi_requiem_giugno/</loc>
+    <loc>https://www.filarmonicitrento.it/2016/verdi_requiem_maggio/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2016/verdi_requiem_maggio/</loc>
+    <loc>https://www.filarmonicitrento.it/2018/sinfonico_abano/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2018/sinfonico_abano/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/service/inevidenza/</loc>
+    <loc>https://www.filarmonicitrento.it/service/inevidenza/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/contatti/contatti/</loc>
+    <loc>https://www.filarmonicitrento.it/contatti/contatti/</loc>
     <lastmod>2013-06-17T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2008/</loc>
+    <loc>https://www.filarmonicitrento.it/2008/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2009/</loc>
+    <loc>https://www.filarmonicitrento.it/2009/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2010/</loc>
+    <loc>https://www.filarmonicitrento.it/2010/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2011/</loc>
+    <loc>https://www.filarmonicitrento.it/2011/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2012/</loc>
+    <loc>https://www.filarmonicitrento.it/2012/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2013/</loc>
+    <loc>https://www.filarmonicitrento.it/2013/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2014/</loc>
+    <loc>https://www.filarmonicitrento.it/2014/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2015/</loc>
+    <loc>https://www.filarmonicitrento.it/2015/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2016/</loc>
+    <loc>https://www.filarmonicitrento.it/2016/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2017/</loc>
+    <loc>https://www.filarmonicitrento.it/2017/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/2018/</loc>
+    <loc>https://www.filarmonicitrento.it/2018/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/archivio/</loc>
+    <loc>https://www.filarmonicitrento.it/2019/</loc>
+    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.filarmonicitrento.it/2020/</loc>
+    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.filarmonicitrento.it/archivio/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.filarmonicitrento.it/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.filarmonicitrento.it/collaborazioni/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/categories/</loc>
-    <priority>0</priority>
+    <loc>https://www.filarmonicitrento.it/archivio/archivio/</loc>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/collaborazioni/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/contatti/</loc>
+    <loc>https://www.filarmonicitrento.it/contatti/</loc>
     <lastmod>2013-06-17T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/curriculum/</loc>
+    <loc>https://www.filarmonicitrento.it/curriculum/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/</loc>
+    <loc>https://www.filarmonicitrento.it/</loc>
+    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.filarmonicitrento.it/media/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/media/</loc>
+    <loc>https://www.filarmonicitrento.it/organico/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/organico/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/service/</loc>
+    <loc>https://www.filarmonicitrento.it/service/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/Filarmonici/tags/</loc>
+    <loc>https://www.filarmonicitrento.it/tags/</loc>
     <priority>0</priority>
   </url>
   

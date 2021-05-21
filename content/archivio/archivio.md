@@ -1,8 +1,25 @@
 ﻿+++
 
-date = "2019-02-22"
+date = "2021-5-17"
 title = "Concerti"
 +++
+
+## 2020
+
+* [Concerto Sinfonico - Bergamo]({{< ref "../2020/concerto_bergamo.md" >}})
+* [E lucevan le stelle]({{< ref "../2020/e_lucean_le_stelle.md" >}})
+
+---
+
+## 2019
+
+* [Natale in Duomo]({{< ref "../2019/concerto_natale.md" >}})
+* [Concerti di Natale]({{< ref "../2019/concerto_natale_duomo.md" >}})
+* [Concerto per i Vent'anni]({{< ref "../2019/concerto_ventanni.md" >}})
+* [Galà Concerto - Fondazione Lucarelli Irion]({{< ref "../2019/gala_rovereto.md" >}})
+* [Capolavori in Orchestra - Lugano] ({{< ref "../2019/gala_lugano.md" >}})
+
+---
 
 ## 2018
 

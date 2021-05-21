@@ -15,19 +15,17 @@ title = "Organico"
 
 **Contrabbassi**: Michele Tovazzi
 
-**Flauti**: Salvatore Lucci, Anna Baldessarini, Federica Andretti
+**Flauti**: Salvatore Lucci, Francesca 
 
 **Oboi**:  Claudio Dorigatti, Irene Metere
 
 **Clarinetti**: Pietro Franceschi, Samuele Moser
 
-**Fagotti**: Martina Gaddo
+**Fagotti**: Marco Girardi, Martina Gaddo
 
-**Corni**: Marco Franceschi
+**Corni**: Marco Franceschi, Michele Dell'Eva
 
 **Trombe**:  Roberto Guastamacchia, Mario Olzer
-
-**Tromboni**:
 
 **Timpani**: Daniele Daldoss
 

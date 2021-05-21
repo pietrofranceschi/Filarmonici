@@ -1,4 +1,4 @@
-baseURL = "https://pietrofranceschi.github.io/Filarmonici/"
+baseURL = "https://www.filarmonicitrento.it/"
 languageCode = "it"
 title = "I Filarmonici di Trento"
 publishDir = "docs"

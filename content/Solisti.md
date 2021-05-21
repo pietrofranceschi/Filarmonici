@@ -4,6 +4,8 @@ title = "Solisti"
 
 +++
 
+* Teofil Milenkovic, _violino_
+* Daniele Lasta, _pianoforte_
 * Daniele Anderle, _violino_
 * Ovidiu Badila, _contrabbasso_
 * Klaus Broz, _violoncello_

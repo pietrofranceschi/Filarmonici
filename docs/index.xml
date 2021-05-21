@@ -2,21 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>I Filarmonici di Trento</title>
-    <link>https://pietrofranceschi.github.io/Filarmonici/</link>
+    <link>https://www.filarmonicitrento.it/</link>
     <description>Recent content on I Filarmonici di Trento</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 22 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 May 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://pietrofranceschi.github.io/Filarmonici/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.filarmonicitrento.it/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Capolavori per Orchestra - Ceresio Estate - Lugano</title>
+      <link>https://www.filarmonicitrento.it/2019/gala_lugano/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.filarmonicitrento.it/2019/gala_lugano/</guid>
+      <description>Ceresio,Lugano (CH), Centro Scolastico - Sabato 22 giugno, ore 18:30 
+Programma
+ L.v Beethoven - Sinfonia n.6 - &amp;ldquo;Pastorale&amp;rdquo;
+ P.I. Tchaykovsky - Concerto op. 35 per violino e orchestra   Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento   Violino: Maristella Patuzzi  Direttore: Michele Patuzzi</description>
+    </item>
+    
+    <item>
+      <title>Concerti di Natale con I Filarmonici di Trento</title>
+      <link>https://www.filarmonicitrento.it/2019/concerto_natale/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.filarmonicitrento.it/2019/concerto_natale/</guid>
+      <description>Pomarolo, Teatro Comunale - Sabato 21 Dicembre, ore 20:30 Bolognano d&amp;rsquo;Arco, Chiesa Parrocchiale - Domenica 22 Dicembre, ore 17:00 
+Programma
+ F. Mendelssohn - Concerto per violino ed Orchestra W.A. Mozart - Concerto per Clarinetto e Orchestra
+   Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento   Violino: Maristella Patuzzi Clarinetto: John Diamanti Fox  Direttore: Alessandro Arnoldo</description>
+    </item>
+    
+    <item>
+      <title>Concerto inaugurale della 116ma Stagione Concertistica 2020 - Bergamo</title>
+      <link>https://www.filarmonicitrento.it/2020/concerto_bergamo/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.filarmonicitrento.it/2020/concerto_bergamo/</guid>
+      <description>Bergamo, Auditorium di Piazza della Libertà - Lunedì 3 febbraio, ore 21:00 
+Programma
+ F. Schubert - Sinfonia nr. 3 in re magg. D 200
+ F. Mendelssohn Bartholdy - Concerto in mi min. op. 64 per violino e orchestra   Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento   Violino: Maristella Patuzzi  Direttore: Michele Patuzzi</description>
+    </item>
+    
+    <item>
+      <title>Concerto per i Vent&#39;anni</title>
+      <link>https://www.filarmonicitrento.it/2019/concerto_ventanni/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.filarmonicitrento.it/2019/concerto_ventanni/</guid>
+      <description>Trento, Chiesa di San Francesco Saverio - Domenica 9 Giugno, ore 18:30 
+Programma
+ R. Rachmaninov - Concerto per pianoforte e orchestra n.2 J.S Bach - F. Busoni - Corali per pianoforte L.v Beethoven - Sinfonia n.6 - &amp;ldquo;Pastorale&amp;rdquo;
+   Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento   Pianoforte: Daniele Lasta  Direttore: Alessandro Arnoldo</description>
+    </item>
+    
+    <item>
+      <title>E lucevan le stelle...tra storia e musica a Piedicastello</title>
+      <link>https://www.filarmonicitrento.it/2020/e_lucean_le_stelle/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.filarmonicitrento.it/2020/e_lucean_le_stelle/</guid>
+      <description>Trento, Chiesa di S. Apollinare - Sabato 18 luglio, ore 20:45 
+ Ensemble Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento Voci all&amp;rsquo;Opera - (dir artistica Sabrina Modena) Pianoforte: Enrico Toccoli  Direttore: Alessandro Arnoldo</description>
+    </item>
+    
+    <item>
+      <title>Galà Concerto - Fondazione Lucarelli Irion</title>
+      <link>https://www.filarmonicitrento.it/2019/gala_rovereto/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.filarmonicitrento.it/2019/gala_rovereto/</guid>
+      <description>Rovereto, Teatro Zandonai - Domenica 14 Aprile, ore 18:00 
+Programma
+ G. Puccini - da Bohème aria &amp;ldquo;Quando m&amp;rsquo; en vo&amp;rsquo; &amp;rdquo; Verdi: da Rigoletto aria &amp;ldquo;Gilda&amp;rdquo; P.I. Tchaykovsky - Concerto op. 35 per violino e orchestra   Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento   Soprano: Vivian Jourdan Violino: Teofil Milenkovich  Direttore: Alessandro Arnoldo</description>
+    </item>
+    
+    <item>
+      <title>Natale in Duomo</title>
+      <link>https://www.filarmonicitrento.it/2019/concerto_natale_duomo/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.filarmonicitrento.it/2019/concerto_natale_duomo/</guid>
+      <description>Duomo di Trento - Domenica 24 Dicembre, ore 23:30 
+Programma
+ C.Saint-Saëns - Oratorio de Noël   Ensamble Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento Voci all&amp;rsquo;Opera - dir. artistica Sabrina Modena  Organo: Stefano Rattini
+Direttore: Alessandro Arnoldo</description>
+    </item>
+    
+    <item>
       <title>Beethoven - Nona Sinfonia</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/2017/beethoven_nona/</link>
+      <link>https://www.filarmonicitrento.it/2017/beethoven_nona/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/2017/beethoven_nona/</guid>
+      <guid>https://www.filarmonicitrento.it/2017/beethoven_nona/</guid>
       <description>Piazzola sul Brenta, Duomo - Venerdì 16 Giugno, ore 21:00 Trento, chiesa di S. Francesco Saverio - Domenica 18 Giugno, ore 18:30 Abano Terme - Venerdì 29 Settembre, ore 21:00 Monselice, Chiesa di S. Giustina - Sabato 30 Settembre, ore 20:30 
 Programma
  L.v. Beethoven - Sinfonia n.9, Corale   Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento Orchestra del &amp;ldquo;Concentus Musicus Patavinus&amp;rdquo; Coro &amp;ldquo;Città di Piazzola sul Brenta&amp;rdquo; - Paolo Piana Coro Grande del &amp;ldquo;Concentus Musicus Patavinus&amp;rdquo; - Antonio Bortolami   Soprano: Luciana Pansa Mezzosoprano: Michela Bregantin, Aurhelia Varak Tenore: Max Jota, Francesco Paccorini Basso: Maurizio Franceschetti  Maestri concertatori: Alessandro Arnoldo, Mauro Roveri</description>
@@ -24,19 +105,19 @@ Programma
     
     <item>
       <title>Cantanti</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/cantanti/</link>
+      <link>https://www.filarmonicitrento.it/cantanti/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/cantanti/</guid>
+      <guid>https://www.filarmonicitrento.it/cantanti/</guid>
       <description> Patrizia Amoretti, mezzosoprano Paolo Antognetti, tenore Gianluca Arnò, tenore Barbara Balduzzi, soprano Fabio Bonatti, tenore Mariapia Bortolotti, mezzosoprano Brigitte Canins, soprano Valentina Carraro, contralto Roldano Cattoni, baritono Anna D’Acunto, soprano Vincenzo Di Donato, tenore Cristiano Didonè, tenore Maurizio Franceschetti, basso Elena Gallo, soprano Roberto Garniga, tenore Riccardo Gatto, tenore Roberto Guastamacchia, tenore Maria Letizia Grosselli, soprano Rosanna Lo Greco, soprano Lucia Lorenzato, soprano Anna Malvasio, soprano Simone Marchesini, baritono Antonio Menicucci, baritono Carlo Messeri, tenore Sabrina Modena, soprano Cecilia Molinari, mezzosoprano Maria Pia Molinari, soprano Francesco Maria Moncher, tenore Luciana Pansa, mezzosoprano Daniela Pellizzari, soprano Elisa Pichler, soprano Isabella Pisoni, soprano Ivo Rizzi, baritono Alessandra Rostellato, soprano Vadim Tarakanof, baritono Dania Tosi, soprano Claudio Zancopè, basso Raffaele Zaninelli, basso Karin Zimmerman, mezzosoprano Eugenia Zuin, contralto  </description>
     </item>
     
     <item>
       <title>Collaborazioni</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/collaborazioni/collaborazioni/</link>
+      <link>https://www.filarmonicitrento.it/collaborazioni/collaborazioni/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/collaborazioni/collaborazioni/</guid>
+      <guid>https://www.filarmonicitrento.it/collaborazioni/collaborazioni/</guid>
       <description>“I Filarmonici” hanno stretto importanti collaborazioni artistiche con altre Associazioni attive sul territorio, facendosi promotori di progetti culturali finalizzati alla valorizzazione le energie creative ed artistiche presenti sul territorio, seguendo con particolare attenzione giovani e promettenti esecutori.
 Parallelamente, l’orchestra ha commissionato ed eseguito composizioni originali di numerosi compositori regionali, inserendole all’interno di specifici progetti artistici.
 Negli anni l’orchestra ha lavorato con importanti formazioni corali ed orchestrali per l&amp;rsquo;esecuzione di importanti partiture sinfoniche.</description>
@@ -44,28 +125,19 @@ Negli anni l’orchestra ha lavorato con importanti formazioni corali ed orchest
     
     <item>
       <title>Compositori</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/compositori/</link>
+      <link>https://www.filarmonicitrento.it/compositori/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/compositori/</guid>
+      <guid>https://www.filarmonicitrento.it/compositori/</guid>
       <description> Edoardo Bruni - Edoardo Bruni: Il Mare secondo Penelope Fabio Conti - Le Betulle di Satov, L&amp;rsquo;Angelo e la Stella Roberto Di Marino - Un Frammento, Il Poeta Sebastiano Evangelista - Ottetto per la Notte di Natale Gianfranco Grisi - Erich von Stroheim: “Blind Husbands” (1919) - musicazione Marco Mantovani - Erich von Stroheim: “Blind Husbands” (1919) - musicazione Enrico Miaroma - L’abbandono, Sete Lucia Palaoro - The Nightflyer, “Angelus ad Virginem”, Erich von Stroheim: “Blind Husbands” (1919) - musicazione Maurizio Postai - Erich von Stroheim: “Blind Husbands” (1919) - musicazione Nicola Segatta - Concerto di Natale Andrea Ziviani - Pastorale, Erich von Stroheim: “Blind Husbands” (1919) - musicazione  </description>
     </item>
     
     <item>
-      <title>Concerti</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/archivio/archivio/</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://pietrofranceschi.github.io/Filarmonici/archivio/archivio/</guid>
-      <description> 2018  Concerti di Natale Requiem Nei Monti L.V. Beethoven – Sinfonia n°9 Concerto Sinfonico – Abano Terme L. Cherubini – Messa da Requiem in Do Minore Concerto Lirico: “o Soave Fanciulla”  2017  Natale in Duomo Concerti di Natale P.I. Tchaikovsky Concerto per Violino L.v. Beethoven Sinfonia n.9 G. Verdi – Messa da Requiem  2016  Natale in Duomo Concerti di Natale TEDxTrento Requem di Verdi - Maggio Requiem di Verdi - Giugno Concerto Lirico  2015  Natale in Duomo Concerto di Natale Concerto Sinfonico - Novembre Gemellaggio con Kepten Concerto Sinfonico - Maggio Requiem - Livorno Requiem - Marzo Concerto Lirico  2014  Natale in Duomo  2013  Natale in Duomo Concerto di Natale Concerto di Natale per Amnesty International  2012  Natale in Duomo Concerti di Natale  2011  Natale in Duomo Concerti di Natale  2010  Natale in Duomo Concerto di Natale  2009  Natale in Duomo Concerti di Natale  2008  Natale in Duomo Concerti di Natale  </description>
-    </item>
-    
-    <item>
       <title>Concerti di Natale</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/2008/concerti_natale/</link>
+      <link>https://www.filarmonicitrento.it/2008/concerti_natale/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/2008/concerti_natale/</guid>
+      <guid>https://www.filarmonicitrento.it/2008/concerti_natale/</guid>
       <description>Lasino - Chiesa Parrocchiale - Domenica 14 Dicembre, ore 20:30 Strigno - Chiesa Parrocchiale - Domenica 21 Dicembre, ore 21:00 
 Programma
  Felix Mendelssohn - Ouverture &amp;ldquo;Le grotte di Fingal&amp;rdquo; (Ebridi) Fabio Conti et al. (Arr.) - Canti natalizi   Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento Coro &amp;ldquo;La Gagliarda&amp;rdquo; di Calavino   Soprano Solista: Isabella Pisoni  Direttore: Fabrizio Cunial</description>
@@ -73,10 +145,10 @@ Programma
     
     <item>
       <title>Concerti di Natale</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/2009/concerti_natale/</link>
+      <link>https://www.filarmonicitrento.it/2009/concerti_natale/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/2009/concerti_natale/</guid>
+      <guid>https://www.filarmonicitrento.it/2009/concerti_natale/</guid>
       <description>Terlago - Chiesa di S. Andrea - Venerdì, 11 dicembre, ore 20:45 Trento - Chiesa di S. Pio X - Sabato, 19 dicembre, ore 20:45 Andalo - Chiesa Nuova - Martedì, 5 gennaio, ore 21:15 
 Programma
  Arcangelo Corelli - Concerto grosso n. 8 &amp;ldquo;Fatto per la notte di Natale&amp;rdquo; Fabio Conti - &amp;ldquo;L’Angelo e la Stella&amp;rdquo;, Oratorio di Natale (testo: Giuseppe Calliari)   Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento Coro &amp;ldquo;Anzolim de la Tor&amp;rdquo; di Riva del Garda Coro &amp;ldquo;Vincenzo Gianferrari&amp;rdquo; di Trento  Soprano Solista: Maria Pia Molinari</description>
@@ -84,10 +156,10 @@ Programma
     
     <item>
       <title>Concerti di Natale</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/2011/concerti_natale/</link>
+      <link>https://www.filarmonicitrento.it/2011/concerti_natale/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/2011/concerti_natale/</guid>
+      <guid>https://www.filarmonicitrento.it/2011/concerti_natale/</guid>
       <description>Trento - Sala della Circoscrizione San Giuseppe – Santa Chiara - Giovedì, 22 dicembre Levico - Teatro dell&amp;rsquo;Oratorio - Sabato, 7 gennaio 2012 
 Programma
  Sebastiano Evangelista - Ottetto per la Notte di Natale (Prima esecuzione) Francesco Onofrio Manfredini - Concerto per Archi &amp;ldquo;Per il SS. Natale&amp;rdquo; op. 3 n. 12 Edvard Grieg - &amp;ldquo;Aus Holbergs Zeit&amp;rdquo;, Preludio Ludwig van Beethoven - Sinfonia n. 7 in la maggiore op.</description>
@@ -95,10 +167,10 @@ Programma
     
     <item>
       <title>Concerti di Natale</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/2012/concerti_natale/</link>
+      <link>https://www.filarmonicitrento.it/2012/concerti_natale/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/2012/concerti_natale/</guid>
+      <guid>https://www.filarmonicitrento.it/2012/concerti_natale/</guid>
       <description>Trento - Chiesa di S. Pietro - Martedì, 18 dicembre, ore 20:45 Villazzano - Chiesa parrocchiale - Mercoledì, 19 dicembre, ore 20:45 Montevaccino - Centro Civico - Venerdì, 21 dicembre, ore 20:45 Faver - Chiesa Parrocchiale - Domenica, 6 gennaio 
 Programma
  Giovanni Battista Pergolesi - &amp;ldquo;Salve Regina&amp;rdquo; in do minore Nicola Segatta - Concerto di Natale (prima assoluta) Wolfgang Amadeus Mozart - &amp;ldquo;Exultate, Jubilate&amp;rdquo; K. 165 Johannes Brahms - Serenata n.</description>
@@ -106,10 +178,10 @@ Programma
     
     <item>
       <title>Concerti di Natale</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/2016/concerti_natale/</link>
+      <link>https://www.filarmonicitrento.it/2016/concerti_natale/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/2016/concerti_natale/</guid>
+      <guid>https://www.filarmonicitrento.it/2016/concerti_natale/</guid>
       <description>Trento - Basilicata di Santa Maria Maggiore - Sabato 17 Dicembre, ore 20:30 Bolognano d&amp;rsquo;Arco - Chiesa Parrocchiale di Bolognano d&amp;rsquo;Arco - Domenica 18 Dicembre, ore 17:00 Sardagna - Chiesa Parrocchiale di Sardagna - Lunedì 19 Dicembre, ore 20:30 
 Programma
 G. Gabrieli (1557 – 1612)
@@ -119,10 +191,10 @@ G. Gabrieli (1557 – 1612)
     
     <item>
       <title>Concerti di Natale</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/2017/concerti_natale/</link>
+      <link>https://www.filarmonicitrento.it/2017/concerti_natale/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/2017/concerti_natale/</guid>
+      <guid>https://www.filarmonicitrento.it/2017/concerti_natale/</guid>
       <description>Chiesa di Bolognano d&amp;rsquo;Arco - Domenica 17 Dicembre, ore 17:00 Chiesa di Calavino - Venerdì 22 Dicembre, ore 20:30 Chiesa di Mori - Martedì 26 Dicembre, ore 19:00 
 Programma
  F. Conti - &amp;ldquo;L&amp;rsquo;Angelo e la Stella&amp;rdquo; Oratorio di Natale su testi di Giuseppe Calliari P.I. Tchaikowsky - Concerto per violino, op.35   Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento Ensamble Vocale &amp;ldquo;Ad Maiora&amp;rdquo; Coro Polifonico &amp;ldquo;emerald&amp;rdquo; - Michele Weiss   Soprano Solista: Barbara Balduzzi Violino: Maristella Patuzzi  Direttore: Alessandro Arnoldo</description>
@@ -130,10 +202,10 @@ Programma
     
     <item>
       <title>Concerti di Natale</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/2018/concerti_natale/</link>
+      <link>https://www.filarmonicitrento.it/2018/concerti_natale/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/2018/concerti_natale/</guid>
+      <guid>https://www.filarmonicitrento.it/2018/concerti_natale/</guid>
       <description>Bolognano d&amp;rsquo;Arco - Domenica 16 Dicembre, ore 17:00 Lasino - Sabato 22 Dicembre, ore 20:30 
 Programma
  F. Schubert - Sinfonia n°8 - Incompiuta G. Faurè - Masques et Bergamasques W.A. Mozart - &amp;ldquo;Exsultate et Jubilate&amp;rdquo;
@@ -142,10 +214,10 @@ Programma
     
     <item>
       <title>Concerto Lirico</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/2015/concerto_lirico/</link>
+      <link>https://www.filarmonicitrento.it/2015/concerto_lirico/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/2015/concerto_lirico/</guid>
+      <guid>https://www.filarmonicitrento.it/2015/concerto_lirico/</guid>
       <description>Arco, Casinò Municipale, Domenica 18 Gennaio, ore 15:30 Ravina, Teatro Demattè, Sabato 31 Gennaio, ore 21:00 
 Programma
  G. Rossini - “Il Barbiere di Siviglia”, Ouverture W.A. Mozart - “Crudel! Perché finora” (Rizzi – Canins) V. Bellini - “Oh quante volte” (Pichler) A. Catalani - “Ebben? Ne andrò lontana” (Canins) J. Offenbach - “Belle nuit, o nuit d’amour” (Balduzzi – Bortolotti) G. Verdi - “Parigi, o cara” (Pichler – Arnò) G.</description>
@@ -153,10 +225,10 @@ Programma
     
     <item>
       <title>Concerto Lirico - o soave Fanciulla</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/2018/soave_fanciulla/</link>
+      <link>https://www.filarmonicitrento.it/2018/soave_fanciulla/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/2018/soave_fanciulla/</guid>
+      <guid>https://www.filarmonicitrento.it/2018/soave_fanciulla/</guid>
       <description>Arco, Casinò Municipale, venerdì 2 giugno, ore 20:45 Villazzano, Teatro, sabato 10 giugno, ore 20:45 
 Programma
 G. Bizet (1838-1875) - Carmen Suite n°1
@@ -165,10 +237,10 @@ G. Bizet (1838-1875) - Carmen Suite n°1
     
     <item>
       <title>Concerto Sinfonico</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/2015/sinfonico_maggio/</link>
+      <link>https://www.filarmonicitrento.it/2015/sinfonico_maggio/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/2015/sinfonico_maggio/</guid>
+      <guid>https://www.filarmonicitrento.it/2015/sinfonico_maggio/</guid>
       <description>Rovereto - Sala della Filarmonica - Sabato 23 Maggio, ore 20:45 Trento - MUSE - Sabato 6 Giugno, ore 20:45 
 Programma
  L. van Beethoven - Ouverture “Coriolano” op. 62 L. van Beethoven - Concerto per pianoforte e orchestra n. 3 in do min. op. 35 F Schubert - Sinfonia n. 3 in re magg. D 200   Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento   Pianoforte: Art Marika</description>
@@ -176,10 +248,10 @@ Programma
     
     <item>
       <title>Concerto Sinfonico</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/2015/sinfonico_novembre/</link>
+      <link>https://www.filarmonicitrento.it/2015/sinfonico_novembre/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/2015/sinfonico_novembre/</guid>
+      <guid>https://www.filarmonicitrento.it/2015/sinfonico_novembre/</guid>
       <description>Trento - Sala della Filarmonica - Domenica 22 Novembre, ore 18:00 Bolognano d&amp;rsquo;Arco - Domenica 20 Dicembre, ore 17:00 
 Programma
  G. Faurè - Masques et Bergamasques op. 112 R. Schumann - Concerto per violoncello e orchestra op. 129 F. Mendelssohn - Ouverture Le Ebridi (La grotta di Fingal) op. 26   Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento   Violoncello: Klaus Broz
@@ -188,10 +260,10 @@ Programma
     
     <item>
       <title>Concerto di Natale</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/2010/concerto_natale/</link>
+      <link>https://www.filarmonicitrento.it/2010/concerto_natale/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/2010/concerto_natale/</guid>
+      <guid>https://www.filarmonicitrento.it/2010/concerto_natale/</guid>
       <description>Trento - Chiesa di S. Pio X - Giovedì, 23 dicembre, ore 20:30 
 Programma
  Antonio Vivaldi - Concerto in fa maggiore op. 10 Rv 433 &amp;ldquo;La tempesta di mare&amp;rdquo; per flauto, orchestra d&amp;rsquo;archi e cembalo Antonio Vivaldi - Concerto in sol minore op. 10 Rv 439 &amp;ldquo;La notte&amp;rdquo; per flauto, orchestra d&amp;rsquo;archi e cembalo Johann Sebastian Bach - Suite n. 2 in si minore BWV 1067 per flauto, orchestra d&amp;rsquo;archi e cembalo Fabrizio Cunial (arr.</description>
@@ -199,10 +271,10 @@ Programma
     
     <item>
       <title>Concerto di Natale</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/2013/concerto_natale/</link>
+      <link>https://www.filarmonicitrento.it/2013/concerto_natale/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/2013/concerto_natale/</guid>
+      <guid>https://www.filarmonicitrento.it/2013/concerto_natale/</guid>
       <description>Trento - Chiesa di S. Pietro - Martedì, 17 dicembre, ore 20:30 
 Programma
  Georg Friedrich Händel - Suite n. 2 della &amp;ldquo;Water Music&amp;rdquo;, Allegro, Alla Hornpipe Camille Saint-Saëns - Oratorio de Noel op. 12 (selezione) Marcel Grandjany - Aria in stile classica per arpa e orchestra Camille Saint-Saëns - Coeli Enarrant op. 42, Introduction et choeur Wolfgang Amadeus Mozart - Laudate Dominum John Rutter - Christmas Lullaby Lucia Palaoro - Personent Hodie Adolphe Adam - O Holy Night Lucia Palaoro - In dulci jubilo Georg Friedrich Händel - Halleluja (dal &amp;ldquo;Messiah&amp;rdquo;) Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento</description>
@@ -210,10 +282,10 @@ Programma
     
     <item>
       <title>Concerto di Natale per Amnesty International</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/2013/concerto_natale_amnesty_international/</link>
+      <link>https://www.filarmonicitrento.it/2013/concerto_natale_amnesty_international/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/2013/concerto_natale_amnesty_international/</guid>
+      <guid>https://www.filarmonicitrento.it/2013/concerto_natale_amnesty_international/</guid>
       <description>Rovereto - Chiesa Madonna di Loreto - Sabato, 14 dicembre, ore 20:45 
 Programma
  Camille Saint-Saëns - Oratorio de Noel op. 12 (selezione) Marcel Grandjany - Aria in stile classica per arpa e orchestra Camille Saint-Saëns - Coeli Enarrant op. 42, Introduction et choeur Wolfgang Amadeus Mozart - Laudate Dominum John Rutter - Christmas Lullaby Lucia Palaoro - Personent Hodie Adolphe Adam - O Holy Night Lucia Palaoro - In dulci jubilo Georg Friedrich Händel - Halleluja (dal &amp;ldquo;Messiah&amp;rdquo;) Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento</description>
@@ -221,10 +293,10 @@ Programma
     
     <item>
       <title>Concerto lirico </title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/2016/concerto_lirico/</link>
+      <link>https://www.filarmonicitrento.it/2016/concerto_lirico/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/2016/concerto_lirico/</guid>
+      <guid>https://www.filarmonicitrento.it/2016/concerto_lirico/</guid>
       <description>Rovereto - Sala della Filarmonica - Domenica 5 Giugno, ore 20:30 
 Programma
  W.A. Mozart - da &amp;ldquo;La Clemenza di Tito&amp;rdquo; – Ouverture J. Offenbach - da &amp;ldquo;Les Contes d&amp;rsquo;Hoffmann&amp;rdquo; – Les oiseaux dans la charmille – soprano G. Puccini - da &amp;ldquo;Gianni Schicchi&amp;rdquo; – O mio babbino caro – soprano G. Donizetti - da &amp;ldquo;Don Pasquale&amp;rdquo; – Bella siccome un angelo – tenore G. Puccini - da &amp;ldquo;Tosca&amp;rdquo; – E lucean le stelle – tenore G.</description>
@@ -232,10 +304,10 @@ Programma
     
     <item>
       <title>Concerto per Violino</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/2017/concerto_violino_patuzzi/</link>
+      <link>https://www.filarmonicitrento.it/2017/concerto_violino_patuzzi/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/2017/concerto_violino_patuzzi/</guid>
+      <guid>https://www.filarmonicitrento.it/2017/concerto_violino_patuzzi/</guid>
       <description>Nuovo Teatro di Villazzano - Sabato 25 Novembre, ore 20:30 Sala Filarmonica di Trento - Sabato 2 Dicembre, ore 20:30 sala filarmonica di Rovereto - Domenica 3 Dicembre, ore 18:00 
 Programma
  F. Schubert - Sinfonia n.3 in re maggiore, D 200 P.I. Tchaikowsky - Concerto per violino in re maggiore, op.35   Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento   Violino: Maristella Patuzzi  Direttori: Manuel Martinez Alvarez Nava, Simone Zuccati</description>
@@ -243,19 +315,19 @@ Programma
     
     <item>
       <title>Direttori</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/direttori/</link>
+      <link>https://www.filarmonicitrento.it/direttori/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/direttori/</guid>
+      <guid>https://www.filarmonicitrento.it/direttori/</guid>
       <description> M° Alessandro Arnoldo M° Mauro Roveri M° Daniela Contessi M° Andrea Albertin M° Fabrizio Cunial M° Nicola Fasano M° Sergio Lasaponara M° Maurizio Postai M° Italo Rizzi M° Stefano Torboli M° Gabriele Di Toma M° Fernando G. Swiech  </description>
     </item>
     
     <item>
       <title>Gemellaggio con Kempten</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/2015/gemellaggio_kempten/</link>
+      <link>https://www.filarmonicitrento.it/2015/gemellaggio_kempten/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/2015/gemellaggio_kempten/</guid>
+      <guid>https://www.filarmonicitrento.it/2015/gemellaggio_kempten/</guid>
       <description>Trento - Sala della Filarmonica - Sabato 26 Settembre, ore 18:00 
 Programma
  G. Rossini - Ouverture dal &amp;ldquo;Barbiere di Siviglia&amp;rdquo; Alt-Kemptener Blas- und Swing-Musik di Kempten con un programma misto preceduto da un’esibizione dei corni alpini (Alphorn)   Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento Alt-Kemptener Blas- und Swing-Musik di Kempten   Direttore: Alessandro Arnoldo,</description>
@@ -263,20 +335,20 @@ Programma
     
     <item>
       <title>I Filarmonici di Trento</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/curriculum/curriculum/</link>
+      <link>https://www.filarmonicitrento.it/curriculum/curriculum/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/curriculum/curriculum/</guid>
+      <guid>https://www.filarmonicitrento.it/curriculum/curriculum/</guid>
       <description>Fin dalla sua fondazione nel 1999, l’Orchestra “I Filarmonici” ha inteso creare uno spazio dedicato ai cultori della musica che desiderino bilanciare lo studio del repertorio e le pubbliche esecuzioni. L’Orchestra e’ costituita da trenta musicisti non professionisti provenienti da vari centri del Trentino, che si ritrovano con cadenza settimanale, presso la Sala della Filarmonica a Trento. L’attività si articola generalmente attorno a tre progetti annuali.
 Su queste basi “I Filarmonici” hanno stretto importanti collaborazioni artistiche con altre Associazioni attive sul territorio, facendosi promotori di progetti culturali innovativi, volti a valorizzare le energie creative ed artistiche presenti sul territorio.</description>
     </item>
     
     <item>
       <title>L. v. Beethoven - Sinfonia n° 9</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/2018/beethoven_9_soligo/</link>
+      <link>https://www.filarmonicitrento.it/2018/beethoven_9_soligo/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/2018/beethoven_9_soligo/</guid>
+      <guid>https://www.filarmonicitrento.it/2018/beethoven_9_soligo/</guid>
       <description>Duomo di Pieve di Soligo - Venerdì 2 Novembre, ore 20:30 
 Programma
  L. van Beethoven - Sinfonia n° 9   Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento Coro &amp;ldquo;Città di Piazzola sul Brenta&amp;rdquo; Coro &amp;ldquo;I Polifonici Vicentini   Soprano: Luciana Pansa Mezzosoprano: Michela Bregantin Tenore: Danilo Formaggia Basso: Maurizio Franceschetti  Direttore: Gabriele Di Toma</description>
@@ -284,19 +356,19 @@ Programma
     
     <item>
       <title>Media</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/media/media/media/</link>
+      <link>https://www.filarmonicitrento.it/media/media/media/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/media/media/media/</guid>
+      <guid>https://www.filarmonicitrento.it/media/media/media/</guid>
       <description>   </description>
     </item>
     
     <item>
       <title>Mozart - Requiem</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/2015/requiem_livorno/</link>
+      <link>https://www.filarmonicitrento.it/2015/requiem_livorno/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/2015/requiem_livorno/</guid>
+      <guid>https://www.filarmonicitrento.it/2015/requiem_livorno/</guid>
       <description>Livorno - Teatro Goldoni - Sabato 18 Aprile, ore 20:45 
 Programma
  W.A. Mozart - Ouverture da “Don Giovanni” KV 527 W.A. Mozart - Messa di Requiem KV 626   Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento Coro “Accademia Vocale Città di Livorno”   Anna D’Acunto, soprano Patrizia Amoretti, contralto Carlo Messeri, tenore Antonio Menicucci, basso   Direttore: Daniela Contessi</description>
@@ -304,10 +376,10 @@ Programma
     
     <item>
       <title>Mozart - Requiem</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/2015/requiem_marzo/</link>
+      <link>https://www.filarmonicitrento.it/2015/requiem_marzo/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/2015/requiem_marzo/</guid>
+      <guid>https://www.filarmonicitrento.it/2015/requiem_marzo/</guid>
       <description>Trento - S. Maria Maggiore - Sabato 21 Marzo, ore 20:45 Padova - S. Sofia - Domenica 22 Marzo, ore 20:45 
 Programma
  W.A. Mozart - Messa di Requiem KV 626   Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento Coro Città di Piazzola sul Brenta” - Paolo Piana   Anna Malvasio, soprano Eugenia Zuin, contralto Cristiano Didonè, tenore Claudio Zancopè, basso   Direttore: Mauro Roveri</description>
@@ -315,10 +387,10 @@ Programma
     
     <item>
       <title>Natale in Duomo</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/2008/natale_duomo/</link>
+      <link>https://www.filarmonicitrento.it/2008/natale_duomo/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/2008/natale_duomo/</guid>
+      <guid>https://www.filarmonicitrento.it/2008/natale_duomo/</guid>
       <description>Duomo di Trento - Mercoledì 24 Dicembre, ore 23:30 
 Programma
  Fabio Conti (Arr.) - Veni Emanuel&amp;rdquo; Fabio Conti (Arr.) - Quem vidistis pastores Henry Purcell - Sound the trumpet Johannes Brahms - Ninna nanna Franz Xaver Gruber - Stille Nacht   Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento Coro &amp;ldquo;La Gagliarda&amp;rdquo;  Direttore: Fabrizio Cunial</description>
@@ -326,10 +398,10 @@ Programma
     
     <item>
       <title>Natale in Duomo</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/2009/natale_duomo/</link>
+      <link>https://www.filarmonicitrento.it/2009/natale_duomo/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/2009/natale_duomo/</guid>
+      <guid>https://www.filarmonicitrento.it/2009/natale_duomo/</guid>
       <description>Duomo di Trento - Giovedì 24 Dicembre, ore 23:30 
 Programma
  Antonio Vivaldi - Concerto op. 10 n. 2 in Sol min. RV 439 &amp;ldquo;La Notte&amp;rdquo; canti natalizi  Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento
@@ -339,10 +411,10 @@ Direttore: Fabrizio Cunial</description>
     
     <item>
       <title>Natale in Duomo</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/2010/natale_duomo/</link>
+      <link>https://www.filarmonicitrento.it/2010/natale_duomo/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/2010/natale_duomo/</guid>
+      <guid>https://www.filarmonicitrento.it/2010/natale_duomo/</guid>
       <description>Duomo di Trento - Venerdì 24 Dicembre, ore 23:30 
 Programma
  Johann Sebastian Bach - Suite n. 2 in si min. BWV 1067 canti natalizi  Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento
@@ -352,10 +424,10 @@ Direttore: Fabrizio Cunial</description>
     
     <item>
       <title>Natale in Duomo</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/2011/natale_duomo/</link>
+      <link>https://www.filarmonicitrento.it/2011/natale_duomo/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/2011/natale_duomo/</guid>
+      <guid>https://www.filarmonicitrento.it/2011/natale_duomo/</guid>
       <description>Duomo di Trento - Sabato 24 Dicembre, ore 23:30 
 Programma
  Sebastiano Evangelista - Ottetto per la Notte di Natale Andreas Hammerschmidt - Machet die Tore weit (Salmo 24, 7-10) Johannes Brahms - Ninna Nanna Franz Xaver Gruber - Stille Nacht  Ottetto dell&amp;rsquo;Orchestra &amp;ldquo;I Filarmonici&amp;rdquo;
@@ -364,10 +436,10 @@ Programma
     
     <item>
       <title>Natale in Duomo</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/2012/natale_duomo/</link>
+      <link>https://www.filarmonicitrento.it/2012/natale_duomo/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/2012/natale_duomo/</guid>
+      <guid>https://www.filarmonicitrento.it/2012/natale_duomo/</guid>
       <description>Duomo di Trento - Lunedì 24 Dicembre, ore 23:30 
 Programma
  Andreas Hammerschmidt - Machet die Tore weit (Salmo 24,7) Nicola Segatta - Concerto di Natale Johannes Brahms - Ninna Nanna Franz Xaver Gruber - Stille Nacht  Gruppo cameristico dell&amp;rsquo;Orchestra &amp;ldquo;I Filarmonici&amp;rdquo;
@@ -376,10 +448,10 @@ Programma
     
     <item>
       <title>Natale in Duomo</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/2013/natale_duomo/</link>
+      <link>https://www.filarmonicitrento.it/2013/natale_duomo/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/2013/natale_duomo/</guid>
+      <guid>https://www.filarmonicitrento.it/2013/natale_duomo/</guid>
       <description>Duomo di Trento - Martedì, 24 Dicembre, ore 23:30 
 Programma
  W. A. Mozart - Quartetti per flauto, violino, viola e violoncello in Do magg. KV 285b e in La magg. KV 298 Canti natalizi  Gruppo cameristico dell&amp;rsquo;Orchestra &amp;ldquo;I Filarmonici&amp;rdquo;
@@ -388,10 +460,10 @@ Programma
     
     <item>
       <title>Natale in Duomo</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/2014/natale_duomo/</link>
+      <link>https://www.filarmonicitrento.it/2014/natale_duomo/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/2014/natale_duomo/</guid>
+      <guid>https://www.filarmonicitrento.it/2014/natale_duomo/</guid>
       <description>Duomo di Trento - Mercoledì, 24 Dicembre, ore 23:30 
 Programma
  Andrea Ziviani - Il Racconto di Natale – Il Canto di Natale di Topolino – Stille Nacht  Sestetto dell&amp;rsquo;Orchestra &amp;ldquo;I Filarmonici&amp;rdquo;
@@ -400,10 +472,10 @@ Programma
     
     <item>
       <title>Natale in Duomo</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/2015/natale_duomo/</link>
+      <link>https://www.filarmonicitrento.it/2015/natale_duomo/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/2015/natale_duomo/</guid>
+      <guid>https://www.filarmonicitrento.it/2015/natale_duomo/</guid>
       <description>Duomo di Trento - Giovedì, 24 Dicembre, ore 23:30 
 Programma
  Andrea Ziviani - &amp;ldquo;Pastorale&amp;rdquo; per flauto, clarinetto, corno e quartetto d&amp;rsquo;archi W. A. Mozart - Larghetto dal Quintetto per clarinetto e archi in la maggiore KV 581 J. Stainer (arr.) - The first Nowell F. X. Gruber - Stille Nacht  Settimino dell&amp;rsquo;Orchestra &amp;lsquo;I Filarmonici&amp;rsquo;
@@ -412,10 +484,10 @@ Programma
     
     <item>
       <title>Natale in Duomo</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/2017/natale_duomo/</link>
+      <link>https://www.filarmonicitrento.it/2017/natale_duomo/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/2017/natale_duomo/</guid>
+      <guid>https://www.filarmonicitrento.it/2017/natale_duomo/</guid>
       <description>Duomo di Trento - Domenica 24 Dicembre, ore 23:30 
 Programma
  F. Conti - Dalla Parte dei Pastori, dall&amp;rsquo;Oratorio &amp;ldquo;L&amp;rsquo;Angelo e la Stella&amp;rdquo; su testi di Giuseppe Calliari  Esecutori
@@ -424,24 +496,24 @@ Programma
     
     <item>
       <title>Organico</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/organico/organico/</link>
+      <link>https://www.filarmonicitrento.it/organico/organico/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/organico/organico/</guid>
+      <guid>https://www.filarmonicitrento.it/organico/organico/</guid>
       <description>Violini I: Gianni Romagnoli, Paolo Segatta, Luisa Giarrizzo, Emma Gasperi, Isabella Sito, Valentina Premier, Antonio Papapietro, Giulia Gaggero, Viviana Miorelli, Jorg Schwalm
 Violini II: Francesca Chemolli, Mario Lullo, Lorenzo Sartori, Arianna, Baldo, Giovanna Ferrari, Alessandra Fruet, Elisa Libardi, Wolfgang Irler, Giuseppe De Nisi, Lisa Folcato, Giulio Robol, Rita Festi
 Viole: Chizuru Deguchi, Isabella Corbolini, Alessandro Gaddo
 Violoncelli: Silvano Zanoni, Osvaldo Demozzi, Elena Chini
 Contrabbassi: Michele Tovazzi
-Flauti: Salvatore Lucci, Anna Baldessarini, Federica Andretti</description>
+Flauti: Salvatore Lucci, Francesca</description>
     </item>
     
     <item>
       <title>Requiem Nei Monti</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/2018/requiem_nei_monti/</link>
+      <link>https://www.filarmonicitrento.it/2018/requiem_nei_monti/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/2018/requiem_nei_monti/</guid>
+      <guid>https://www.filarmonicitrento.it/2018/requiem_nei_monti/</guid>
       <description>Duomo di Trento - Sabato 24 Novembre, ore 20:30 Convento di Gries - Domenica 25 Novembre, ore 16:00 
 Programma
  Giovanni Veneri - Requiem Nei Monti   Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento Coro &amp;ldquo;Coronelle&amp;rdquo; di Cavalese Coro &amp;ldquo;Città di Ala Coro &amp;ldquo;Monti Pallidi&amp;rdquo; di Laives  Direttore: Alessandro Arnoldo</description>
@@ -449,10 +521,10 @@ Programma
     
     <item>
       <title>Requiem di Cherubini</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/2018/cherubini_requiem/</link>
+      <link>https://www.filarmonicitrento.it/2018/cherubini_requiem/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/2018/cherubini_requiem/</guid>
+      <guid>https://www.filarmonicitrento.it/2018/cherubini_requiem/</guid>
       <description>Padova, Aula Magna del Palazzo del Bo, domenica 15 Aprile, ore 15:00 Lavis, Chiesa Parrocchiale, Sabato 21 Aprile, ore 21:00 Trento, Chiesa di S. Francesco Saverio, domenica 22 Aprile, ore 18:30 Piove di Sacco, S. Madonna delle Grazie, venerdì 4 Maggio, ore 21:00 
 Programma
  L. Cherubini - Requiem in Do Minore   Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento Orchestra del &amp;ldquo;Concentus Musicus Patavinus&amp;rdquo; Corale Polifonica di Lavis - Mariano Ognibeni Coro Grande del &amp;ldquo;Concentus Musicus Patavinus&amp;rdquo; - Antonio Bortolami Coro Polifonico di Piove di Sacco - Raffaele Biasin  Maestri Concertatori: Alessandro Arnoldo, Mauro Roveri</description>
@@ -460,19 +532,19 @@ Programma
     
     <item>
       <title>Solisti</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/solisti/</link>
+      <link>https://www.filarmonicitrento.it/solisti/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/solisti/</guid>
-      <description> Daniele Anderle, violino Ovidiu Badila, contrabbasso Klaus Broz, violoncello Regina Chernychko, pianoforte Stefano Chesini, flauto Mladen Dabizljevic, pianoforte Stefano Guarino, violoncello Art Marika, pianoforte Federica Marini, pianoforte Stefano Miceli, pianoforte Maristella Patuzzi, violino Stefano Rattini, organo Walter Salin, chitarra Francesca Temporin, violino Simone Webber, organo  </description>
+      <guid>https://www.filarmonicitrento.it/solisti/</guid>
+      <description> Teofil Milenkovic, violino Daniele Lasta, pianoforte Daniele Anderle, violino Ovidiu Badila, contrabbasso Klaus Broz, violoncello Regina Chernychko, pianoforte Stefano Chesini, flauto Mladen Dabizljevic, pianoforte Stefano Guarino, violoncello Art Marika, pianoforte Federica Marini, pianoforte Stefano Miceli, pianoforte Maristella Patuzzi, violino Stefano Rattini, organo Walter Salin, chitarra Francesca Temporin, violino Simone Webber, organo  </description>
     </item>
     
     <item>
       <title>TEDxTrento</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/2016/tedxtrento/</link>
+      <link>https://www.filarmonicitrento.it/2016/tedxtrento/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/2016/tedxtrento/</guid>
+      <guid>https://www.filarmonicitrento.it/2016/tedxtrento/</guid>
       <description>Teatro Auditorium Santa Chiara - Lunedì 27 Novembre, ore 10:00 
 Programma
  G. Puccini - &amp;ldquo;Nessun dorma&amp;rdquo; da Turandot   Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento Classe di Canto Lirico di Sabrina Modena (SMAG, Riva del Garda)   Tenore Solista: Filippo Nardin  Direttore: Alessandro Arnoldo</description>
@@ -480,10 +552,10 @@ Programma
     
     <item>
       <title>Verdi - Messa da Requiem</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/2017/verdi_requiem/</link>
+      <link>https://www.filarmonicitrento.it/2017/verdi_requiem/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/2017/verdi_requiem/</guid>
+      <guid>https://www.filarmonicitrento.it/2017/verdi_requiem/</guid>
       <description>Este, Basilica di S. Maria delle Grazie - Sabato 6 Maggio, ore 20:45 Padova, Basilica di S. Giustina - Sabato 13 Maggio, ore 21:00 Trento, Chiesa di S. Francesco Saverio - Domenica 14 Maggio, ore 18:30 
 Programma
  G. Verdi - Requiem   Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento Coro &amp;ldquo;Città di Piazzola sul Brenta&amp;rdquo; - Paolo Piana   Soprano: Rosanna Lo Greco Mezzosoprano: Chiara Fracasso Tenore: Camillo Facchino Basso: Maurizio Franceschetti  Maestri concertatori: Alessandro Arnoldo, Mauro Roveri</description>
@@ -491,10 +563,10 @@ Programma
     
     <item>
       <title>Verdi Requiem - giugno</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/2016/verdi_requiem_giugno/</link>
+      <link>https://www.filarmonicitrento.it/2016/verdi_requiem_giugno/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/2016/verdi_requiem_giugno/</guid>
+      <guid>https://www.filarmonicitrento.it/2016/verdi_requiem_giugno/</guid>
       <description>Hamburg - St. Johannis Kulturkirche Altona - Sabato 25 Giugno, ore 20:30 Glückstadt - Stadtkirche Glückstadt - Domenica 26 Giugno, ore 16:30 
 Programma
  G. Verdi - Messa da Requiem   Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento Coro Città di Piazzola sul Brenta Chor der Friedenskirche, Hamburg Kammerorchester St. Pauli, Hamburg Classe di Canto Lirico di Sabrina Modena (SMAG, Riva del Garda)   Solisti: Rosanna Lo Greco (Soprano), Eugenia Zuin (Mezzosoprano), Riccardo Gatto (Tenore), Maurizio Franceschetti (Basso)</description>
@@ -502,10 +574,10 @@ Programma
     
     <item>
       <title>Verdi Requiem - maggio</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/2016/verdi_requiem_maggio/</link>
+      <link>https://www.filarmonicitrento.it/2016/verdi_requiem_maggio/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/2016/verdi_requiem_maggio/</guid>
+      <guid>https://www.filarmonicitrento.it/2016/verdi_requiem_maggio/</guid>
       <description>Piazzola sul Brenta - Duomo - Venerdì 20 Maggio, ore 21:00 Trento - Teatro Sociale - Sabato 21 Maggio, ore 20:30 
 Programma
  G. Verdi - Messa da Requiem   Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento Coro Città di Piazzola sul Brenta Chor der Friedenskirche, Hamburg Kammerorchester St. Pauli, Hamburg Classe di Canto Lirico di Sabrina Modena (SMAG, Riva del Garda)   Solisti: Rosanna Lo Greco (Soprano), Eugenia Zuin (Contralto 20&amp;frasl;05), Luciana Pansa (Contralto 21&amp;frasl;05), Paolo Antognetti (Tenore), Maurizio Franceschetti (Basso)</description>
@@ -513,10 +585,10 @@ Programma
     
     <item>
       <title>concerto Sinfonico</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/2018/sinfonico_abano/</link>
+      <link>https://www.filarmonicitrento.it/2018/sinfonico_abano/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/2018/sinfonico_abano/</guid>
+      <guid>https://www.filarmonicitrento.it/2018/sinfonico_abano/</guid>
       <description>Abano Terme - Sabato 22 Giugno, ore 21:00 
 Programma
  L.v Beethoven - Sinfonia n°1 P.I. Tchaikowsky - Concerto per violino, op.35   Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento Maristella Patuzzi, violino  Direttore: Andrea Albertin</description>
@@ -524,25 +596,34 @@ Programma
     
     <item>
       <title>Concerti di Natale</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/service/inevidenza/</link>
+      <link>https://www.filarmonicitrento.it/service/inevidenza/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/service/inevidenza/</guid>
+      <guid>https://www.filarmonicitrento.it/service/inevidenza/</guid>
       <description>  </description>
     </item>
     
     <item>
       <title>Contatti</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/contatti/contatti/</link>
+      <link>https://www.filarmonicitrento.it/contatti/contatti/</link>
       <pubDate>Mon, 17 Jun 2013 12:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/contatti/contatti/</guid>
+      <guid>https://www.filarmonicitrento.it/contatti/contatti/</guid>
       <description> 
 “I Filarmonici” di Trento - Associazione Culturale c/o Società filarmonica di Trento,
 Via Verdi, 30
 38121 Trento, Italia
 
 Consiglio Direttivo  Pietro Franceschi - presidente Roberto Guastamacchia - tesoriere Emma Gasperi Irene Metere Francesca Chemolli Paolo Segatta Osvaldo Demozzi  Direzione Artistica  Alessandro Arnoldo  </description>
+    </item>
+    
+    <item>
+      <title>Concerti</title>
+      <link>https://www.filarmonicitrento.it/archivio/archivio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.filarmonicitrento.it/archivio/archivio/</guid>
+      <description>2020  Concerto Sinfonico - Bergamo E lucevan le stelle  2019  Natale in Duomo Concerti di Natale Concerto per i Vent&amp;rsquo;anni Galà Concerto - Fondazione Lucarelli Irion Capolavori in Orchestra - Lugano  2018  Concerti di Natale Requiem Nei Monti L.V. Beethoven – Sinfonia n°9 Concerto Sinfonico – Abano Terme L. Cherubini – Messa da Requiem in Do Minore Concerto Lirico: “o Soave Fanciulla”  2017  Natale in Duomo Concerti di Natale P.</description>
     </item>
     
   </channel>

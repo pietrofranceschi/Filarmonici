@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Organicos on I Filarmonici di Trento</title>
-    <link>https://pietrofranceschi.github.io/Filarmonici/organico/</link>
+    <link>https://www.filarmonicitrento.it/organico/</link>
     <description>Recent content in Organicos on I Filarmonici di Trento</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <lastBuildDate>Fri, 22 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://pietrofranceschi.github.io/Filarmonici/organico/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.filarmonicitrento.it/organico/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Organico</title>
-      <link>https://pietrofranceschi.github.io/Filarmonici/organico/organico/</link>
+      <link>https://www.filarmonicitrento.it/organico/organico/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/Filarmonici/organico/organico/</guid>
+      <guid>https://www.filarmonicitrento.it/organico/organico/</guid>
       <description>Violini I: Gianni Romagnoli, Paolo Segatta, Luisa Giarrizzo, Emma Gasperi, Isabella Sito, Valentina Premier, Antonio Papapietro, Giulia Gaggero, Viviana Miorelli, Jorg Schwalm
 Violini II: Francesca Chemolli, Mario Lullo, Lorenzo Sartori, Arianna, Baldo, Giovanna Ferrari, Alessandra Fruet, Elisa Libardi, Wolfgang Irler, Giuseppe De Nisi, Lisa Folcato, Giulio Robol, Rita Festi
 Viole: Chizuru Deguchi, Isabella Corbolini, Alessandro Gaddo
 Violoncelli: Silvano Zanoni, Osvaldo Demozzi, Elena Chini
 Contrabbassi: Michele Tovazzi
-Flauti: Salvatore Lucci, Anna Baldessarini, Federica Andretti</description>
+Flauti: Salvatore Lucci, Francesca</description>
     </item>
     
   </channel>
