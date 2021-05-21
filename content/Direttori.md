@@ -16,5 +16,6 @@ title = "Direttori"
 * M° Stefano Torboli
 * M° Gabriele Di Toma
 * M° Fernando G. Swiech
+* M° Michele Patuzzi
 
 

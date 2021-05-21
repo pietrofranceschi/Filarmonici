@@ -1,7 +1,7 @@
 +++
 
 date = "2021-05-14"
-title = "Capolavori per Orchestra - Ceresio Estate - Lugano"
+title = "Ceresio Estate - Lugano"
 
 +++
 
@@ -31,3 +31,8 @@ Direttore: *Michele Patuzzi*
 
 ---
 
+<center>
+
+{{< figure src="../../images/lugano.jpeg" width="500px">}}
+
+</center>

@@ -1,7 +1,7 @@
 +++
 
 date = "2021-05-14"
-title = "Concerto inaugurale della 116ma Stagione Concertistica 2020 - Bergamo"
+title = "Società del Quartetto 2020 - Bergamo"
 
 +++
 
@@ -31,3 +31,8 @@ Direttore: *Michele Patuzzi*
 
 ---
 
+<center>
+
+{{< figure src="../../images/bergamo.jpeg" width="500px">}}
+
+</center>

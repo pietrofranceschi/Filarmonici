@@ -57,12 +57,17 @@ relativeURLs = "False"
 [[menu.main]]
     name = "Media"
     url = "/media/"
-    weight = 5
+    weight = 6
 
 [[menu.main]]
     name = "Contatti"
     url = "/contatti/"
-    weight = 5
+    weight = 7
+
+[[menu.main]]  
+    name = "Parti"
+    url = "https://www.filarmonicitrento.it/restricted/"
+    weight = 7
 
 
 

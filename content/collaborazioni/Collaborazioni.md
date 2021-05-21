@@ -15,6 +15,6 @@ Numerose sono state le collaborazioni artistiche con altre associazioni cultural
 ---
 <center>
 
-|[**Solisti**]({{< ref "../Solisti.md" >}}) | [**Cantanti**]({{< ref "../Cantanti.md" >}}) | [**Compositori**]({{< ref "../Compositori.md" >}}) | [**Direttori**]({{< ref "../Direttori.md" >}}) |
+|[**Solisti**]({{< ref "../Solisti.md" >}}) | [**Cantanti**]({{< ref "../Cantanti.md" >}}) | [**Compositori**]({{< ref "../Compositori.md" >}}) | [**Direttori**]({{< ref "../Direttori.md" >}}) | [**Formazioni Corali ed Orchestrali**]({{< ref "../Formazioni.md" >}})|
 
 </center>
