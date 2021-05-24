@@ -9,6 +9,10 @@ title = "Contatti"
 c/o Società filarmonica di Trento,  
 Via Verdi, 30  
 38121 Trento, Italia  
+
+
+email: filarmonicitrento[at]gmail.com
+
 </center>
 
 ---
