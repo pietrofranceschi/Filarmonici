@@ -108,3 +108,8 @@ title = "Concerti"
 ## 2008
 * [Natale in Duomo]({{< ref "../2008/Natale_Duomo.md" >}})
 * [Concerti di Natale]({{< ref "../2008/Concerti_Natale.md" >}})
+
+---
+
+## 2005
+* [Festival di Musica Sacra]({{< ref "../2005/festival_musica_sacra.md" >}})

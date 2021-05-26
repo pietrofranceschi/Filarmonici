@@ -178,6 +178,11 @@
   </url>
   
   <url>
+    <loc>https://www.filarmonicitrento.it/2005/festival_musica_sacra/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.filarmonicitrento.it/2008/natale_duomo/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
@@ -275,6 +280,12 @@
   <url>
     <loc>https://www.filarmonicitrento.it/contatti/contatti/</loc>
     <lastmod>2013-06-17T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.filarmonicitrento.it/2005/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
