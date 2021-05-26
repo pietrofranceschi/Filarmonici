@@ -77,6 +77,8 @@ title = "Concerti"
 * [Natale in Duomo]({{< ref "../2013/Natale_Duomo.md" >}})
 * [Concerto di Natale] ({{< ref "../2013/Concerto_Natale.md" >}})
 * [Concerto di Natale per Amnesty International]({{< ref "../2013/Concerto_Natale_Amnesty_International.md" >}})
+* In Viaggio con Mozart
+* Concerto sinfonico
 
 ---
 
@@ -84,12 +86,16 @@ title = "Concerti"
 
 * [Natale in Duomo]({{< ref "../2012/Natale_Duomo.md" >}})
 * [Concerti di Natale]({{< ref "../2012/Concerti_Natale.md" >}})
+* Riflessi Viennesi
+* Concerto Sinfonico 
+* Liederalia
 
 ---
 
 ## 2011
 * [Natale in Duomo]({{< ref "../2011/Natale_Duomo.md" >}})
 * [Concerti di Natale]({{< ref "../2011/Concerti_Natale.md" >}})
+* Dal Valzer viennese alla musica tardoromantica
 
 ---
 
@@ -102,14 +108,98 @@ title = "Concerti"
 ## 2009
 * [Natale in Duomo]({{< ref "../2009/Natale_Duomo.md" >}})
 * [Concerti di Natale]({{< ref "../2009/Concerti_Natale.md" >}})
+* Serata di Inaugurale filmfestival della Montagna
+* L'Angelo e la Stella
 
 ---
 
 ## 2008
 * [Natale in Duomo]({{< ref "../2008/Natale_Duomo.md" >}})
 * [Concerti di Natale]({{< ref "../2008/Concerti_Natale.md" >}})
+* Le Betulle di Satov
 
 ---
 
+## 2007
+* L'organo in Orchestra, dal Barocco al '900
+* Musica per Diletto, musica di qualità
+
+---
+
+## 2006
+
+* Concerto di Natale
+
+---
+
+
 ## 2005
 * [Festival di Musica Sacra]({{< ref "../2005/festival_musica_sacra.md" >}})
+
+---
+
+## 2004
+* Trento e Feldkirch
+* 20° Corale S. Elena
+* Concerto Sinfonico di Primavera
+* Natale in Duomo
+
+---
+
+## 2003
+* Concerto per Favrio
+* Ballo Asburgico
+* Il trionfo del Concerto e della Sinfonia
+* Natale in Duomo
+
+---
+
+## 2002
+* Sinfonico a Venezia
+* Concerto di Natale
+* Stabat Mater
+* Natale in Duomo
+
+---
+
+## 2001
+* I Martedì del Rosmini
+* Concerto Sinfonico a Levico
+* Va' Pensiero 2001
+* Natale in duomo
+
+---
+
+## 2000
+* Eventi per la riapertura del Teatro Sociale 
+* Musica nei Castelli
+* Natale in Duomo
+* Note d'Inverno
+
+---
+
+## 1999
+* 30° della Corale Polifonica di Calceranical al Lago
+* Tione Pianeta Musica
+
+---
+
+## 1998
+* Ricordo di un Amico - Caldonazzo
+* Natale in Duomo
+* concenrto Sinfonico Corale - Firenze
+
+---
+
+## 1997
+* Conerto chiusura - "Minipolifonici"
+* Levico - Sala delle Terme
+
+---
+
+## 1996
+* 6° Incontro delle Scuole Musicali Trentine
+* Feldkirch Sommer 
+* Conerto chiusura - "Minipolifonici"
+* Che diletto suonare in Orchestra
+
