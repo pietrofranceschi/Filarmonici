@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1996s on I Filarmonici di Trento</title>
+    <link>https://www.filarmonicitrento.it/1996/</link>
+    <description>Recent content in 1996s on I Filarmonici di Trento</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <lastBuildDate>Fri, 22 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.filarmonicitrento.it/1996/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Feldkirch Sommer</title>
+      <link>https://www.filarmonicitrento.it/1996/feldkirch/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.filarmonicitrento.it/1996/feldkirch/</guid>
+      <description>Feldkirch (AT) - Sabato 29 Giugno, ore 19:30 
+
+  {</description>
+    </item>
+    
+    <item>
+      <title>Minipolifonici</title>
+      <link>https://www.filarmonicitrento.it/1996/minipolifonici/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.filarmonicitrento.it/1996/minipolifonici/</guid>
+      <description>Trento - Auditorium S. Chiara - Domenica 2 Giugno 
+Programma
+ W.A. Mozart - Sinfonia in Mibem maggiore KV 16 - Allegro J.S. Bach - Suite in Si minore - Badinerie  Orchestra per Diletto
+Flauto: K. Eccli
+Direttore: Fabrizio Cunial</description>
+    </item>
+    
+    <item>
+      <title>Orchestre per Diletto</title>
+      <link>https://www.filarmonicitrento.it/1996/orchestra_per_diletto/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.filarmonicitrento.it/1996/orchestra_per_diletto/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

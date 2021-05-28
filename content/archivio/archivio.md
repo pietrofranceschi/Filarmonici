@@ -187,7 +187,7 @@ title = "Concerti"
 ## 1998
 * Ricordo di un Amico - Caldonazzo
 * Natale in Duomo
-* concenrto Sinfonico Corale - Firenze
+* Concenrto Sinfonico Corale - Firenze
 
 ---
 
@@ -198,8 +198,7 @@ title = "Concerti"
 ---
 
 ## 1996
-* 6° Incontro delle Scuole Musicali Trentine
-* Feldkirch Sommer 
-* Conerto chiusura - "Minipolifonici"
-* Che diletto suonare in Orchestra
+* [Feldkirch Sommer]({{< ref "../1996/feldkirch.md" >}})
+* [Concerto di Chiusura anno scolastico dei "Minipolifonici"]({{< ref "../1996/minipolifonici.md" >}})
+* [Che diletto suonare in Orchestra - Articolo di Stampa]({{< ref "../1996/orchestra_per_diletto.md" >}})
 
