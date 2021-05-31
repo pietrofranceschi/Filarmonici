@@ -13,7 +13,7 @@ title = "Concerti"
 
 ## 2019
 
-* [Natale in Duomo]({{< ref "../2019/concerto_natale.md" >}})
+* [Celebrazione del Natale nel Duomo di Trento]({{< ref "../2019/concerto_natale.md" >}})
 * [Concerti di Natale]({{< ref "../2019/concerto_natale_duomo.md" >}})
 * [Concerto per i Vent'anni]({{< ref "../2019/concerto_ventanni.md" >}})
 * [Galà Concerto - Fondazione Lucarelli Irion]({{< ref "../2019/gala_rovereto.md" >}})
@@ -23,7 +23,7 @@ title = "Concerti"
 
 ## 2018
 
-* [Concerti di Natale]({{< ref "../2018/Concerti_Natale.md" >}})
+* [Celebrazione del Natale nel Duomo di Trento]({{< ref "../2018/Concerti_Natale.md" >}})
 * [Requiem Nei Monti]({{< ref "../2018/Requiem_nei_monti.md" >}})
 * [L.V. Beethoven – Sinfonia n°9]({{< ref "../2018/Beethoven_9_Soligo.md" >}})
 * [Concerto Sinfonico – Abano Terme]({{< ref "../2018/Sinfonico_Abano.md" >}})
@@ -34,7 +34,7 @@ title = "Concerti"
 
 ## 2017
 
-* [Natale in Duomo]({{< ref "../2017/Natale_Duomo.md" >}})
+* [Celebrazione del Natale nel Duomo di Trento]({{< ref "../2017/Natale_Duomo.md" >}})
 * [Concerti di Natale]({{< ref "../2017/Concerti_Natale.md" >}})
 * [P.I. Tchaikovsky Concerto per Violino]({{< ref "../2017/Concerto_Violino_Patuzzi.md" >}})
 * [L.v. Beethoven Sinfonia n.9]({{< ref "../2017/Beethoven_Nona.md" >}})
@@ -44,7 +44,7 @@ title = "Concerti"
 
 ## 2016
 
-* Natale in Duomo
+* Celebrazione del Natale nel Duomo di Trento
 * [Concerti di Natale]({{< ref "../2016/Concerti_Natale.md" >}})
 * [TEDxTrento]({{< ref "../2016/TEDxTrento.md" >}})
 * [Requem di Verdi - Maggio]({{< ref "../2016/Verdi_Requiem_maggio.md" >}})
@@ -55,7 +55,7 @@ title = "Concerti"
 
 ## 2015
 
-* [Natale in Duomo]({{< ref "../2015/Natale_Duomo.md" >}})
+* [Celebrazione del Natale nel Duomo di Trento]({{< ref "../2015/Natale_Duomo.md" >}})
 * Concerto di Natale
 * [Concerto Sinfonico - Novembre]({{< ref "../2015/Sinfonico_Novembre.md" >}})
 * [Gemellaggio con Kepten]({{< ref "../2015/Gemellaggio_Kempten.md" >}})
@@ -68,13 +68,13 @@ title = "Concerti"
 
 ## 2014
 
-* [Natale in Duomo]({{< ref "../2014/Natale_Duomo.md" >}})
+* [Celebrazione del Natale nel Duomo di Trento]({{< ref "../2014/Natale_Duomo.md" >}})
 
 ---
 
 ## 2013
 
-* [Natale in Duomo]({{< ref "../2013/Natale_Duomo.md" >}})
+* [Celebrazione del Natale nel Duomo di Trento]({{< ref "../2013/Natale_Duomo.md" >}})
 * [Concerto di Natale] ({{< ref "../2013/Concerto_Natale.md" >}})
 * [Concerto di Natale per Amnesty International]({{< ref "../2013/Concerto_Natale_Amnesty_International.md" >}})
 * In Viaggio con Mozart
@@ -84,7 +84,7 @@ title = "Concerti"
 
 ## 2012
 
-* [Natale in Duomo]({{< ref "../2012/Natale_Duomo.md" >}})
+* [Celebrazione del Natale nel Duomo di Trento]({{< ref "../2012/Natale_Duomo.md" >}})
 * [Concerti di Natale]({{< ref "../2012/Concerti_Natale.md" >}})
 * Riflessi Viennesi
 * Concerto Sinfonico 
@@ -93,20 +93,20 @@ title = "Concerti"
 ---
 
 ## 2011
-* [Natale in Duomo]({{< ref "../2011/Natale_Duomo.md" >}})
+* [Celebrazione del Natale nel Duomo di Trento]({{< ref "../2011/Natale_Duomo.md" >}})
 * [Concerti di Natale]({{< ref "../2011/Concerti_Natale.md" >}})
 * Dal Valzer viennese alla musica tardoromantica
 
 ---
 
 ## 2010
-* [Natale in Duomo]({{< ref "../2010/Natale_Duomo.md" >}})
+* [Celebrazione del Natale nel Duomo di Trento]({{< ref "../2010/Natale_Duomo.md" >}})
 * [Concerto di Natale]({{< ref "../2010/Concerto_Natale.md" >}})
 
 ---
 
 ## 2009
-* [Natale in Duomo]({{< ref "../2009/Natale_Duomo.md" >}})
+* [Celebrazione del Natale nel Duomo di Trento]({{< ref "../2009/Natale_Duomo.md" >}})
 * [Concerti di Natale]({{< ref "../2009/Concerti_Natale.md" >}})
 * Serata di Inaugurale filmfestival della Montagna
 * L'Angelo e la Stella
@@ -114,7 +114,7 @@ title = "Concerti"
 ---
 
 ## 2008
-* [Natale in Duomo]({{< ref "../2008/Natale_Duomo.md" >}})
+* [Celebrazione del Natale nel Duomo di Trento]({{< ref "../2008/Natale_Duomo.md" >}})
 * [Concerti di Natale]({{< ref "../2008/Concerti_Natale.md" >}})
 * Le Betulle di Satov
 
@@ -142,7 +142,7 @@ title = "Concerti"
 * Trento e Feldkirch
 * 20° Corale S. Elena
 * Concerto Sinfonico di Primavera
-* Natale in Duomo
+* Celebrazione del Natale nel Duomo di Trento
 
 ---
 
@@ -150,7 +150,7 @@ title = "Concerti"
 * Concerto per Favrio
 * Ballo Asburgico
 * Il trionfo del Concerto e della Sinfonia
-* Natale in Duomo
+* Celebrazione del Natale nel Duomo di Trento
 
 ---
 
@@ -158,7 +158,7 @@ title = "Concerti"
 * Sinfonico a Venezia
 * Concerto di Natale
 * Stabat Mater
-* Natale in Duomo
+* Celebrazione del Natale nel Duomo di Trento
 
 ---
 
@@ -166,14 +166,13 @@ title = "Concerti"
 * I Martedì del Rosmini
 * Concerto Sinfonico a Levico
 * Va' Pensiero 2001
-* Natale in duomo
-
+* Celebrazione del Natale nel Duomo di Trento
 ---
 
 ## 2000
-* Eventi per la riapertura del Teatro Sociale 
+* Eventi per la riapertura del Teatro Sociale di Trento
 * Musica nei Castelli
-* Natale in Duomo
+* Celebrazione del Natale nel Duomo di Trento
 * Note d'Inverno
 
 ---
@@ -185,9 +184,9 @@ title = "Concerti"
 ---
 
 ## 1998
-* Ricordo di un Amico - Caldonazzo
-* Natale in Duomo
-* Concerto Sinfonico Corale - Firenze
+* [10° Ricordo di un Amico - Caldonazzo]({{< ref "../1998/concerto_amico.md" >}})
+* [Celebrazione del Natale nel Duomo di Trento]({{< ref "../1998/Natale_Duomo.md" >}})
+* [Concerto Sinfonico Corale - Bagnoa Ripoli, Firenze]({{< ref "../1998/concerto_firenze.md" >}})
 
 ---
 
