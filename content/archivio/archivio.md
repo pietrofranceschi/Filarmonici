@@ -127,7 +127,6 @@ title = "Concerti"
 ---
 
 ## 2006
-
 * Concerto di Natale
 
 ---
@@ -167,6 +166,7 @@ title = "Concerti"
 * Concerto Sinfonico a Levico
 * Va' Pensiero 2001
 * Celebrazione del Natale nel Duomo di Trento
+
 ---
 
 ## 2000
@@ -174,12 +174,12 @@ title = "Concerti"
 * Musica nei Castelli
 * Celebrazione del Natale nel Duomo di Trento
 * Note d'Inverno
+* 30° della Corale Polifonica di Calceranical al Lago
 
 ---
 
 ## 1999
-* 30° della Corale Polifonica di Calceranical al Lago
-* Tione Pianeta Musica
+* [Tione Pianeta Musica]({{< ref "../1999/tione_pianeta_musica.md" >}})
 
 ---
 
