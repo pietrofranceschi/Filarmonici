@@ -178,6 +178,16 @@
   </url>
   
   <url>
+    <loc>https://www.filarmonicitrento.it/1997/levico/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.filarmonicitrento.it/1997/minipolifonici/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.filarmonicitrento.it/2015/requiem_livorno/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
@@ -299,6 +309,12 @@
   
   <url>
     <loc>https://www.filarmonicitrento.it/1996/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.filarmonicitrento.it/1997/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

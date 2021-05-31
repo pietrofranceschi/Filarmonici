@@ -187,13 +187,13 @@ title = "Concerti"
 ## 1998
 * Ricordo di un Amico - Caldonazzo
 * Natale in Duomo
-* Concenrto Sinfonico Corale - Firenze
+* Concerto Sinfonico Corale - Firenze
 
 ---
 
 ## 1997
-* Conerto chiusura - "Minipolifonici"
-* Levico - Sala delle Terme
+* [Concerto di Chiusura anno scolastico dei "Minipolifonici"]({{< ref "../1997/minipolifonici.md" >}})
+* [Levico - Sala delle Terme]({{< ref "../1997/levico.md" >}})
 
 ---
 

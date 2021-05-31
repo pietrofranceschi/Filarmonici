@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1997s on I Filarmonici di Trento</title>
+    <link>https://www.filarmonicitrento.it/1997/</link>
+    <description>Recent content in 1997s on I Filarmonici di Trento</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <lastBuildDate>Fri, 22 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.filarmonicitrento.it/1997/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Minipolifonici</title>
+      <link>https://www.filarmonicitrento.it/1997/levico/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.filarmonicitrento.it/1997/levico/</guid>
+      <description>Levico - Sala delle Terme - 27 Ottobre 
+Programma
+ B. Bartok - Children&amp;rsquo;s Game - Ballad - Round Dance (arr. F. Mattivi e F. Cunial) E. Morricone - C&amp;rsquo;era una volta in America - C&amp;rsquo;era una volta il West (orc. F. Cunial) J.S. Bach - Suite in Si minore - Badinerie J.S. Bach - Aria sulla quarta corda R. Sugàr - Pastorale per pf ed orchestra  Orchestra per Diletto</description>
+    </item>
+    
+    <item>
+      <title>Minipolifonici</title>
+      <link>https://www.filarmonicitrento.it/1997/minipolifonici/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.filarmonicitrento.it/1997/minipolifonici/</guid>
+      <description>Trento - Auditorium S. Chiara 
+Programma
+Orchestra per Diletto
+Direttore: Fabrizio Cunial</description>
+    </item>
+    
+  </channel>
+</rss>
