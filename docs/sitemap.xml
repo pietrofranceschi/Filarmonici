@@ -133,12 +133,22 @@
   </url>
   
   <url>
+    <loc>https://www.filarmonicitrento.it/1999/corale_calceranica/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.filarmonicitrento.it/2017/concerto_violino_patuzzi/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.filarmonicitrento.it/direttori/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.filarmonicitrento.it/2000/riapertura_sociale/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -208,7 +218,17 @@
   </url>
   
   <url>
+    <loc>https://www.filarmonicitrento.it/2000/musica_castelli/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.filarmonicitrento.it/1998/natale_duomo/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.filarmonicitrento.it/2000/natale_duomo/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -254,6 +274,11 @@
   
   <url>
     <loc>https://www.filarmonicitrento.it/2017/natale_duomo/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.filarmonicitrento.it/2000/note_inverno/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -347,6 +372,12 @@
   
   <url>
     <loc>https://www.filarmonicitrento.it/1999/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.filarmonicitrento.it/2000/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

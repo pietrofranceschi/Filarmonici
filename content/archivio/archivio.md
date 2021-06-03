@@ -108,7 +108,7 @@ title = "Concerti"
 ## 2009
 * [Celebrazione del Natale nel Duomo di Trento]({{< ref "../2009/Natale_Duomo.md" >}})
 * [Concerti di Natale]({{< ref "../2009/Concerti_Natale.md" >}})
-* Serata di Inaugurale filmfestival della Montagna
+* Serata di Inaugurale Filmfestival della Montagna - Musicazione di "Blind Husbands"
 * L'Angelo e la Stella
 
 ---
@@ -170,16 +170,17 @@ title = "Concerti"
 ---
 
 ## 2000
-* Eventi per la riapertura del Teatro Sociale di Trento
-* Musica nei Castelli
-* Celebrazione del Natale nel Duomo di Trento
-* Note d'Inverno
-* 30° della Corale Polifonica di Calceranical al Lago
+* [Eventi per la riapertura del Teatro Sociale di Trento]({{< ref "../2000/riapertura_sociale.md" >}})
+* [Musica nei Castelli]({{< ref "../2000/musica_castelli.md" >}})
+* [Celebrazione del Natale nel Duomo di Trento]({{< ref "../2000/Natale_Duomo.md" >}})
+* [Note d'Inverno]({{< ref "../2000/note_inverno.md" >}})
+
 
 ---
 
 ## 1999
 * [Tione Pianeta Musica]({{< ref "../1999/tione_pianeta_musica.md" >}})
+* [30° della Corale Polifonica di Calceranica al Lago]({{< ref "../1999/corale_calceranica.md" >}})
 
 ---
 
