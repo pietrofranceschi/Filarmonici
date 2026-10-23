@@ -1,6 +1,6 @@
 +++
 
-date = "2021-05-14"
+date = "2019-04-14"
 title = "Galà Concerto - Fondazione Lucarelli Irion"
 
 +++

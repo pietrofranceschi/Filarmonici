@@ -1,6 +1,6 @@
 +++
 
-date = "2019-02-22"
+date = "2016-11-27"
 title = "TEDxTrento"
 
 +++

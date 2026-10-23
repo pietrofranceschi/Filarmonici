@@ -1,14 +1,14 @@
 +++
 
-date = "2019-02-22"
+date = "2018-06-02"
 title = "Concerto Lirico - o soave Fanciulla"
 
 +++
 
 <center>
 
-##### Arco, Casinò Municipale, venerdì 2 giugno, ore 20:45
-##### Villazzano, Teatro, sabato 10 giugno, ore 20:45
+##### Arco, Casinò Municipale, sabato 2 giugno, ore 20:45
+##### Villazzano, Teatro, domenica 10 giugno, ore 20:45
 </center>
 
 ---

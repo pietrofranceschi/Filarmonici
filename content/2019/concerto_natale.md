@@ -1,6 +1,6 @@
 +++
 
-date = "2021-05-14"
+date = "2019-12-21"
 title = "Concerti di Natale con I Filarmonici di Trento"
 
 +++

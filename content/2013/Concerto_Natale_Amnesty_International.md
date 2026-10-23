@@ -1,6 +1,6 @@
 ﻿+++
 
-date = "2019-02-22"
+date = "2013-12-14"
 title = "Concerto di Natale per Amnesty International"
 
 +++

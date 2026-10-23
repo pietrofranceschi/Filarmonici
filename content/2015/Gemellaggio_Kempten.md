@@ -1,6 +1,6 @@
 +++
 
-date = "2019-02-22"
+date = "2015-09-26"
 title = "Gemellaggio con Kempten"
 
 +++

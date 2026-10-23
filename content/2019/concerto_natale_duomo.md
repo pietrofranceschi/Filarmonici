@@ -1,13 +1,13 @@
 +++
 
-date = "2021-05-14"
+date = "2019-12-24"
 title = "Natale in Duomo"
 
 +++
 
 <center>
 
-##### Duomo di Trento - Domenica 24 Dicembre, ore 23:30
+##### Duomo di Trento - Martedì 24 Dicembre, ore 23:30
 </center>
 
 

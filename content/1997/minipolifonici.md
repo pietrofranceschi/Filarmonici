@@ -1,6 +1,6 @@
-﻿+++
++++
 
-date = "2019-02-22"
+date = "1997-06-01"
 title = "Minipolifonici"
 
 +++

@@ -1,0 +1,63 @@
+{{ partial "header.html" . }}
+
+{{ $mesi := slice "gennaio" "febbraio" "marzo" "aprile" "maggio" "giugno" "luglio" "agosto" "settembre" "ottobre" "novembre" "dicembre" }}
+{{ $concerti := slice }}
+{{ range .Site.RegularPages }}
+    {{ if and (findRE `^\d{4}$` .Section) (ne .Params.timeline false) }}{{ $concerti = $concerti | append . }}{{ end }}
+{{ end }}
+
+<style>
+.timeline-intro { text-align: center; margin-bottom: 30px; }
+.timeline-anni { text-align: center; margin: 0 0 40px; line-height: 2; }
+.timeline-anni a { display: inline-block; padding: 0 6px; }
+.timeline { position: relative; margin: 0 0 40px; padding-left: 28px; border-left: 2px solid #e2c3cf; }
+.timeline-anno { position: relative; margin: 40px 0 15px; font-size: 26px; color: #333; scroll-margin-top: 80px; }
+.timeline-anno:first-child { margin-top: 0; }
+.timeline-anno::before { content: ""; position: absolute; left: -39px; top: 8px; width: 20px; height: 20px; border-radius: 50%; background: #bd1550; border: 4px solid #fff; box-shadow: 0 0 0 2px #bd1550; }
+.timeline-voce { position: relative; margin: 0 0 18px; }
+.timeline-voce::before { content: ""; position: absolute; left: -34px; top: 7px; width: 10px; height: 10px; border-radius: 50%; background: #fff; border: 2px solid #bd1550; }
+.timeline-data { font-size: 13px; text-transform: uppercase; letter-spacing: .05em; color: #999; }
+.timeline-titolo { font-size: 17px; font-weight: 600; display: block; }
+.timeline-luoghi { font-size: 14px; color: #777; margin: 2px 0 0; padding: 0; list-style: none; }
+</style>
+
+<main id="main">
+	<div class="container">
+		<div class="row topspace">
+			<div class="col-sm-8 col-sm-offset-2">
+				<article class="post">
+					<header class="entry-header">
+						<h1 class="entry-title">{{ .Title }}</h1>
+					</header>
+					<div class="entry-content">
+						<p class="timeline-intro">{{ len $concerti }} concerti dal 1996 a oggi. Clicca su un titolo per programma, interpreti e locandina.</p>
+
+						{{ $gruppi := (sort $concerti "Date" "desc").GroupByDate "2006" }}
+						<p class="timeline-anni">
+							{{ range $gruppi }}<a href="#anno-{{ .Key }}">{{ .Key }}</a>{{ end }}
+						</p>
+
+						<div class="timeline">
+						{{ range $gruppi }}
+							<h2 class="timeline-anno" id="anno-{{ .Key }}">{{ .Key }}</h2>
+							{{ range .Pages }}
+							<div class="timeline-voce">
+								<span class="timeline-data">{{ .Date.Day }} {{ index $mesi (sub (int .Date.Month) 1) }}</span>
+								<a class="timeline-titolo" href="{{ .RelPermalink }}">{{ .Title }}</a>
+								{{ with findRE `(?m)^#####.*$` .RawContent }}
+								<ul class="timeline-luoghi">
+									{{ range . }}<li>{{ replaceRE `^#####\s*` "" . | replaceRE `\*` "" }}</li>{{ end }}
+								</ul>
+								{{ end }}
+							</div>
+							{{ end }}
+						{{ end }}
+						</div>
+					</div>
+				</article>
+			</div>
+		</div>
+	</div>
+</main>
+
+{{ partial "footer.html" . }}

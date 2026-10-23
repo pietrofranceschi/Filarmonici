@@ -1,6 +1,6 @@
 ﻿+++
 
-date = "2019-02-22"
+date = "1999-12-12"
 title = "Concerto per Soli, Coro ed Orchestra"
 
 +++

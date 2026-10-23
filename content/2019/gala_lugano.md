@@ -1,6 +1,6 @@
 +++
 
-date = "2021-05-14"
+date = "2019-06-22"
 title = "Ceresio Estate - Lugano"
 
 +++

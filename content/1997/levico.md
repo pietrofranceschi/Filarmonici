@@ -1,7 +1,7 @@
 ﻿+++
 
-date = "2019-02-22"
-title = "Minipolifonici"
+date = "1997-10-27"
+title = "Levico - Sala delle Terme"
 
 +++
 

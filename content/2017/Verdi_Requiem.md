@@ -1,6 +1,6 @@
 +++
 
-date = "2019-02-22"
+date = "2017-05-06"
 title = "Verdi - Messa da Requiem"
 
 +++

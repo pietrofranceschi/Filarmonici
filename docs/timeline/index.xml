@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Timeline dei concerti on I Filarmonici di Trento</title>
+		<link>https://www.filarmonicitrento.it/timeline/</link>
+		<description>Recent content in Timeline dei concerti on I Filarmonici di Trento</description>
+		<generator>Hugo</generator>
+		<language>it</language>
+		
+		
+		
+		
+			<atom:link href="https://www.filarmonicitrento.it/timeline/index.xml" rel="self" type="application/rss+xml" />
+	</channel>
+</rss>

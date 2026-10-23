@@ -1,6 +1,6 @@
 ﻿+++
 
-date = "2019-02-22"
+date = "2010-12-24"
 title = "Natale in Duomo"
 
 +++

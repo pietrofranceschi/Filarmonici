@@ -54,19 +54,24 @@ pluralizeListTitles = false
     weight = 5
 
 [[menu.main]]
+    name = "Timeline"
+    url = "/timeline/"
+    weight = 6
+
+[[menu.main]]
     name = "Media"
     url = "/media/"
-    weight = 6
+    weight = 7
 
 [[menu.main]]
     name = "Contatti"
     url = "/contatti/"
-    weight = 7
+    weight = 8
 
 [[menu.main]]  
     name = "Parti"
     url = "https://www.filarmonicitrento.it/restricted/"
-    weight = 7
+    weight = 9
 
 [[params.social]]
 	title = "facebook"

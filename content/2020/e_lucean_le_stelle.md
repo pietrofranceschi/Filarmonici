@@ -1,6 +1,6 @@
 +++
 
-date = "2021-05-14"
+date = "2020-07-18"
 title = "E lucevan le stelle...tra storia e musica a Piedicastello"
 
 +++

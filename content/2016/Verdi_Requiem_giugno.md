@@ -1,6 +1,6 @@
 +++
 
-date = "2019-02-22"
+date = "2016-06-25"
 title = "Verdi Requiem - giugno"
 
 +++

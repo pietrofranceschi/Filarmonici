@@ -1,13 +1,13 @@
 +++
 
-date = "2019-02-22"
+date = "2018-06-22"
 title = "concerto Sinfonico"
 
 +++
 
 <center>
 
-##### Abano Terme - Sabato 22 Giugno, ore 21:00
+##### Abano Terme - Venerdì 22 Giugno, ore 21:00
 </center>
 
 ---

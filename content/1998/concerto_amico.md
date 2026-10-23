@@ -1,6 +1,6 @@
 ﻿+++
 
-date = "2019-02-22"
+date = "1998-06-07"
 title = "Ricordo di un Amico"
 
 +++

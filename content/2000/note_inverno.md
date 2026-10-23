@@ -1,6 +1,6 @@
 ﻿+++
 
-date = "2019-02-22"
+date = "2000-11-25"
 title = "Note d'Inverno"
 
 +++

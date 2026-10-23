@@ -1,6 +1,6 @@
 ﻿+++
 
-date = "2019-02-22"
+date = "2000-06-17"
 title = "Eventi per la Riapertura del Teatro Sociale"
 
 +++

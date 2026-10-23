@@ -1,6 +1,6 @@
 +++
 
-date = "2021-05-14"
+date = "2020-02-03"
 title = "Società del Quartetto 2020 - Bergamo"
 
 +++
