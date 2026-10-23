@@ -33,7 +33,7 @@
 			<img class="img-circle" src="{{ .Site.BaseURL }}{{ .Site.Params.avatar }}" alt="">
 			<span class="title">{{ .Site.Params.name }}</span>
 			<span class="tagline">{{ .Site.Params.description }}{{ with .Site.Params.email }}<br>
-				<a href="mailto:{{ . }}">{{ . }}</a>{{ end }}
+				{{ replace . "@" "[at]" }}{{ end }}
             </span>
 		</h1>
 	</div>

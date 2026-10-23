@@ -82,13 +82,5 @@ pluralizeListTitles = false
     footer = true
     sharethis = false
     network = ""
-[[params.social]]
-	title = "email"
-	url = "mailto:filarmonicitrento@gmail.com"
-    icon = "fa-envelope"
-    footer = true
-    sharethis = true
-    network = "email"
-
 [markup.goldmark.renderer]
     unsafe = true
