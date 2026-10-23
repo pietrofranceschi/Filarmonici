@@ -7,7 +7,7 @@ title = "Natale in Duomo"
 
 <center>
 
-##### Duomo di Trento - Venerdì 24 Dicembre, ore 23:30
+##### Duomo di Trento - Domenica 24 Dicembre, ore 23:30
 </center>
 
 ---
