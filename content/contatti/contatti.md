@@ -21,11 +21,7 @@ email: filarmonicitrento[at]gmail.com
 ##### Consiglio Direttivo
 * Pietro Franceschi - presidente
 * Roberto Guastamacchia - tesoriere
-* Emma Gasperi
-* Irene Metere
-* Francesca Chemolli
-* Paolo Segatta
-* Osvaldo Demozzi
+* Paolo Segatta, Osvaldo Demozzi, Sandra Toffolo, Elisabetta Stocco - consiglieri
 
 ##### Direzione Artistica
 * [**Alessandro Arnoldo**](https://alessandroarnoldo.wixsite.com/alessandroarnoldo) 
