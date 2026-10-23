@@ -6,6 +6,7 @@ title = "Concerto per i Vent'anni"
 +++
 
 <center>
+
 ##### Trento, Chiesa di San Francesco Saverio  - Domenica 9 Giugno, ore 18:30
 </center>
 

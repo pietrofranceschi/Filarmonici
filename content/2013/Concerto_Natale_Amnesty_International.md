@@ -6,6 +6,7 @@ title = "Concerto di Natale per Amnesty International"
 +++
 
 <center>
+
 ##### Rovereto - Chiesa Madonna di Loreto - Sabato, 14 dicembre, ore 20:45
 </center>
 
@@ -38,7 +39,7 @@ Direttore: *Maurizio Postai*
 
 <center>
 
-{{< figure src="../../images/Locandina_Rovereto_Amnesty_2013.jpg" width="500px">}}
+{{< figure src="/images/Locandina_Rovereto_Amnesty_2013.jpg" width="500px">}}
 
 
 </center>

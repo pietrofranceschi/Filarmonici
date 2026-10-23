@@ -6,6 +6,7 @@ title = "Verdi Requiem - giugno"
 +++
 
 <center>
+
 ##### Hamburg - St. Johannis Kulturkirche Altona - Sabato 25 Giugno, ore 20:30
 ##### Glückstadt - Stadtkirche Glückstadt - Domenica 26 Giugno, ore 16:30
 </center>
@@ -35,6 +36,6 @@ title = "Verdi Requiem - giugno"
 
 <center>
 
-{{< figure src="../../images/Verdi_Requiem_3.jpg" width="500px">}}
+{{< figure src="/images/Verdi_Requiem_3.jpg" width="500px">}}
 
 </center>

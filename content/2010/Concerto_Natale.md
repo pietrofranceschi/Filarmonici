@@ -6,6 +6,7 @@ title = "Concerto di Natale"
 +++
 
 <center>
+
 ##### Trento - Chiesa di S. Pio X - Giovedì, 23 dicembre, ore 20:30
 </center>
 
@@ -32,10 +33,10 @@ Direttore: *Fabrizio Cunial*
 
 <center>
 
-{{< figure src="../../images/concerto_Natale_2010_1.jpeg" width="500px">}}
+{{< figure src="/images/concerto_Natale_2010_1.jpeg" width="500px">}}
 
 ----
 
-{{< figure src="../../images/concerto_Natale_2010_2.jpeg" width="500px">}}
+{{< figure src="/images/concerto_Natale_2010_2.jpeg" width="500px">}}
 
 </center>

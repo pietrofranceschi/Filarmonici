@@ -6,6 +6,7 @@ title = "Galà Concerto - Fondazione Lucarelli Irion"
 +++
 
 <center>
+
 ##### Rovereto, Teatro Zandonai - Domenica 14 Aprile, ore 18:00
 </center>
 

@@ -1,530 +1,364 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2019/gala_lugano/</loc>
-    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2019/concerto_natale/</loc>
-    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2019/concerto_ventanni/</loc>
-    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2020/e_lucean_le_stelle/</loc>
-    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2019/gala_rovereto/</loc>
-    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2019/concerto_natale_duomo/</loc>
-    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2020/concerto_bergamo/</loc>
-    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2017/beethoven_nona/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/cantanti/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/collaborazioni/collaborazioni/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/compositori/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2008/concerti_natale/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2009/concerti_natale/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2011/concerti_natale/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2012/concerti_natale/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2016/concerti_natale/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2017/concerti_natale/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2018/concerti_natale/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2015/concerto_lirico/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2018/soave_fanciulla/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2015/sinfonico_maggio/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2015/sinfonico_novembre/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2010/concerto_natale/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2013/concerto_natale/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2013/concerto_natale_amnesty_international/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2016/concerto_lirico/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/1999/corale_calceranica/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2017/concerto_violino_patuzzi/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/direttori/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2000/riapertura_sociale/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/1996/feldkirch/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/1998/concerto_firenze/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/formazioni/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2015/gemellaggio_kempten/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/curriculum/curriculum/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2018/beethoven_9_soligo/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/media/media/media/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/1996/minipolifonici/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/1997/levico/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/1997/minipolifonici/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2015/requiem_livorno/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2015/requiem_marzo/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2005/festival_musica_sacra/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2000/musica_castelli/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/1998/natale_duomo/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2000/natale_duomo/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2008/natale_duomo/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2009/natale_duomo/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2010/natale_duomo/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2011/natale_duomo/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2012/natale_duomo/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2013/natale_duomo/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2014/natale_duomo/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2015/natale_duomo/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2017/natale_duomo/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2000/note_inverno/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/1996/orchestra_per_diletto/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/organico/organico/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2018/requiem_nei_monti/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2018/cherubini_requiem/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/1998/concerto_amico/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/solisti/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2016/tedxtrento/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/1999/tione_pianeta_musica/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2017/verdi_requiem/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2016/verdi_requiem_giugno/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2016/verdi_requiem_maggio/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2018/sinfonico_abano/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/service/inevidenza/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/contatti/contatti/</loc>
-    <lastmod>2013-06-17T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/1996/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/1997/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/1998/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/1999/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2000/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2005/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2008/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2009/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2010/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2011/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2012/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2013/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2014/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2015/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2016/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2017/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2018/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2019/</loc>
-    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/2020/</loc>
-    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
   <url>
     <loc>https://www.filarmonicitrento.it/archivio/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <lastmod>2026-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/archivio/archivio/</loc>
+    <lastmod>2026-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/</loc>
+    <lastmod>2026-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2026/</loc>
+    <lastmod>2026-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2026/musica_sacra/</loc>
+    <lastmod>2026-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2026/beethoven_in_movimento/</loc>
+    <lastmod>2026-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2025/</loc>
+    <lastmod>2025-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2025/santo_stefano_mori/</loc>
+    <lastmod>2025-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2025/in_memoriam/</loc>
+    <lastmod>2025-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2025/musica_sacra/</loc>
+    <lastmod>2025-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2025/nuovo_mondo/</loc>
+    <lastmod>2025-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2024/</loc>
+    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2024/musica_sacra/</loc>
+    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2024/imperatore/</loc>
+    <lastmod>2024-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2023/</loc>
+    <lastmod>2023-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2023/musica_sacra/</loc>
+    <lastmod>2023-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2023/don_giovanni/</loc>
+    <lastmod>2023-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2022/</loc>
+    <lastmod>2022-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2022/spagna_austria/</loc>
+    <lastmod>2022-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2021/</loc>
+    <lastmod>2021-12-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2021/concerti_natale/</loc>
+    <lastmod>2021-12-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2021/si_torna_all_opera/</loc>
+    <lastmod>2021-07-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2019/</loc>
+    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2020/</loc>
+    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2019/gala_lugano/</loc>
+    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2019/concerto_natale/</loc>
+    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2019/concerto_ventanni/</loc>
+    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2020/e_lucean_le_stelle/</loc>
+    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2019/gala_rovereto/</loc>
+    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2019/concerto_natale_duomo/</loc>
+    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2020/concerto_bergamo/</loc>
+    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/1996/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/1997/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/1998/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/1999/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2000/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2005/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2008/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2009/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2010/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2011/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2012/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2013/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2014/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2015/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2016/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2017/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2018/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2017/beethoven_nona/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/cantanti/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.filarmonicitrento.it/collaborazioni/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/archivio/archivio/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/contatti/</loc>
-    <lastmod>2013-06-17T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/collaborazioni/collaborazioni/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/compositori/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2008/concerti_natale/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2009/concerti_natale/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2011/concerti_natale/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2012/concerti_natale/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2016/concerti_natale/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2017/concerti_natale/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2018/concerti_natale/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2010/concerto_natale/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2013/concerto_natale/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2013/concerto_natale_amnesty_international/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2016/concerto_lirico/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2015/concerto_lirico/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2018/soave_fanciulla/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/1999/corale_calceranica/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2017/concerto_violino_patuzzi/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2018/sinfonico_abano/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2015/sinfonico_maggio/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2015/sinfonico_novembre/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.filarmonicitrento.it/curriculum/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.filarmonicitrento.it/</loc>
-    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/direttori/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2000/riapertura_sociale/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/1996/feldkirch/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/1998/concerto_firenze/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/formazioni/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2015/gemellaggio_kempten/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/curriculum/curriculum/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2018/beethoven_9_soligo/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.filarmonicitrento.it/media/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/media/media/media/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/1996/minipolifonici/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/1997/levico/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/1997/minipolifonici/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2015/requiem_livorno/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2015/requiem_marzo/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2000/musica_castelli/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2005/festival_musica_sacra/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/1998/natale_duomo/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2000/natale_duomo/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2008/natale_duomo/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2009/natale_duomo/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2010/natale_duomo/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2011/natale_duomo/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2012/natale_duomo/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2013/natale_duomo/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2014/natale_duomo/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2015/natale_duomo/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2016/natale_duomo/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2017/natale_duomo/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2000/note_inverno/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/1996/orchestra_per_diletto/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.filarmonicitrento.it/organico/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/organico/organico/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2018/cherubini_requiem/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2018/requiem_nei_monti/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/1998/concerto_amico/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/solisti/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2016/tedxtrento/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/1999/tione_pianeta_musica/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2017/verdi_requiem/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2016/verdi_requiem_giugno/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/2016/verdi_requiem_maggio/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/service/inevidenza/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.filarmonicitrento.it/service/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/contatti/</loc>
+    <lastmod>2013-06-17T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/contatti/contatti/</loc>
+    <lastmod>2013-06-17T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.filarmonicitrento.it/categories/</loc>
+  </url><url>
     <loc>https://www.filarmonicitrento.it/tags/</loc>
-    <priority>0</priority>
   </url>
-  
 </urlset>

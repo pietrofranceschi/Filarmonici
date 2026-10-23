@@ -1,49 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>2013s on I Filarmonici di Trento</title>
-    <link>https://www.filarmonicitrento.it/2013/</link>
-    <description>Recent content in 2013s on I Filarmonici di Trento</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>it</language>
-    <lastBuildDate>Fri, 22 Feb 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.filarmonicitrento.it/2013/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Concerto di Natale</title>
-      <link>https://www.filarmonicitrento.it/2013/concerto_natale/</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.filarmonicitrento.it/2013/concerto_natale/</guid>
-      <description>Trento - Chiesa di S. Pietro - Martedì, 17 dicembre, ore 20:30 
-Programma
- Georg Friedrich Händel - Suite n. 2 della &amp;ldquo;Water Music&amp;rdquo;, Allegro, Alla Hornpipe Camille Saint-Saëns - Oratorio de Noel op. 12 (selezione) Marcel Grandjany - Aria in stile classica per arpa e orchestra Camille Saint-Saëns - Coeli Enarrant op. 42, Introduction et choeur Wolfgang Amadeus Mozart - Laudate Dominum John Rutter - Christmas Lullaby Lucia Palaoro - Personent Hodie Adolphe Adam - O Holy Night Lucia Palaoro - In dulci jubilo Georg Friedrich Händel - Halleluja (dal &amp;ldquo;Messiah&amp;rdquo;) Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento</description>
-    </item>
-    
-    <item>
-      <title>Concerto di Natale per Amnesty International</title>
-      <link>https://www.filarmonicitrento.it/2013/concerto_natale_amnesty_international/</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.filarmonicitrento.it/2013/concerto_natale_amnesty_international/</guid>
-      <description>Rovereto - Chiesa Madonna di Loreto - Sabato, 14 dicembre, ore 20:45 
-Programma
- Camille Saint-Saëns - Oratorio de Noel op. 12 (selezione) Marcel Grandjany - Aria in stile classica per arpa e orchestra Camille Saint-Saëns - Coeli Enarrant op. 42, Introduction et choeur Wolfgang Amadeus Mozart - Laudate Dominum John Rutter - Christmas Lullaby Lucia Palaoro - Personent Hodie Adolphe Adam - O Holy Night Lucia Palaoro - In dulci jubilo Georg Friedrich Händel - Halleluja (dal &amp;ldquo;Messiah&amp;rdquo;) Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento</description>
-    </item>
-    
-    <item>
-      <title>Natale in Duomo</title>
-      <link>https://www.filarmonicitrento.it/2013/natale_duomo/</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.filarmonicitrento.it/2013/natale_duomo/</guid>
-      <description>Duomo di Trento - Martedì, 24 Dicembre, ore 23:30 
-Programma
- W. A. Mozart - Quartetti per flauto, violino, viola e violoncello in Do magg. KV 285b e in La magg. KV 298 Canti natalizi  Gruppo cameristico dell&amp;rsquo;Orchestra &amp;ldquo;I Filarmonici&amp;rdquo;
- Violino: Astrid Harlan Viola: Chiara Morstabilini Violoncello: Eva Gruhn Flauto: Salvatore Lucci</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>2013 on I Filarmonici di Trento</title>
+		<link>https://www.filarmonicitrento.it/2013/</link>
+		<description>Recent content in 2013 on I Filarmonici di Trento</description>
+		<generator>Hugo</generator>
+		<language>it</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 22 Feb 2019 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://www.filarmonicitrento.it/2013/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Concerto di Natale</title>
+				<link>https://www.filarmonicitrento.it/2013/concerto_natale/</link>
+				<pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+				<guid>https://www.filarmonicitrento.it/2013/concerto_natale/</guid>
+				<description>&lt;center&gt;&#xA;&lt;h5 id=&#34;trento---chiesa-di-s-pietro---martedì-17-dicembre-ore-2030&#34;&gt;Trento - Chiesa di S. Pietro - Martedì, 17 dicembre, ore 20:30&lt;/h5&gt;&#xA;&lt;/center&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Programma&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;Georg Friedrich Händel&lt;/em&gt; - Suite n. 2 della &amp;ldquo;Water Music&amp;rdquo;, Allegro, Alla Hornpipe&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Camille Saint-Saëns&lt;/em&gt; - Oratorio de Noel op. 12 (selezione)&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Marcel Grandjany&lt;/em&gt; - Aria in stile classica per arpa e orchestra&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Camille Saint-Saëns&lt;/em&gt; - Coeli Enarrant op. 42, Introduction et choeur&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Wolfgang Amadeus Mozart&lt;/em&gt; - Laudate Dominum&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;John Rutter&lt;/em&gt; - Christmas Lullaby&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Lucia Palaoro&lt;/em&gt; - Personent Hodie&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Adolphe Adam&lt;/em&gt; - O Holy Night&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Lucia Palaoro&lt;/em&gt; - In dulci jubilo&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Georg Friedrich Händel&lt;/em&gt; - Halleluja (dal &amp;ldquo;Messiah&amp;rdquo;)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Coro “Laboratorio Musicale” di Ravina&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Barbara Balduzzi, soprano&lt;/li&gt;&#xA;&lt;li&gt;Elisa Pichler, soprano&lt;/li&gt;&#xA;&lt;li&gt;Mariapia Bortolotti, contralto&lt;/li&gt;&#xA;&lt;li&gt;Roberto Guastamacchia, tenore&lt;/li&gt;&#xA;&lt;li&gt;Roldano Cattoni, baritono&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Direttore: &lt;em&gt;Maurizio Postai&lt;/em&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Concerto di Natale per Amnesty International</title>
+				<link>https://www.filarmonicitrento.it/2013/concerto_natale_amnesty_international/</link>
+				<pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+				<guid>https://www.filarmonicitrento.it/2013/concerto_natale_amnesty_international/</guid>
+				<description>&lt;center&gt;&#xA;&lt;h5 id=&#34;rovereto---chiesa-madonna-di-loreto---sabato-14-dicembre-ore-2045&#34;&gt;Rovereto - Chiesa Madonna di Loreto - Sabato, 14 dicembre, ore 20:45&lt;/h5&gt;&#xA;&lt;/center&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Programma&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;Camille Saint-Saëns&lt;/em&gt; - Oratorio de Noel op. 12 (selezione)&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Marcel Grandjany&lt;/em&gt; - Aria in stile classica per arpa e orchestra&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Camille Saint-Saëns&lt;/em&gt; - Coeli Enarrant op. 42, Introduction et choeur&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Wolfgang Amadeus Mozart&lt;/em&gt; - Laudate Dominum&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;John Rutter&lt;/em&gt; - Christmas Lullaby&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Lucia Palaoro&lt;/em&gt; - Personent Hodie&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Adolphe Adam&lt;/em&gt; - O Holy Night&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Lucia Palaoro&lt;/em&gt; - In dulci jubilo&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Georg Friedrich Händel&lt;/em&gt; - Halleluja (dal &amp;ldquo;Messiah&amp;rdquo;)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Coro Voci Bianche Laboratorio Musicale dei Minipolifonici di Trento&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Coro &amp;ldquo;Laboratorio Musicale&amp;rdquo; di Ravina&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Lorena Coser, Arpa&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Natale in Duomo</title>
+				<link>https://www.filarmonicitrento.it/2013/natale_duomo/</link>
+				<pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+				<guid>https://www.filarmonicitrento.it/2013/natale_duomo/</guid>
+				<description>&lt;center&gt;&#xA;&lt;h5 id=&#34;duomo-di-trento---martedì-24-dicembre-ore-2330&#34;&gt;Duomo di Trento - Martedì, 24 Dicembre, ore 23:30&lt;/h5&gt;&#xA;&lt;/center&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Programma&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;W. A. Mozart&lt;/em&gt; - Quartetti per flauto, violino, viola e violoncello in Do magg. KV 285b e in La magg. KV 298&lt;/li&gt;&#xA;&lt;li&gt;Canti natalizi&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Gruppo cameristico dell&amp;rsquo;Orchestra &amp;ldquo;I Filarmonici&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Violino: Astrid Harlan&lt;/li&gt;&#xA;&lt;li&gt;Viola: Chiara Morstabilini&lt;/li&gt;&#xA;&lt;li&gt;Violoncello: Eva Gruhn&lt;/li&gt;&#xA;&lt;li&gt;Flauto: Salvatore Lucci&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;center&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://www.filarmonicitrento.it/images/Natale2013_1.jpeg&#34; width=&#34;500px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;hr&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://www.filarmonicitrento.it/images/Natale2013_2.jpeg&#34; width=&#34;500px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;hr&gt;&#xA;&lt;/center&gt;</description>
+			</item>
+	</channel>
 </rss>

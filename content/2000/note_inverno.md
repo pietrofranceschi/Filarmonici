@@ -6,6 +6,7 @@ title = "Note d'Inverno"
 +++
 
 <center>
+
 ##### Trento - Auditorium S. Chiara - Sabato 25 Novembre, ore 21:00
 </center>
 
@@ -41,15 +42,15 @@ Direttore: *Fabrizio Cunial*
 
 <center>
 
-{{< figure src="../../images/note_inverno_2000.png" width="400px">}}
+{{< figure src="/images/note_inverno_2000.jpg" width="400px">}}
 
 ---
 
-{{< figure src="../../images/note_inverno_2000_1.png" width="400px">}}
+{{< figure src="/images/note_inverno_2000_1.jpg" width="400px">}}
 
 ---
 
-{{< figure src="../../images/note_inverno_2000_2.png" width="400px">}}
+{{< figure src="/images/note_inverno_2000_2.jpg" width="400px">}}
 
 
 </center>

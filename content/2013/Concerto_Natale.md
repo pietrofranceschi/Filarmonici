@@ -6,6 +6,7 @@ title = "Concerto di Natale"
 +++
 
 <center>
+
 ##### Trento - Chiesa di S. Pietro - Martedì, 17 dicembre, ore 20:30
 </center>
 
@@ -41,10 +42,10 @@ Direttore: *Maurizio Postai*
 
 <center>
 
-{{< figure src="../../images/concerto_Natale_2013_1.jpeg" width="500px">}}
+{{< figure src="/images/concerto_Natale_2013_1.jpeg" width="500px">}}
 
 ---
 
-{{< figure src="../../images/concerto_Natale_2013_2.jpeg" width="500px">}}
+{{< figure src="/images/concerto_Natale_2013_2.jpeg" width="500px">}}
 
 </center>

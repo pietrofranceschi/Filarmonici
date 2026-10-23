@@ -6,6 +6,7 @@ title = "Feldkirch Sommer"
 +++
 
 <center>
+
 ##### Feldkirch (AT) - Sabato 29 Giugno, ore 19:30
 </center>
 
@@ -13,10 +14,10 @@ title = "Feldkirch Sommer"
 
 <center>
 
-{{< figure src="../../images/Feldkirch_96.png" width="500px">}}
+{{< figure src="/images/Feldkirch_96.jpg" width="500px">}}
 
 ---
 
-{{{< figure src="../../images/Feldkirch_96_1.png" width="500px">}}
+{{< figure src="/images/Feldkirch_96_1.jpg" width="500px">}}
 
 </center>

@@ -6,6 +6,7 @@ title = "Concerti di Natale"
 +++
 
 <center>
+
 ##### Trento - Sala della Circoscrizione San Giuseppe – Santa Chiara - Giovedì, 22 dicembre
 ##### Levico - Teatro dell'Oratorio - Sabato, 7 gennaio 2012
 </center>
@@ -32,10 +33,10 @@ Direttore: *Fabrizio Cunial*
 
 <center>
 
-{{< figure src="../../images/concerto_Natale2011_2.jpeg" width="500px">}}
+{{< figure src="/images/concerto_Natale2011_2.jpeg" width="500px">}}
 
 ----
 
-{{< figure src="../../images/concerto_Natale2011_1.jpeg" width="500px">}}
+{{< figure src="/images/concerto_Natale2011_1.jpeg" width="500px">}}
 
 </center>

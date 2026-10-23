@@ -6,6 +6,7 @@ title = "Natale in Duomo"
 +++
 
 <center>
+
 ##### Duomo di Trento - Giovedì, 24 Dicembre, ore 23:30
 </center>
 
@@ -40,11 +41,11 @@ Direttore: *Alessandro Arnoldo*
 
 <center>
 
-{{< figure src="../../images/Natale2015_1.jpeg" width="500px">}}
+{{< figure src="/images/Natale2015_1.jpeg" width="500px">}}
 
 ---
 
-{{< figure src="../../images/Natale2015_2.jpeg" width="500px">}}
+{{< figure src="/images/Natale2015_2.jpeg" width="500px">}}
 
 
 ---

@@ -6,6 +6,7 @@ title = "Requiem Nei Monti"
 +++
 
 <center>
+
 ##### Duomo di Trento - Sabato 24 Novembre, ore 20:30
 ##### Convento di Gries - Domenica 25 Novembre, ore 16:00
 </center>
@@ -29,5 +30,6 @@ Direttore: *Alessandro Arnoldo*
 ---
 
 <center>
-{{< figure src="../../images/requiem_nei_monti.jpeg" width="500px">}}
+
+{{< figure src="/images/requiem_nei_monti.jpeg" width="500px">}}
 </center>

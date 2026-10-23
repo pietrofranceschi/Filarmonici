@@ -6,6 +6,7 @@ title = "Concerto per Soli, Coro ed Orchestra"
 +++
 
 <center>
+
 ##### Calceranica - Chiesa del S. Rosario - Domenica 12 Dicembre, ore 20:30
 </center>
 
@@ -39,15 +40,15 @@ Direttore: *Fabrizio Cunial*
 
 <center>
 
-{{< figure src="../../images/calceranica_1999.png" width="200px">}}
+{{< figure src="/images/calceranica_1999.jpg" width="200px">}}
 
 ---
 
-{{< figure src="../../images/calceranica_1999_1.png" width="400px">}}
+{{< figure src="/images/calceranica_1999_1.jpg" width="400px">}}
 
 ---
 
-{{< figure src="../../images/calceranica_1999_2.png" width="400px">}}
+{{< figure src="/images/calceranica_1999_2.jpg" width="400px">}}
 
 
 </center>

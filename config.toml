@@ -1,28 +1,27 @@
 baseURL = "https://www.filarmonicitrento.it/"
-languageCode = "it"
+locale = "it"
 title = "I Filarmonici di Trento"
 publishDir = "docs"
 relativeURLs = "False"
+pluralizeListTitles = false
 
 [params]
     name = "I Filarmonici di Trento"
     description = "Musica per Voi"
-    email = ""
+    email = "filarmonicitrento@gmail.com"
     phone = ""
     address = "c/o Soc. Filarmonica di Trento, Via G. Verdi 30, 38123, Trento"
-    year = 2019
+    year = 2026
     avatar = "images/filarmonici.png"
     background = ""
     favicon = "images/gt_favicon.png"
     DateForm = "January 2, 2006"
-
 
     showSubheader = true
     showServices = false
     showRecentWorks = false
     showDownload = false
     showClients = false
-
 
     footerEnableContact = true
     footerEnableFollowme = true
@@ -69,18 +68,6 @@ relativeURLs = "False"
     url = "https://www.filarmonicitrento.it/restricted/"
     weight = 7
 
-
-
-[params.disqus]
-    site = "hugo-initio-site.disqus.com"
-
-[params.sharethis]
-    property = "123456789012345678901234"
-    custom = true
-
-[params.google.analytics]
-    trackerID = "GA-000000000-0"
-
 [[params.social]]
 	title = "facebook"
 	url = "https://www.facebook.com/filarmonicitrento/"
@@ -89,45 +76,10 @@ relativeURLs = "False"
     sharethis = true
     network = "facebook"
 [[params.social]]
-	title = "twitter"
-	url = "https://twitter.com/nickname"
-    icon = "fa-twitter-square"
-    footer = false
-    sharethis = true
-    network = "twitter"
-[[params.social]]
 	title = "instagram"
 	url = "https://www.instagram.com/orchestra_filarmoniciditrento"
     icon = "fa-instagram"
     footer = true
-    sharethis = false
-    network = ""
-[[params.social]]
-	title = "google+"
-	url = "https://plus.google.com/+nickname"
-    icon = "fa-google-plus-square"
-    footer = false
-    sharethis = true
-    network = "googleplus"
-[[params.social]]
-	title = "linkedin"
-	url = "https://www.linkedin.com/in/nickname"
-    icon = "fa-linkedin-square"
-    footer = false
-    sharethis = true
-    network = "linkedin"
-[[params.social]]
-	title = "tumblr"
-	url = "https://nickname.tumblr.com"
-    icon = "fa-tumblr-square"
-    footer = false
-    sharethis = false
-    network = "tumblr"
-[[params.social]]
-	title = "github"
-	url = "https://github.com/nickname"
-    icon = "fa-github"
-    footer = false
     sharethis = false
     network = ""
 [[params.social]]
@@ -138,3 +90,5 @@ relativeURLs = "False"
     sharethis = true
     network = "email"
 
+[markup.goldmark.renderer]
+    unsafe = true

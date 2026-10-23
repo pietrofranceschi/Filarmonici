@@ -6,6 +6,7 @@ title = "Concerti di Natale con I Filarmonici di Trento"
 +++
 
 <center>
+
 ##### Pomarolo, Teatro Comunale  - Sabato 21 Dicembre, ore 20:30
 ##### Bolognano d'Arco, Chiesa Parrocchiale  - Domenica 22 Dicembre, ore 17:00
 </center>

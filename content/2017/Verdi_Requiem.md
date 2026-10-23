@@ -38,14 +38,14 @@ Maestri concertatori: *Alessandro Arnoldo*, *Mauro Roveri*
 
 <center>
 
-{{< figure src="../../images/Verdi_Trento_2017.jpeg" width="500px">}}
+{{< figure src="/images/Verdi_Trento_2017.jpeg" width="500px">}}
 
 ---
 
-{{< figure src="../../images/Verdi_Padova_2017.png" width="500px">}}
+{{< figure src="/images/Verdi_Padova_2017.png" width="500px">}}
 
 ---
 
-{{< figure src="../../images/Verdi_Este_2017.png" width="500px">}}
+{{< figure src="/images/Verdi_Este_2017.jpg" width="500px">}}
 
 </center>

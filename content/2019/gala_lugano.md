@@ -6,6 +6,7 @@ title = "Ceresio Estate - Lugano"
 +++
 
 <center>
+
 ##### Ceresio,Lugano (CH), Centro Scolastico  - Sabato 22 giugno, ore 18:30
 </center>
 
@@ -33,6 +34,6 @@ Direttore: *Michele Patuzzi*
 
 <center>
 
-{{< figure src="../../images/lugano.jpeg" width="500px">}}
+{{< figure src="/images/lugano.jpeg" width="500px">}}
 
 </center>

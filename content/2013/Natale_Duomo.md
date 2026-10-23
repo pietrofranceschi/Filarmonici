@@ -6,6 +6,7 @@ title = "Natale in Duomo"
 +++
 
 <center>
+
 ##### Duomo di Trento - Martedì, 24 Dicembre, ore 23:30
 </center>
 
@@ -29,11 +30,11 @@ title = "Natale in Duomo"
 
 <center>
 
-{{< figure src="../../images/Natale2013_1.jpeg" width="500px">}}
+{{< figure src="/images/Natale2013_1.jpeg" width="500px">}}
 
 ---
 
-{{< figure src="../../images/Natale2013_2.jpeg" width="500px">}}
+{{< figure src="/images/Natale2013_2.jpeg" width="500px">}}
 
 
 ---

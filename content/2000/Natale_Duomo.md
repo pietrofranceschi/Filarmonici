@@ -6,6 +6,7 @@ title = "Natale in Duomo"
 +++
 
 <center>
+
 ##### Duomo di Trento - Venerdì 24 Dicembre, ore 23:30
 </center>
 
@@ -29,11 +30,11 @@ Direttore: *Fabrizio Cunial*
 
 <center>
 
-{{< figure src="../../images/duomo_2000.png" width="500px">}}
+{{< figure src="/images/duomo_2000.jpg" width="500px">}}
 
 ---
 
-{{< figure src="../../images/duomo_2000_1.png" width="500px">}}
+{{< figure src="/images/duomo_2000_1.jpg" width="500px">}}
 
 
 ---

@@ -6,6 +6,7 @@ title = "Concerto Sinfonico"
 +++
 
 <center>
+
 ##### Trento - Sala della Filarmonica - Domenica 22 Novembre, ore 18:00
 ##### Bolognano d'Arco - Domenica 20 Dicembre, ore 17:00
 </center>
@@ -33,6 +34,6 @@ title = "Concerto Sinfonico"
 
 <center>
 
-{{< figure src="../../images/sinfonico_Novembre_2015.jpg" width="500px">}}
+{{< figure src="/images/sinfonico_Novembre_2015.jpg" width="500px">}}
 
 </center>

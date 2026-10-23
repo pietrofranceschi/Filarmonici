@@ -1,72 +1,59 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>2016s on I Filarmonici di Trento</title>
-    <link>https://www.filarmonicitrento.it/2016/</link>
-    <description>Recent content in 2016s on I Filarmonici di Trento</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>it</language>
-    <lastBuildDate>Fri, 22 Feb 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.filarmonicitrento.it/2016/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Concerti di Natale</title>
-      <link>https://www.filarmonicitrento.it/2016/concerti_natale/</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.filarmonicitrento.it/2016/concerti_natale/</guid>
-      <description>Trento - Basilicata di Santa Maria Maggiore - Sabato 17 Dicembre, ore 20:30 Bolognano d&amp;rsquo;Arco - Chiesa Parrocchiale di Bolognano d&amp;rsquo;Arco - Domenica 18 Dicembre, ore 17:00 Sardagna - Chiesa Parrocchiale di Sardagna - Lunedì 19 Dicembre, ore 20:30 
-Programma
-G. Gabrieli (1557 – 1612)
- Sonata pian&amp;rsquo; e forte - Ch 175 Canzon Septimi Toni - Ch 172  W.A. Mozart (1756 - 1791)
- &amp;ldquo;Et Incarnatus Est&amp;rdquo; - Dalla &amp;ldquo;Messa in Do Minore&amp;rdquo; K427  A.</description>
-    </item>
-    
-    <item>
-      <title>Concerto lirico </title>
-      <link>https://www.filarmonicitrento.it/2016/concerto_lirico/</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.filarmonicitrento.it/2016/concerto_lirico/</guid>
-      <description>Rovereto - Sala della Filarmonica - Domenica 5 Giugno, ore 20:30 
-Programma
- W.A. Mozart - da &amp;ldquo;La Clemenza di Tito&amp;rdquo; – Ouverture J. Offenbach - da &amp;ldquo;Les Contes d&amp;rsquo;Hoffmann&amp;rdquo; – Les oiseaux dans la charmille – soprano G. Puccini - da &amp;ldquo;Gianni Schicchi&amp;rdquo; – O mio babbino caro – soprano G. Donizetti - da &amp;ldquo;Don Pasquale&amp;rdquo; – Bella siccome un angelo – tenore G. Puccini - da &amp;ldquo;Tosca&amp;rdquo; – E lucean le stelle – tenore G.</description>
-    </item>
-    
-    <item>
-      <title>TEDxTrento</title>
-      <link>https://www.filarmonicitrento.it/2016/tedxtrento/</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.filarmonicitrento.it/2016/tedxtrento/</guid>
-      <description>Teatro Auditorium Santa Chiara - Lunedì 27 Novembre, ore 10:00 
-Programma
- G. Puccini - &amp;ldquo;Nessun dorma&amp;rdquo; da Turandot   Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento Classe di Canto Lirico di Sabrina Modena (SMAG, Riva del Garda)   Tenore Solista: Filippo Nardin  Direttore: Alessandro Arnoldo</description>
-    </item>
-    
-    <item>
-      <title>Verdi Requiem - giugno</title>
-      <link>https://www.filarmonicitrento.it/2016/verdi_requiem_giugno/</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.filarmonicitrento.it/2016/verdi_requiem_giugno/</guid>
-      <description>Hamburg - St. Johannis Kulturkirche Altona - Sabato 25 Giugno, ore 20:30 Glückstadt - Stadtkirche Glückstadt - Domenica 26 Giugno, ore 16:30 
-Programma
- G. Verdi - Messa da Requiem   Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento Coro Città di Piazzola sul Brenta Chor der Friedenskirche, Hamburg Kammerorchester St. Pauli, Hamburg Classe di Canto Lirico di Sabrina Modena (SMAG, Riva del Garda)   Solisti: Rosanna Lo Greco (Soprano), Eugenia Zuin (Mezzosoprano), Riccardo Gatto (Tenore), Maurizio Franceschetti (Basso)</description>
-    </item>
-    
-    <item>
-      <title>Verdi Requiem - maggio</title>
-      <link>https://www.filarmonicitrento.it/2016/verdi_requiem_maggio/</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.filarmonicitrento.it/2016/verdi_requiem_maggio/</guid>
-      <description>Piazzola sul Brenta - Duomo - Venerdì 20 Maggio, ore 21:00 Trento - Teatro Sociale - Sabato 21 Maggio, ore 20:30 
-Programma
- G. Verdi - Messa da Requiem   Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento Coro Città di Piazzola sul Brenta Chor der Friedenskirche, Hamburg Kammerorchester St. Pauli, Hamburg Classe di Canto Lirico di Sabrina Modena (SMAG, Riva del Garda)   Solisti: Rosanna Lo Greco (Soprano), Eugenia Zuin (Contralto 20&amp;frasl;05), Luciana Pansa (Contralto 21&amp;frasl;05), Paolo Antognetti (Tenore), Maurizio Franceschetti (Basso)</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>2016 on I Filarmonici di Trento</title>
+		<link>https://www.filarmonicitrento.it/2016/</link>
+		<description>Recent content in 2016 on I Filarmonici di Trento</description>
+		<generator>Hugo</generator>
+		<language>it</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 22 Feb 2019 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://www.filarmonicitrento.it/2016/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Concerti di Natale</title>
+				<link>https://www.filarmonicitrento.it/2016/concerti_natale/</link>
+				<pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+				<guid>https://www.filarmonicitrento.it/2016/concerti_natale/</guid>
+				<description>&lt;center&gt;&#xD;&#xA;&lt;h5 id=&#34;trento---basilicata-di-santa-maria-maggiore---sabato-17-dicembre-ore-2030&#34;&gt;Trento - Basilicata di Santa Maria Maggiore - Sabato 17 Dicembre, ore 20:30&lt;/h5&gt;&#xA;&lt;h5 id=&#34;bolognano-darco---chiesa-parrocchiale-di-bolognano-darco---domenica-18-dicembre-ore-1700&#34;&gt;Bolognano d&amp;rsquo;Arco - Chiesa Parrocchiale di Bolognano d&amp;rsquo;Arco - Domenica 18 Dicembre, ore 17:00&lt;/h5&gt;&#xA;&lt;h5 id=&#34;sardagna---chiesa-parrocchiale-di-sardagna---lunedì-19-dicembre-ore-2030&#34;&gt;Sardagna - Chiesa Parrocchiale di Sardagna - Lunedì 19 Dicembre, ore 20:30&lt;/h5&gt;&#xA;&lt;/center&gt;&#xD;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Programma&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;G. Gabrieli (1557 – 1612)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sonata pian&amp;rsquo; e forte - Ch 175&lt;/li&gt;&#xA;&lt;li&gt;Canzon Septimi Toni  - Ch 172&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;em&gt;W.A. Mozart (1756 - 1791)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&amp;ldquo;Et Incarnatus Est&amp;rdquo; - Dalla &amp;ldquo;Messa in Do Minore&amp;rdquo; K427&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;em&gt;A. Dvorak (1841 – 1904)&lt;/em&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Concerto lirico</title>
+				<link>https://www.filarmonicitrento.it/2016/concerto_lirico/</link>
+				<pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+				<guid>https://www.filarmonicitrento.it/2016/concerto_lirico/</guid>
+				<description>&lt;center&gt;&#xD;&#xA;&lt;h5 id=&#34;rovereto---sala-della-filarmonica---domenica-5-giugno-ore-2030&#34;&gt;Rovereto - Sala della Filarmonica - Domenica 5 Giugno, ore 20:30&lt;/h5&gt;&#xA;&lt;/center&gt;&#xD;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Programma&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;W.A. Mozart&lt;/em&gt; -  da &amp;ldquo;La Clemenza di Tito&amp;rdquo; – Ouverture&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;J. Offenbach&lt;/em&gt; -  da &amp;ldquo;Les Contes d&amp;rsquo;Hoffmann&amp;rdquo; –  Les oiseaux dans la charmille – soprano&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;G. Puccini&lt;/em&gt; - da &amp;ldquo;Gianni Schicchi&amp;rdquo; –  O mio babbino caro – soprano&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;G. Donizetti&lt;/em&gt; -  da &amp;ldquo;Don Pasquale&amp;rdquo; – Bella siccome un angelo – tenore&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;G. Puccini&lt;/em&gt; -  da &amp;ldquo;Tosca&amp;rdquo; –  E lucean le stelle – tenore&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;G. Verdi&lt;/em&gt; - da &amp;ldquo;Vespri Siciliani&amp;rdquo; –  Mercè dilette amiche – soprano&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;P. Mascagni&lt;/em&gt; - da &amp;ldquo;Cavalleria Rusticana&amp;rdquo; – Intermezzo&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;J. Offenbach&lt;/em&gt; - da &amp;ldquo;Les Contes d&amp;rsquo;Hoffmann&amp;rdquo; –  Belle nuit, o nuit d&amp;rsquo;amour – soprano, mezzosoprano&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;G. Verdi&lt;/em&gt; -  da &amp;ldquo;La Traviata&amp;rdquo; –  Libiam ne lieti calici – soprano, tenore&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;G. Verdi&lt;/em&gt; -  da &amp;ldquo;Nabucco&amp;rdquo;  – Terzetto &amp;ldquo;Io t&amp;rsquo;amava&amp;rdquo; – soprano, mezzosoprano, tenore&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;G. Puccini&lt;/em&gt; -  da &amp;ldquo;Boheme&amp;rdquo; –  Quartetto &amp;ldquo;Dunque è proprio finita&amp;rdquo; – soprano, soprano, tenore, baritono&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;G. Verdi&lt;/em&gt; -  da &amp;ldquo;Rigoletto&amp;rdquo; –  Quartetto &amp;ldquo;Bella figlia dell&amp;rsquo;amore&amp;rdquo; – soprano, mezzosoprano, tenore, baritono&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;G. Rossini&lt;/em&gt; - da &amp;ldquo;La Cenerentola&amp;rdquo; – Sestetto &amp;ldquo;Questo è un nodo avviluppato&amp;rdquo;  – soprano, mezzosoprano, mezzosoprano, tenore, baritono, basso&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Classe di Canto di Sabrina Modena (SMAG,  Riva del Garda)&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Solisti:&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Natale in Duomo</title>
+				<link>https://www.filarmonicitrento.it/2016/natale_duomo/</link>
+				<pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+				<guid>https://www.filarmonicitrento.it/2016/natale_duomo/</guid>
+				<description>&lt;center&gt;&#xA;&lt;h5 id=&#34;duomo-di-trento---sabato-24-dicembre-ore-2330&#34;&gt;Duomo di Trento - Sabato 24 Dicembre, ore 23:30&lt;/h5&gt;&#xA;&lt;/center&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Programma&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;center&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://www.filarmonicitrento.it/images/Natale_2016.jpg&#34; width=&#34;500px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;/center&gt;</description>
+			</item>
+			<item>
+				<title>TEDxTrento</title>
+				<link>https://www.filarmonicitrento.it/2016/tedxtrento/</link>
+				<pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+				<guid>https://www.filarmonicitrento.it/2016/tedxtrento/</guid>
+				<description>&lt;center&gt;&#xD;&#xA;&lt;h5 id=&#34;teatro-auditorium-santa-chiara---lunedì-27-novembre-ore-1000&#34;&gt;Teatro Auditorium Santa Chiara - Lunedì 27 Novembre, ore 10:00&lt;/h5&gt;&#xA;&lt;/center&gt;&#xD;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Programma&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;G. Puccini&lt;/em&gt; - &amp;ldquo;Nessun dorma&amp;rdquo; da Turandot&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Classe di Canto Lirico di Sabrina Modena (SMAG,  Riva del Garda)&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tenore Solista: Filippo Nardin&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Direttore: &lt;em&gt;Alessandro Arnoldo&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;center&gt;&#xD;&#xA;&lt;h2 id=&#34;hahahugoshortcode56s0hbhb&#34;&gt;&lt;figure&gt;&lt;img src=&#34;https://www.filarmonicitrento.it/images/TEDxTrento_1.jpg&#34; width=&#34;500px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;hahahugoshortcode56s1hbhb&#34;&gt;&lt;figure&gt;&lt;img src=&#34;https://www.filarmonicitrento.it/images/TEDxTrento_2.jpg&#34; width=&#34;500px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;hahahugoshortcode56s2hbhb&#34;&gt;&lt;figure&gt;&lt;img src=&#34;https://www.filarmonicitrento.it/images/TEDxTrento_3.jpg&#34; width=&#34;500px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;hahahugoshortcode56s3hbhb&#34;&gt;&lt;figure&gt;&lt;img src=&#34;https://www.filarmonicitrento.it/images/TEDxTrento_4.jpg&#34; width=&#34;500px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;hahahugoshortcode56s4hbhb&#34;&gt;&lt;figure&gt;&lt;img src=&#34;https://www.filarmonicitrento.it/images/TEDxTrento_5.jpg&#34; width=&#34;500px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/h2&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://www.filarmonicitrento.it/images/TEDxTrento_6.jpg&#34; width=&#34;500px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;/center&gt;</description>
+			</item>
+			<item>
+				<title>Verdi Requiem - giugno</title>
+				<link>https://www.filarmonicitrento.it/2016/verdi_requiem_giugno/</link>
+				<pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+				<guid>https://www.filarmonicitrento.it/2016/verdi_requiem_giugno/</guid>
+				<description>&lt;center&gt;&#xD;&#xA;&lt;h5 id=&#34;hamburg---st-johannis-kulturkirche-altona---sabato-25-giugno-ore-2030&#34;&gt;Hamburg - St. Johannis Kulturkirche Altona - Sabato 25 Giugno, ore 20:30&lt;/h5&gt;&#xA;&lt;h5 id=&#34;glückstadt---stadtkirche-glückstadt---domenica-26-giugno-ore-1630&#34;&gt;Glückstadt - Stadtkirche Glückstadt - Domenica 26 Giugno, ore 16:30&lt;/h5&gt;&#xA;&lt;/center&gt;&#xD;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Programma&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;G. Verdi&lt;/em&gt; - Messa da Requiem&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Coro Città di Piazzola sul Brenta&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Chor der Friedenskirche, Hamburg&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Kammerorchester St. Pauli, Hamburg&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Classe di Canto Lirico di Sabrina Modena (SMAG,  Riva del Garda)&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Solisti: Rosanna Lo Greco (Soprano), Eugenia Zuin (Mezzosoprano), Riccardo Gatto (Tenore), Maurizio Franceschetti (Basso)&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Verdi Requiem - maggio</title>
+				<link>https://www.filarmonicitrento.it/2016/verdi_requiem_maggio/</link>
+				<pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+				<guid>https://www.filarmonicitrento.it/2016/verdi_requiem_maggio/</guid>
+				<description>&lt;center&gt;&#xD;&#xA;&lt;h5 id=&#34;piazzola-sul-brenta---duomo---venerdì-20-maggio-ore-2100&#34;&gt;Piazzola sul Brenta - Duomo - Venerdì 20 Maggio, ore 21:00&lt;/h5&gt;&#xA;&lt;h5 id=&#34;trento---teatro-sociale---sabato-21-maggio-ore-2030&#34;&gt;Trento - Teatro Sociale - Sabato 21 Maggio, ore 20:30&lt;/h5&gt;&#xA;&lt;/center&gt;&#xD;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Programma&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;G. Verdi&lt;/em&gt; - Messa da Requiem&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Coro Città di Piazzola sul Brenta&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Chor der Friedenskirche, Hamburg&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Kammerorchester St. Pauli, Hamburg&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Classe di Canto Lirico di Sabrina Modena (SMAG,  Riva del Garda)&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Solisti: Rosanna Lo Greco (Soprano), Eugenia Zuin (Contralto 20/05), Luciana Pansa (Contralto 21/05), Paolo Antognetti (Tenore), Maurizio Franceschetti (Basso)&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

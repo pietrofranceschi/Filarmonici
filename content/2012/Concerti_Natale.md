@@ -7,6 +7,7 @@ title = "Concerti di Natale"
 
 
 <center>
+
 ##### Trento - Chiesa di S. Pietro - Martedì, 18 dicembre, ore 20:45
 ##### Villazzano - Chiesa parrocchiale - Mercoledì, 19 dicembre, ore 20:45
 ##### Montevaccino - Centro Civico - Venerdì, 21 dicembre, ore 20:45
@@ -35,6 +36,6 @@ Direttore: *Sergio Lasaponara*
 
 <center>
 
-{{< figure src="../../images/locandina_Natale_2012.png" width="500px">}}
+{{< figure src="/images/locandina_Natale_2012.jpg" width="500px">}}
 
 </center>

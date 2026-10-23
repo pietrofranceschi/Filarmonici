@@ -6,6 +6,7 @@ title = "Concerti di Natale"
 +++
 
 <center>
+
 ##### Chiesa di Bolognano d'Arco - Domenica 17 Dicembre, ore 17:00
 ##### Chiesa di Calavino - Venerdì 22 Dicembre, ore 20:30
 ##### Chiesa di Mori - Martedì 26 Dicembre, ore 19:00
@@ -36,6 +37,6 @@ Direttore: *Alessandro Arnoldo*
 
 <center>
 
-{{< figure src="../../images/Concerti_Natale_2017.jpeg" width="500px">}}
+{{< figure src="/images/Concerti_Natale_2017.jpeg" width="500px">}}
 
 </center>

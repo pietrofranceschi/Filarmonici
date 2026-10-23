@@ -5,6 +5,7 @@ title = "Contatti"
 +++
 
 <center>
+
 ##### **“I Filarmonici” di Trento** - Associazione Culturale  
 c/o Società filarmonica di Trento,  
 Via Verdi, 30  

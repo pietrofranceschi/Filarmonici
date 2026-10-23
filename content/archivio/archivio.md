@@ -1,8 +1,51 @@
-﻿+++
++++
 
-date = "2021-5-17"
+date = "2026-10-23"
 title = "Concerti"
 +++
+
+## 2026
+
+* [Festival di Musica Sacra - Donizetti, Messa da Requiem]({{< ref "../2026/musica_sacra.md" >}})
+* [Beethoven in movimento]({{< ref "../2026/beethoven_in_movimento.md" >}})
+
+---
+
+## 2025
+
+* [Concerto di S. Stefano - Mori]({{< ref "../2025/santo_stefano_mori.md" >}})
+* [Festival di Musica Sacra - Bellini, Rheinberger]({{< ref "../2025/musica_sacra.md" >}})
+* [In Memoriam - Rovereto]({{< ref "../2025/in_memoriam.md" >}})
+* [Dvořák, Dal Nuovo Mondo]({{< ref "../2025/nuovo_mondo.md" >}})
+
+---
+
+## 2024
+
+* [Festival di Musica Sacra - Mendelssohn, Miserachs]({{< ref "../2024/musica_sacra.md" >}})
+* [Beethoven "Imperatore" - Grieg, Peer Gynt]({{< ref "../2024/imperatore.md" >}})
+
+---
+
+## 2023
+
+* [Festival di Musica Sacra - Sorella musica]({{< ref "../2023/musica_sacra.md" >}})
+* [W.A. Mozart - Don Giovanni in forma di concerto]({{< ref "../2023/don_giovanni.md" >}})
+
+---
+
+## 2022
+
+* [Spagna ed Austria allo specchio]({{< ref "../2022/spagna_austria.md" >}})
+
+---
+
+## 2021
+
+* [Concerti di Natale]({{< ref "../2021/concerti_natale.md" >}})
+* [Si torna all'Opera]({{< ref "../2021/si_torna_all_opera.md" >}})
+
+---
 
 ## 2020
 
@@ -13,11 +56,11 @@ title = "Concerti"
 
 ## 2019
 
-* [Celebrazione del Natale nel Duomo di Trento]({{< ref "../2019/concerto_natale.md" >}})
-* [Concerti di Natale]({{< ref "../2019/concerto_natale_duomo.md" >}})
+* [Concerti di Natale]({{< ref "../2019/concerto_natale.md" >}})
+* [Celebrazione del Natale nel Duomo di Trento]({{< ref "../2019/concerto_natale_duomo.md" >}})
 * [Concerto per i Vent'anni]({{< ref "../2019/concerto_ventanni.md" >}})
 * [Galà Concerto - Fondazione Lucarelli Irion]({{< ref "../2019/gala_rovereto.md" >}})
-* [Capolavori in Orchestra - Lugano] ({{< ref "../2019/gala_lugano.md" >}})
+* [Capolavori in Orchestra - Lugano]({{< ref "../2019/gala_lugano.md" >}})
 
 ---
 
@@ -44,10 +87,10 @@ title = "Concerti"
 
 ## 2016
 
-* Celebrazione del Natale nel Duomo di Trento
+* [Celebrazione del Natale nel Duomo di Trento]({{< ref "../2016/Natale_Duomo.md" >}})
 * [Concerti di Natale]({{< ref "../2016/Concerti_Natale.md" >}})
 * [TEDxTrento]({{< ref "../2016/TEDxTrento.md" >}})
-* [Requem di Verdi - Maggio]({{< ref "../2016/Verdi_Requiem_maggio.md" >}})
+* [Requiem di Verdi - Maggio]({{< ref "../2016/Verdi_Requiem_maggio.md" >}})
 * [Requiem di Verdi - Giugno]({{< ref "../2016/Verdi_Requiem_giugno.md" >}})
 * [Concerto Lirico]({{< ref "../2016/Concerto_lirico.md" >}})
 
@@ -58,7 +101,7 @@ title = "Concerti"
 * [Celebrazione del Natale nel Duomo di Trento]({{< ref "../2015/Natale_Duomo.md" >}})
 * Concerto di Natale
 * [Concerto Sinfonico - Novembre]({{< ref "../2015/Sinfonico_Novembre.md" >}})
-* [Gemellaggio con Kepten]({{< ref "../2015/Gemellaggio_Kempten.md" >}})
+* [Gemellaggio con Kempten]({{< ref "../2015/Gemellaggio_Kempten.md" >}})
 * [Concerto Sinfonico - Maggio]({{< ref "../2015/Sinfonico_Maggio.md" >}})
 * [Requiem - Livorno]({{< ref "../2015/Requiem_Livorno.md" >}})
 * [Requiem - Marzo]({{< ref "../2015/Requiem_Marzo.md" >}})
@@ -75,7 +118,7 @@ title = "Concerti"
 ## 2013
 
 * [Celebrazione del Natale nel Duomo di Trento]({{< ref "../2013/Natale_Duomo.md" >}})
-* [Concerto di Natale] ({{< ref "../2013/Concerto_Natale.md" >}})
+* [Concerto di Natale]({{< ref "../2013/Concerto_Natale.md" >}})
 * [Concerto di Natale per Amnesty International]({{< ref "../2013/Concerto_Natale_Amnesty_International.md" >}})
 * In Viaggio con Mozart
 * Concerto sinfonico
@@ -187,7 +230,7 @@ title = "Concerti"
 ## 1998
 * [10° Ricordo di un Amico - Caldonazzo]({{< ref "../1998/concerto_amico.md" >}})
 * [Celebrazione del Natale nel Duomo di Trento]({{< ref "../1998/Natale_Duomo.md" >}})
-* [Concerto Sinfonico Corale - Bagnoa Ripoli, Firenze]({{< ref "../1998/concerto_firenze.md" >}})
+* [Concerto Sinfonico Corale - Bagno a Ripoli, Firenze]({{< ref "../1998/concerto_firenze.md" >}})
 
 ---
 

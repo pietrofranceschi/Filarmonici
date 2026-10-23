@@ -6,6 +6,7 @@ title = "Gemellaggio con Kempten"
 +++
 
 <center>
+
 ##### Trento - Sala della Filarmonica - Sabato 26 Settembre, ore 18:00
 
 </center>
@@ -30,6 +31,6 @@ title = "Gemellaggio con Kempten"
 
 <center>
 
-{{< figure src="../../images/Kempten_2015.jpeg" width="500px">}}
+{{< figure src="/images/Kempten_2015.jpeg" width="500px">}}
 
 </center>

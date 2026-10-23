@@ -6,6 +6,7 @@ title = "Concerti di Natale"
 +++
 
 <center>
+
 ##### Trento - Basilicata di Santa Maria Maggiore - Sabato 17 Dicembre, ore 20:30
 ##### Bolognano d'Arco - Chiesa Parrocchiale di Bolognano d'Arco - Domenica 18 Dicembre, ore 17:00
 ##### Sardagna - Chiesa Parrocchiale di Sardagna - Lunedì 19 Dicembre, ore 20:30
@@ -45,6 +46,6 @@ Direttore: *Alessandro Arnoldo*
 
 <center>
 
-{{< figure src="../../images/Concerti_Natale_2016.jpg" width="500px">}}
+{{< figure src="/images/Concerti_Natale_2016.jpg" width="500px">}}
 
 </center>

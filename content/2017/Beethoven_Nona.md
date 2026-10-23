@@ -39,19 +39,19 @@ Maestri concertatori: *Alessandro Arnoldo*, *Mauro Roveri*
 
 <center>
 
-{{< figure src="../../images/Beethoven_Trento_2017.jpeg" width="500px">}}
+{{< figure src="/images/Beethoven_Trento_2017.jpeg" width="500px">}}
 
 ---
 
-{{< figure src="../../images/Beethoven_Piazzola_2017.png" width="500px">}}
+{{< figure src="/images/Beethoven_Piazzola_2017.jpg" width="500px">}}
 
 ---
 
-{{< figure src="../../images/Beethoven_abano_2017.jpeg" width="500px">}}
+{{< figure src="/images/Beethoven_abano_2017.jpeg" width="500px">}}
 
 ---
 
-{{< figure src="../../images/Beethoven_Monselice_2017.jpeg" width="500px">}}
+{{< figure src="/images/Beethoven_Monselice_2017.jpeg" width="500px">}}
 
 
 </center>

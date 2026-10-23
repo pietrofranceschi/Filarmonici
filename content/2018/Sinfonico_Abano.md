@@ -6,6 +6,7 @@ title = "concerto Sinfonico"
 +++
 
 <center>
+
 ##### Abano Terme - Sabato 22 Giugno, ore 21:00
 </center>
 
@@ -26,5 +27,6 @@ Direttore: *Andrea Albertin*
 ---
 
 <center>
-{{< figure src="../../images/sinfonico_abano.jpeg" width="500px">}}
+
+{{< figure src="/images/sinfonico_abano.jpeg" width="500px">}}
 </center>

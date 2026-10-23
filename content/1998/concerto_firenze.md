@@ -6,6 +6,7 @@ title = "Firenze 1998"
 +++
 
 <center>
+
 ##### Bagno A Ripoli (FI) - Pieve di S. Maria all'Antella - Sabato 30 Maggio, ore 21:30
 </center>
 
@@ -39,14 +40,14 @@ Direttore: *Fabrizio Cunial*
 
 <center>
 
-{{< figure src="../../images/firenze_98.png" width="400px">}}
+{{< figure src="/images/firenze_98.jpg" width="400px">}}
 
 ---
 
-{{< figure src="../../images/firenze_98_2.png" width="500px">}}
+{{< figure src="/images/firenze_1998_2.jpg" width="500px">}}
 
 ---
 
-{{< figure src="../../images/firenze_98_1.png" width="100px">}}
+{{< figure src="/images/firenze_1998_1.jpg" width="100px">}}
 
 </center>

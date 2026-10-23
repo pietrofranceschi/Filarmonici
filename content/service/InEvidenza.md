@@ -4,5 +4,5 @@ title = "Concerti di Natale"
 +++
 
 
-{{< figure src="images/Natale2018.jpg" height="800px">}}
+{{< figure src="/images/Natale2018.jpg" height="800px">}}
 

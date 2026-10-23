@@ -1,25 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Curriculums on I Filarmonici di Trento</title>
-    <link>https://www.filarmonicitrento.it/curriculum/</link>
-    <description>Recent content in Curriculums on I Filarmonici di Trento</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>it</language>
-    <lastBuildDate>Fri, 22 Feb 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.filarmonicitrento.it/curriculum/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>I Filarmonici di Trento</title>
-      <link>https://www.filarmonicitrento.it/curriculum/curriculum/</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.filarmonicitrento.it/curriculum/curriculum/</guid>
-      <description>Fin dalla sua fondazione nel 1999, l&amp;rsquo;orchestra I Filarmonici di Trento ha inteso creare uno spazio dedicato ai cultori della musica e ai giovani musicisti diplomandi o diplomati, che desiderino bilanciare lo studio del repertorio e le pubbliche esecuzioni.
-Su queste basi, I Filarmonici hanno stretto importanti collaborazioni artistiche con altre Associazioni e gruppi musicali, facendosi promotori di progetti culturali innovativi, volti a valorizzare le energie creative ed artistiche presenti sul territorio.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Curriculum on I Filarmonici di Trento</title>
+		<link>https://www.filarmonicitrento.it/curriculum/</link>
+		<description>Recent content in Curriculum on I Filarmonici di Trento</description>
+		<generator>Hugo</generator>
+		<language>it</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 22 Feb 2019 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://www.filarmonicitrento.it/curriculum/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>I Filarmonici di Trento</title>
+				<link>https://www.filarmonicitrento.it/curriculum/curriculum/</link>
+				<pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+				<guid>https://www.filarmonicitrento.it/curriculum/curriculum/</guid>
+				<description>&lt;p&gt;Fin dalla sua fondazione nel 1999, l&amp;rsquo;orchestra &lt;em&gt;I Filarmonici&lt;/em&gt; di Trento ha inteso creare uno spazio dedicato ai cultori della musica e ai giovani musicisti diplomandi o diplomati, che desiderino bilanciare lo studio del repertorio e le pubbliche esecuzioni.&lt;/p&gt;&#xA;&lt;p&gt;Su queste basi, &lt;em&gt;I Filarmonici&lt;/em&gt; hanno stretto importanti collaborazioni artistiche con altre Associazioni e gruppi musicali, facendosi promotori di progetti culturali innovativi, volti a valorizzare le energie creative ed artistiche presenti sul territorio.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

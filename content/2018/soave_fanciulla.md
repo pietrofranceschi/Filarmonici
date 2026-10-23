@@ -6,6 +6,7 @@ title = "Concerto Lirico - o soave Fanciulla"
 +++
 
 <center>
+
 ##### Arco, Casinò Municipale, venerdì 2 giugno, ore 20:45
 ##### Villazzano, Teatro, sabato 10 giugno, ore 20:45
 </center>
@@ -59,11 +60,11 @@ Maestro Concertatore: *Stefano Torboli*
 
 <center>
 
-{{< figure src="../../images/concerto_lirico_villazzano.jpeg" width="500px">}}
+{{< figure src="/images/concerto_lirico_villazzano.jpeg" width="500px">}}
 
 ---
 
-{{< figure src="../../images/Concerto-lirico-Arco.png" width="500px">}}
+{{< figure src="/images/Concerto-lirico-Arco.jpg" width="500px">}}
 
 
 

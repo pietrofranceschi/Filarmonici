@@ -6,6 +6,7 @@ title = "TEDxTrento"
 +++
 
 <center>
+
 ##### Teatro Auditorium Santa Chiara - Lunedì 27 Novembre, ore 10:00
 </center>
 
@@ -32,16 +33,16 @@ Direttore: *Alessandro Arnoldo*
 
 <center>
 
-{{< figure src="../../images/TEDxTrento_1.jpg" width="500px">}}
+{{< figure src="/images/TEDxTrento_1.jpg" width="500px">}}
 ---
-{{< figure src="../../images/TEDxTrento_2.jpg" width="500px">}}
+{{< figure src="/images/TEDxTrento_2.jpg" width="500px">}}
 ---
-{{< figure src="../../images/TEDxTrento_3.jpg" width="500px">}}
+{{< figure src="/images/TEDxTrento_3.jpg" width="500px">}}
 ---
-{{< figure src="../../images/TEDxTrento_4.jpg" width="500px">}}
+{{< figure src="/images/TEDxTrento_4.jpg" width="500px">}}
 ---
-{{< figure src="../../images/TEDxTrento_5.jpg" width="500px">}}
+{{< figure src="/images/TEDxTrento_5.jpg" width="500px">}}
 ---
-{{< figure src="../../images/TEDxTrento_6.jpg" width="500px">}}
+{{< figure src="/images/TEDxTrento_6.jpg" width="500px">}}
 
 </center>

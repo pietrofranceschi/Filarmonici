@@ -6,6 +6,7 @@ title = "Requiem di Cherubini"
 +++
 
 <center>
+
 ##### Padova, Aula Magna del Palazzo del Bo, domenica 15 Aprile, ore 15:00
 ##### Lavis, Chiesa Parrocchiale, Sabato 21 Aprile, ore 21:00
 ##### Trento, Chiesa di S. Francesco Saverio, domenica 22 Aprile, ore 18:30
@@ -33,14 +34,14 @@ Maestri Concertatori: *Alessandro Arnoldo*, *Mauro Roveri*
 
 <center>
 
-{{< figure src="../../images/cherubini_trento.png" width="500px">}}
+{{< figure src="/images/cherubini_trento.jpg" width="500px">}}
 
 ---
 
-{{< figure src="../../images/Cherubini-Lavis.jpeg" width="500px">}}
+{{< figure src="/images/Cherubini-Lavis.jpeg" width="500px">}}
 
 ---
 
-{{< figure src="../../images/Cherubini-Piove-di-Sacco.jpeg" width="500px">}}
+{{< figure src="/images/Cherubini-Piove-di-Sacco.jpeg" width="500px">}}
 
 </center>

@@ -1,11 +1,12 @@
 +++
 
 date = "2019-02-22"
-title = "Concerto lirico "
+title = "Concerto lirico"
 
 +++
 
 <center>
+
 ##### Rovereto - Sala della Filarmonica - Domenica 5 Giugno, ore 20:30
 </center>
 

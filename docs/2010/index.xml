@@ -1,39 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>2010s on I Filarmonici di Trento</title>
-    <link>https://www.filarmonicitrento.it/2010/</link>
-    <description>Recent content in 2010s on I Filarmonici di Trento</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>it</language>
-    <lastBuildDate>Fri, 22 Feb 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.filarmonicitrento.it/2010/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Concerto di Natale</title>
-      <link>https://www.filarmonicitrento.it/2010/concerto_natale/</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.filarmonicitrento.it/2010/concerto_natale/</guid>
-      <description>Trento - Chiesa di S. Pio X - Giovedì, 23 dicembre, ore 20:30 
-Programma
- Antonio Vivaldi - Concerto in fa maggiore op. 10 Rv 433 &amp;ldquo;La tempesta di mare&amp;rdquo; per flauto, orchestra d&amp;rsquo;archi e cembalo Antonio Vivaldi - Concerto in sol minore op. 10 Rv 439 &amp;ldquo;La notte&amp;rdquo; per flauto, orchestra d&amp;rsquo;archi e cembalo Johann Sebastian Bach - Suite n. 2 in si minore BWV 1067 per flauto, orchestra d&amp;rsquo;archi e cembalo Fabrizio Cunial (arr.</description>
-    </item>
-    
-    <item>
-      <title>Natale in Duomo</title>
-      <link>https://www.filarmonicitrento.it/2010/natale_duomo/</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.filarmonicitrento.it/2010/natale_duomo/</guid>
-      <description>Duomo di Trento - Venerdì 24 Dicembre, ore 23:30 
-Programma
- Johann Sebastian Bach - Suite n. 2 in si min. BWV 1067 canti natalizi  Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento
-Flauto: Stefano Chesini
-Direttore: Fabrizio Cunial</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>2010 on I Filarmonici di Trento</title>
+		<link>https://www.filarmonicitrento.it/2010/</link>
+		<description>Recent content in 2010 on I Filarmonici di Trento</description>
+		<generator>Hugo</generator>
+		<language>it</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 22 Feb 2019 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://www.filarmonicitrento.it/2010/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Concerto di Natale</title>
+				<link>https://www.filarmonicitrento.it/2010/concerto_natale/</link>
+				<pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+				<guid>https://www.filarmonicitrento.it/2010/concerto_natale/</guid>
+				<description>&lt;center&gt;&#xA;&lt;h5 id=&#34;trento---chiesa-di-s-pio-x---giovedì-23-dicembre-ore-2030&#34;&gt;Trento - Chiesa di S. Pio X - Giovedì, 23 dicembre, ore 20:30&lt;/h5&gt;&#xA;&lt;/center&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Programma&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;Antonio Vivaldi&lt;/em&gt; - Concerto in fa maggiore op. 10 Rv 433 &amp;ldquo;La tempesta di mare&amp;rdquo; per flauto, orchestra d&amp;rsquo;archi e cembalo&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Antonio Vivaldi&lt;/em&gt; - Concerto in sol minore op. 10 Rv 439 &amp;ldquo;La notte&amp;rdquo; per flauto, orchestra d&amp;rsquo;archi e cembalo&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Johann Sebastian Bach&lt;/em&gt; - Suite n. 2 in si minore BWV 1067 per flauto, orchestra d&amp;rsquo;archi e cembalo&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Fabrizio Cunial (arr.)&lt;/em&gt; -Canti natalizi: Adeste fideles, Tu scendi dalle stelle, Stille Nacht&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Flauto: Stefano Chesini&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Direttore: &lt;em&gt;Fabrizio Cunial&lt;/em&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Natale in Duomo</title>
+				<link>https://www.filarmonicitrento.it/2010/natale_duomo/</link>
+				<pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+				<guid>https://www.filarmonicitrento.it/2010/natale_duomo/</guid>
+				<description>&lt;center&gt;&#xA;&lt;h5 id=&#34;duomo-di-trento---venerdì-24-dicembre-ore-2330&#34;&gt;Duomo di Trento - Venerdì 24 Dicembre, ore 23:30&lt;/h5&gt;&#xA;&lt;/center&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Programma&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;Johann Sebastian Bach&lt;/em&gt; - Suite n. 2 in si min. BWV 1067&lt;/li&gt;&#xA;&lt;li&gt;canti natalizi&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Orchestra &amp;ldquo;I Filarmonici&amp;rdquo; di Trento&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Flauto: Stefano Chesini&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Direttore: &lt;em&gt;Fabrizio Cunial&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;center&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://www.filarmonicitrento.it/images/Natale2010_1.jpeg&#34; width=&#34;500px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;hr&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://www.filarmonicitrento.it/images/Natale2010_2.jpeg&#34; width=&#34;500px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;hr&gt;&#xA;&lt;/center&gt;</description>
+			</item>
+	</channel>
 </rss>

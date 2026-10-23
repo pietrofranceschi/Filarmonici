@@ -6,6 +6,7 @@ title = "Mozart - Requiem"
 +++
 
 <center>
+
 ##### Trento - S. Maria Maggiore - Sabato 21 Marzo, ore 20:45
 ##### Padova - S. Sofia - Domenica 22 Marzo, ore 20:45
 </center>
@@ -37,10 +38,10 @@ title = "Mozart - Requiem"
 
 <center>
 
-{{< figure src="../../images/locandina_Requiem_2015_TN.png" width="500px">}}
+{{< figure src="/images/locandina_Requiem_2015_TN.jpg" width="500px">}}
 
 ---
 
-{{< figure src="../../images/locandina_Requiem_2015_PD.png" width="500px">}}
+{{< figure src="/images/locandina_Requiem_2015_PD.jpg" width="500px">}}
 
 </center>

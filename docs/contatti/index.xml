@@ -1,30 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Contattis on I Filarmonici di Trento</title>
-    <link>https://www.filarmonicitrento.it/contatti/</link>
-    <description>Recent content in Contattis on I Filarmonici di Trento</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>it</language>
-    <lastBuildDate>Mon, 17 Jun 2013 12:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.filarmonicitrento.it/contatti/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Contatti</title>
-      <link>https://www.filarmonicitrento.it/contatti/contatti/</link>
-      <pubDate>Mon, 17 Jun 2013 12:00:00 +0000</pubDate>
-      
-      <guid>https://www.filarmonicitrento.it/contatti/contatti/</guid>
-      <description> 
-“I Filarmonici” di Trento - Associazione Culturale c/o Società filarmonica di Trento,
-Via Verdi, 30
-38121 Trento, Italia
-email: filarmonicitrento[at]gmail.com
-
-Consiglio Direttivo  Pietro Franceschi - presidente Roberto Guastamacchia - tesoriere Emma Gasperi Irene Metere Francesca Chemolli Paolo Segatta Osvaldo Demozzi  Direzione Artistica  Alessandro Arnoldo  </description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Contatti on I Filarmonici di Trento</title>
+		<link>https://www.filarmonicitrento.it/contatti/</link>
+		<description>Recent content in Contatti on I Filarmonici di Trento</description>
+		<generator>Hugo</generator>
+		<language>it</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 17 Jun 2013 12:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://www.filarmonicitrento.it/contatti/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Contatti</title>
+				<link>https://www.filarmonicitrento.it/contatti/contatti/</link>
+				<pubDate>Mon, 17 Jun 2013 12:00:00 +0000</pubDate>
+				<guid>https://www.filarmonicitrento.it/contatti/contatti/</guid>
+				<description>&lt;center&gt;&#xA;&lt;h5 id=&#34;i-filarmonici-di-trento---associazione-culturale&#34;&gt;&lt;strong&gt;“I Filarmonici” di Trento&lt;/strong&gt; - Associazione Culturale&lt;/h5&gt;&#xA;&lt;p&gt;c/o Società filarmonica di Trento,&lt;br&gt;&#xA;Via Verdi, 30&lt;br&gt;&#xA;38121 Trento, Italia&lt;/p&gt;&#xA;&lt;p&gt;email: filarmonicitrento[at]gmail.com&lt;/p&gt;&#xA;&lt;/center&gt;&#xA;&lt;hr&gt;&#xA;&lt;h5 id=&#34;consiglio-direttivo&#34;&gt;Consiglio Direttivo&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Pietro Franceschi - presidente&lt;/li&gt;&#xA;&lt;li&gt;Roberto Guastamacchia - tesoriere&lt;/li&gt;&#xA;&lt;li&gt;Emma Gasperi&lt;/li&gt;&#xA;&lt;li&gt;Irene Metere&lt;/li&gt;&#xA;&lt;li&gt;Francesca Chemolli&lt;/li&gt;&#xA;&lt;li&gt;Paolo Segatta&lt;/li&gt;&#xA;&lt;li&gt;Osvaldo Demozzi&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h5 id=&#34;direzione-artistica&#34;&gt;Direzione Artistica&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://alessandroarnoldo.wixsite.com/alessandroarnoldo&#34;&gt;&lt;strong&gt;Alessandro Arnoldo&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+	</channel>
 </rss>

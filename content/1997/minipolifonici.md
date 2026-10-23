@@ -6,6 +6,7 @@ title = "Minipolifonici"
 +++
 
 <center>
+
 ##### Trento - Auditorium S. Chiara 
 </center>
 
@@ -26,7 +27,7 @@ Direttore: *Fabrizio Cunial*
 
 <center>
 
-{{< figure src="../../images/minipolifonici_1997.png" width="500px">}}
+{{< figure src="/images/minipolifonici_1997.jpg" width="500px">}}
 
 
 </center>

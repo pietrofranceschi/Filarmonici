@@ -6,6 +6,7 @@ title = "Musica nei Castelli"
 +++
 
 <center>
+
 ##### Castel Thun - Domenica 27 Agosto, ore 21:00
 </center>
 
@@ -34,11 +35,11 @@ Direttore: *Fabrizio Cunial*
 
 <center>
 
-{{< figure src="../../images/castelli_2000.png" width="400px">}}
+{{< figure src="/images/castelli_2000.jpg" width="400px">}}
 
 ---
 
-{{< figure src="../../images/castelli_2000_1.png" width="500px">}}
+{{< figure src="/images/castelli_2000_1.jpg" width="500px">}}
 
 
 </center>

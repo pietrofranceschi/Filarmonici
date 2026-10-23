@@ -6,6 +6,7 @@ title = "Minipolifonici"
 +++
 
 <center>
+
 ##### Trento - Auditorium S. Chiara - Domenica 2 Giugno
 </center>
 
@@ -30,10 +31,10 @@ Direttore: *Fabrizio Cunial*
 
 <center>
 
-{{< figure src="../../images/minipolifonici_1996.png" width="300px">}}
+{{< figure src="/images/minipolifonici_1996.jpg" width="300px">}}
 
 ---
 
-{{< figure src="../../images/minipolifonici_1996_1.png" width="700px">}}
+{{< figure src="/images/minipolifonici_1996_1.jpg" width="700px">}}
 
 </center>

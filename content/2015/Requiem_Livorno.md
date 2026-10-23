@@ -6,6 +6,7 @@ title = "Mozart - Requiem"
 +++
 
 <center>
+
 ##### Livorno - Teatro Goldoni - Sabato 18 Aprile, ore 20:45
 </center>
 
@@ -37,6 +38,6 @@ title = "Mozart - Requiem"
 
 <center>
 
-{{< figure src="../../images/Livorno_2015.jpeg" width="700px">}}
+{{< figure src="/images/Livorno_2015.jpeg" width="700px">}}
 
 </center>

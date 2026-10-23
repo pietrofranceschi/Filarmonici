@@ -8,6 +8,7 @@ title = "Concerti di Natale"
     
 
 <center>
+
 ##### Terlago - Chiesa di S. Andrea - Venerdì, 11 dicembre, ore 20:45
 ##### Trento - Chiesa di S. Pio X - Sabato, 19 dicembre, ore 20:45
 ##### Andalo - Chiesa Nuova - Martedì, 5 gennaio, ore 21:15
@@ -37,7 +38,7 @@ Direttore: *Fabrizio Cunial*
 
 <center>
 
-{{< figure src="../../images/locandina_Natale_2009.jpg" width="500px">}}
+{{< figure src="/images/locandina_Natale_2009.jpg" width="500px">}}
 
 
 </center>

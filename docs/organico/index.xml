@@ -1,30 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Organicos on I Filarmonici di Trento</title>
-    <link>https://www.filarmonicitrento.it/organico/</link>
-    <description>Recent content in Organicos on I Filarmonici di Trento</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>it</language>
-    <lastBuildDate>Fri, 22 Feb 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.filarmonicitrento.it/organico/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Organico</title>
-      <link>https://www.filarmonicitrento.it/organico/organico/</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.filarmonicitrento.it/organico/organico/</guid>
-      <description>Violini I: Gianni Romagnoli, Paolo Segatta, Luisa Giarrizzo, Emma Gasperi, Isabella Sito, Valentina Premier, Antonio Papapietro, Giulia Gaggero, Anita Carpentari
-Violini II: Francesca Chemolli, Arianna Baldo, Giovanna Ferrari, Alessandra Fruet, Elisa Libardi, Wolfgang Irler, Giuseppe De Nisi, Lisa Folcato, Rita Festi
-Viole: Chizuru Deguchi, Isabella Corbolini, Alessandro Gaddo, Ester Wegher
-Violoncelli: Silvano Zanoni, Osvaldo Demozzi, Elena Chini, Rosanna Evangelista
-Contrabbassi: Michele Tovazzi, Rodolfo Merizzi
-Flauti: Salvatore Lucci, Francesca Patuzzi
-Oboi: Claudio Dorigatti, Irene Metere</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Organico on I Filarmonici di Trento</title>
+		<link>https://www.filarmonicitrento.it/organico/</link>
+		<description>Recent content in Organico on I Filarmonici di Trento</description>
+		<generator>Hugo</generator>
+		<language>it</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 22 Feb 2019 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://www.filarmonicitrento.it/organico/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Organico</title>
+				<link>https://www.filarmonicitrento.it/organico/organico/</link>
+				<pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+				<guid>https://www.filarmonicitrento.it/organico/organico/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Violini I&lt;/strong&gt;: Gianni Romagnoli, Paolo Segatta, Luisa Giarrizzo, Emma Gasperi, Isabella Sito, Valentina Premier, Antonio Papapietro, Giulia Gaggero, Anita Carpentari&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Violini II&lt;/strong&gt;: Francesca Chemolli, Arianna Baldo, Giovanna Ferrari, Alessandra Fruet, Elisa Libardi, Wolfgang Irler, Giuseppe De Nisi, Lisa Folcato, Rita Festi&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Viole&lt;/strong&gt;: Chizuru Deguchi, Isabella Corbolini, Alessandro Gaddo, Ester Wegher&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Violoncelli&lt;/strong&gt;: Silvano Zanoni, Osvaldo Demozzi, Elena Chini, Rosanna Evangelista&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Contrabbassi&lt;/strong&gt;: Michele Tovazzi, Rodolfo Merizzi&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Flauti&lt;/strong&gt;: Salvatore Lucci, Francesca Patuzzi&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Oboi&lt;/strong&gt;:  Claudio Dorigatti, Irene Metere&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -35,6 +35,6 @@ title = "Concerto Sinfonico"
 
 <center>
 
-{{< figure src="../../images/locandina_maggio_2015.jpg" width="500px">}}
+{{< figure src="/images/locandina_maggio_2015.jpg" width="500px">}}
 
 </center>

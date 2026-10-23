@@ -6,6 +6,7 @@ title = "Tione Pianeta Musica"
 +++
 
 <center>
+
 ##### Tione - Scuola Musicale delle Giudicarie - Sabato 17 Aprile, ore 15:00
 </center>
 
@@ -32,11 +33,11 @@ Direttore: *Fabrizio Cunial*
 
 <center>
 
-{{< figure src="../../images/giudicarie_1999.png" width="400px">}}
+{{< figure src="/images/giudicarie_1999.jpg" width="400px">}}
 
 ---
 
-{{< figure src="../../images/giudicarie_1999_1.png" width="400px">}}
+{{< figure src="/images/giudicarie_1999_1.jpg" width="400px">}}
 
 
 </center>

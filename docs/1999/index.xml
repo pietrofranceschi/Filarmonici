@@ -1,38 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>1999s on I Filarmonici di Trento</title>
-    <link>https://www.filarmonicitrento.it/1999/</link>
-    <description>Recent content in 1999s on I Filarmonici di Trento</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>it</language>
-    <lastBuildDate>Fri, 22 Feb 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.filarmonicitrento.it/1999/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Concerto per Soli, Coro ed Orchestra</title>
-      <link>https://www.filarmonicitrento.it/1999/corale_calceranica/</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.filarmonicitrento.it/1999/corale_calceranica/</guid>
-      <description>Calceranica - Chiesa del S. Rosario - Domenica 12 Dicembre, ore 20:30 
-Programma
- A. Vivaldi - &amp;ldquo;La Tempesta di Mare&amp;rdquo; (Francesca Sacco - fg., Roberto Moser - ob., Stefano Chesini - fl.) A. Vivaldi - &amp;ldquo;Et Exsultavit&amp;rdquo; W.A. Mozart - &amp;ldquo;Laudate Dominum&amp;rdquo; W.A. Mozart - &amp;ldquo;Panis Angelicus&amp;rdquo; G Faurè - Sanctus dalla Messa da Requiem per coro ed Orchestra A. vivaldi - Magnificat Orchestra Amatoriale Città di Trento</description>
-    </item>
-    
-    <item>
-      <title>Tione Pianeta Musica</title>
-      <link>https://www.filarmonicitrento.it/1999/tione_pianeta_musica/</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.filarmonicitrento.it/1999/tione_pianeta_musica/</guid>
-      <description>Tione - Scuola Musicale delle Giudicarie - Sabato 17 Aprile, ore 15:00 
-Programma
- G. Rossini - Ouverture dal &amp;ldquo;Barbiere di Siviglia&amp;rdquo; L.v. Beethoven - Sinfonia n° 1 V. Gianferrari - Elegia  Orchestra Amatoriale Città di Trento
-Direttore: Fabrizio Cunial</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>1999 on I Filarmonici di Trento</title>
+		<link>https://www.filarmonicitrento.it/1999/</link>
+		<description>Recent content in 1999 on I Filarmonici di Trento</description>
+		<generator>Hugo</generator>
+		<language>it</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 22 Feb 2019 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://www.filarmonicitrento.it/1999/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Concerto per Soli, Coro ed Orchestra</title>
+				<link>https://www.filarmonicitrento.it/1999/corale_calceranica/</link>
+				<pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+				<guid>https://www.filarmonicitrento.it/1999/corale_calceranica/</guid>
+				<description>&lt;center&gt;&#xA;&lt;h5 id=&#34;calceranica---chiesa-del-s-rosario---domenica-12-dicembre-ore-2030&#34;&gt;Calceranica - Chiesa del S. Rosario - Domenica 12 Dicembre, ore 20:30&lt;/h5&gt;&#xA;&lt;/center&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Programma&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;A. Vivaldi&lt;/em&gt; - &amp;ldquo;La Tempesta di Mare&amp;rdquo; (Francesca Sacco - fg., Roberto Moser - ob., Stefano Chesini - fl.)&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;A. Vivaldi&lt;/em&gt; - &amp;ldquo;Et Exsultavit&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;W.A. Mozart&lt;/em&gt; - &amp;ldquo;Laudate Dominum&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;W.A. Mozart&lt;/em&gt; - &amp;ldquo;Panis Angelicus&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;G Faurè&lt;/em&gt; - &lt;em&gt;Sanctus&lt;/em&gt; dalla Messa da Requiem per coro ed Orchestra&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;A. vivaldi&lt;/em&gt; - &lt;em&gt;Magnificat&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Orchestra Amatoriale Città di Trento&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Coro Sociale di Pressano&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Corale Polifonica di Calceranica al Lago&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Soprano: Ulrike Malsiner&#xA;Mezzosoprano: Evi Gallmetzer&#xA;Tenore: Andrea Fasoli&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Tione Pianeta Musica</title>
+				<link>https://www.filarmonicitrento.it/1999/tione_pianeta_musica/</link>
+				<pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+				<guid>https://www.filarmonicitrento.it/1999/tione_pianeta_musica/</guid>
+				<description>&lt;center&gt;&#xA;&lt;h5 id=&#34;tione---scuola-musicale-delle-giudicarie---sabato-17-aprile-ore-1500&#34;&gt;Tione - Scuola Musicale delle Giudicarie - Sabato 17 Aprile, ore 15:00&lt;/h5&gt;&#xA;&lt;/center&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Programma&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;G. Rossini&lt;/em&gt; - Ouverture dal &amp;ldquo;Barbiere di Siviglia&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;L.v. Beethoven&lt;/em&gt; - Sinfonia n° 1&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;V. Gianferrari&lt;/em&gt; - &lt;em&gt;Elegia&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Orchestra Amatoriale Città di Trento&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Direttore: &lt;em&gt;Fabrizio Cunial&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;center&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://www.filarmonicitrento.it/images/giudicarie_1999.jpg&#34; width=&#34;400px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;hr&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://www.filarmonicitrento.it/images/giudicarie_1999_1.jpg&#34; width=&#34;400px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;/center&gt;</description>
+			</item>
+	</channel>
 </rss>

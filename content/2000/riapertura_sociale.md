@@ -6,6 +6,7 @@ title = "Eventi per la Riapertura del Teatro Sociale"
 +++
 
 <center>
+
 ##### Trento - Teatro Sociale - Sabato 17 Giugno, ore 20:30
 </center>
 
@@ -35,11 +36,11 @@ Direttore: *Fabrizio Cunial*
 
 <center>
 
-{{< figure src="../../images/sociale_2000.png" width="300px">}}
+{{< figure src="/images/sociale_2000.jpg" width="300px">}}
 
 ---
 
-{{< figure src="../../images/sociale_2000_1.png" width="500px">}}
+{{< figure src="/images/sociale_2000_1.jpg" width="500px">}}
 
 
 </center>

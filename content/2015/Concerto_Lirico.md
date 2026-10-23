@@ -6,6 +6,7 @@ title = "Concerto Lirico"
 +++
 
 <center>
+
 ##### Arco, Casinò Municipale, Domenica 18 Gennaio, ore 15:30
 ##### Ravina, Teatro Demattè, Sabato 31 Gennaio, ore 21:00
 </center>
@@ -63,6 +64,6 @@ Maestro Concertatore: *Maurizio Postai*
 
 <center>
 
-{{< figure src="../../images/lirico_2015.jpg" width="500px">}}
+{{< figure src="/images/lirico_2015.jpg" width="500px">}}
 
 </center>

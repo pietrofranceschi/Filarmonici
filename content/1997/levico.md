@@ -6,6 +6,7 @@ title = "Minipolifonici"
 +++
 
 <center>
+
 ##### Levico - Sala delle Terme - 27 Ottobre 
 </center>
 
@@ -33,7 +34,7 @@ Direttore: *Fabrizio Cunial*
 
 <center>
 
-{{< figure src="../../images/levico_1997.png" width="500px">}}
+{{< figure src="/images/levico_1997.jpg" width="500px">}}
 
 
 </center>

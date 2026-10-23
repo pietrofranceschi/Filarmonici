@@ -6,6 +6,7 @@ title = "Verdi Requiem - maggio"
 +++
 
 <center>
+
 ##### Piazzola sul Brenta - Duomo - Venerdì 20 Maggio, ore 21:00
 ##### Trento - Teatro Sociale - Sabato 21 Maggio, ore 20:30
 </center>
@@ -36,7 +37,7 @@ title = "Verdi Requiem - maggio"
 
 <center>
 
-{{< figure src="../../images/Verdi_Requiem_1.jpg" width="500px">}}
-{{< figure src="../../images/Verdi_Requiem_2.jpg" width="500px">}}
+{{< figure src="/images/Verdi_Requiem_1.jpg" width="500px">}}
+{{< figure src="/images/Verdi_Requiem_2.jpg" width="500px">}}
 
 </center>
