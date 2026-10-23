@@ -7,7 +7,7 @@ title = "TEDxTrento"
 
 <center>
 
-##### Teatro Auditorium Santa Chiara - Lunedì 27 Novembre, ore 10:00
+##### Teatro Auditorium Santa Chiara - Domenica 27 Novembre, ore 10:00
 </center>
 
 ---
