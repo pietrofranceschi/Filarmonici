@@ -13,7 +13,7 @@ title = "Concerti"
 
 ## 2025
 
-* [Concerto di S. Stefano - Mori]({{< ref "../2025/santo_stefano_mori.md" >}})
+* [Concerto di S. Stefano - Bolognano e Mori]({{< ref "../2025/santo_stefano_mori.md" >}})
 * [In Memoriam - Rovereto]({{< ref "../2025/in_memoriam.md" >}})
 * [Festival di Musica Sacra - Bellini, Rheinberger]({{< ref "../2025/musica_sacra.md" >}})
 * [Dvořák, Dal Nuovo Mondo]({{< ref "../2025/nuovo_mondo.md" >}})
@@ -22,6 +22,7 @@ title = "Concerti"
 
 ## 2024
 
+* [Musiche per il Natale a Bolognano]({{< ref "../2024/natale_bolognano.md" >}})
 * [Beethoven, Sinfonia "Pastorale" - Festival di Meteorologia]({{< ref "../2024/pastorale.md" >}})
 * [Festival di Musica Sacra - Mendelssohn, Miserachs]({{< ref "../2024/musica_sacra.md" >}})
 * [Beethoven "Imperatore" - Grieg, Peer Gynt]({{< ref "../2024/imperatore.md" >}})
@@ -30,6 +31,7 @@ title = "Concerti"
 
 ## 2023
 
+* [Concerto tra Natale e Capodanno a Bolognano]({{< ref "../2023/natale_bolognano.md" >}})
 * [Omaggio a Maria Callas - Concerto lirico]({{< ref "../2023/callas.md" >}})
 * [Festival di Musica Sacra - Sorella musica]({{< ref "../2023/musica_sacra.md" >}})
 * [W.A. Mozart - Don Giovanni in forma di concerto]({{< ref "../2023/don_giovanni.md" >}})
@@ -38,6 +40,7 @@ title = "Concerti"
 
 ## 2022
 
+* [Concerto di Natale a Bolognano]({{< ref "../2022/natale_bolognano.md" >}})
 * [Verdi - La Traviata in forma di concerto]({{< ref "../2022/traviata.md" >}})
 * [Spagna ed Austria allo specchio]({{< ref "../2022/spagna_austria.md" >}})
 

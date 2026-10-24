@@ -7,6 +7,7 @@ title = "Concerto di S. Stefano"
 
 <center>
 
+##### Bolognano d'Arco, Chiesa dell'Addolorata - Venerdì 26 Dicembre, ore 17:00
 ##### Mori, Chiesa di Santo Stefano - Venerdì 26 Dicembre, ore 20:30
 </center>
 
