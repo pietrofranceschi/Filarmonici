@@ -4,43 +4,91 @@ title = "Cantanti"
 
 +++
 
-* Patrizia Amoretti, *mezzosoprano*
-* Paolo Antognetti, *tenore*
-* Gianluca Arnò, *tenore*
-* Barbara Balduzzi, *soprano*
-* Fabio Bonatti, *tenore*
-* Mariapia Bortolotti, *mezzosoprano*
-* Brigitte Canins, *soprano*
-* Valentina Carraro, *contralto*
-* Roldano Cattoni, *baritono*
-* Anna D’Acunto, *soprano*
-* Vincenzo Di Donato, *tenore*
-* Cristiano Didonè, *tenore*
-* Maurizio Franceschetti, *basso*
-* Elena Gallo, *soprano*
-* Roberto Garniga, *tenore*
-* Riccardo Gatto, *tenore*
-* Roberto Guastamacchia, *tenore*
-* Maria Letizia Grosselli, *soprano*
-* Rosanna Lo Greco, *soprano*
-* Lucia Lorenzato, *soprano*
-* Anna Malvasio, *soprano*
-* Simone Marchesini, *baritono*
-* Antonio Menicucci, *baritono*
-* Carlo Messeri, *tenore*
-* Sabrina Modena, *soprano*
-* Cecilia Molinari, *mezzosoprano*
-* Maria Pia Molinari, *soprano*
-* Francesco Maria Moncher, *tenore*
-* Luciana Pansa, *mezzosoprano*
-* Daniela Pellizzari, *soprano*
-* Elisa Pichler, *soprano*
-* Isabella Pisoni, *soprano*
-* Ivo Rizzi, *baritono*
-* Alessandra Rostellato, *soprano*
-* Vadim Tarakanof, *baritono*
-* Dania Tosi, *soprano*
-* Claudio Zancopè, *basso*
-* Raffaele Zaninelli, *basso*
-* Karin Zimmerman, *mezzosoprano*
-* Eugenia Zuin, *contralto*
+Accanto a ogni nome, i concerti con I Filarmonici di Trento presenti nell'archivio del sito.
+
+* Patrizia Amoretti, *contralto* - [apr 2015]({{< ref "/2015/Requiem_Livorno.md" >}})
+* Paolo Antognetti, *tenore* - [mag 2016]({{< ref "/2016/Verdi_Requiem_maggio.md" >}})
+* Gianluca Arnò, *tenore* - [gen 2015]({{< ref "/2015/Concerto_Lirico.md" >}})
+* Barbara Balduzzi, *soprano* - [dic 2013]({{< ref "/2013/Concerto_Natale.md" >}}) · [dic 2014]({{< ref "/2014/Natale_Duomo.md" >}}) · [gen 2015]({{< ref "/2015/Concerto_Lirico.md" >}}) · [giu 2016]({{< ref "/2016/Concerto_lirico.md" >}}) · [dic 2016]({{< ref "/2016/Concerti_Natale.md" >}}) · [dic 2017]({{< ref "/2017/Concerti_Natale.md" >}}) · [dic 2017]({{< ref "/2017/Natale_Duomo.md" >}}) · [dic 2018]({{< ref "/2018/Concerti_Natale.md" >}}) · [feb 2023]({{< ref "/2023/don_giovanni.md" >}}) · [giu 2026]({{< ref "/2026/musica_sacra.md" >}})
+* Matteo Barca, *tenore* - [giu 2005]({{< ref "/2005/festival_musica_sacra.md" >}})
+* Anna Battaglia-Vedovato, *soprano* - [feb 2023]({{< ref "/2023/don_giovanni.md" >}})
+* Paola Bertagnolli, *soprano* - [dic 2004]({{< ref "/2004/concerto_natale_san_pietro.md" >}})
+* Fabio Bonatti, *tenore* - [dic 2010]({{< ref "/2010/angelo_e_la_stella_san_pietro.md" >}})
+* Annagiulia Bonizzato, *soprano* - [feb 2023]({{< ref "/2023/don_giovanni.md" >}})
+* Mariapia Bortolotti, *mezzosoprano* - [dic 2013]({{< ref "/2013/Concerto_Natale.md" >}}) · [mag 2014]({{< ref "/2014/concerto_sinfonico_corale.md" >}}) · [gen 2015]({{< ref "/2015/Concerto_Lirico.md" >}}) · [giu 2016]({{< ref "/2016/Concerto_lirico.md" >}}) · [dic 2017]({{< ref "/2017/Natale_Duomo.md" >}})
+* Irene Bottura, *soprano* - [dic 2023]({{< ref "/2023/natale_bolognano.md" >}})
+* Michela Bregantin, *mezzosoprano* - [giu 2017]({{< ref "/2017/Beethoven_Nona.md" >}}) · [nov 2018]({{< ref "/2018/Beethoven_9_Soligo.md" >}})
+* Milo Buson, *baritono* - [giu 2022]({{< ref "/2022/traviata.md" >}}) · [feb 2023]({{< ref "/2023/don_giovanni.md" >}})
+* Brigitte Canins, *soprano* - [gen 2015]({{< ref "/2015/Concerto_Lirico.md" >}})
+* Ylenia Cappelletti, *mezzosoprano* - [giu 2026]({{< ref "/2026/musica_sacra.md" >}})
+* Valentina Carraro, *contralto* - [mar 2012]({{< ref "/2012/liederalia.md" >}}) · [apr 2013]({{< ref "/2013/beethoven_messa_in_do.md" >}})
+* Roldano Cattoni, *baritono* - [dic 2013]({{< ref "/2013/Concerto_Natale.md" >}}) · [gen 2015]({{< ref "/2015/Concerto_Lirico.md" >}}) · [giu 2016]({{< ref "/2016/Concerto_lirico.md" >}})
+* Daniele Contessi, *tenore* - [nov 2025]({{< ref "/2025/santa_cecilia_montebelluna.md" >}}) · [giu 2026]({{< ref "/2026/musica_sacra.md" >}})
+* Sofia Cortellazzi, *soprano* - [giu 2025]({{< ref "/2025/musica_sacra.md" >}})
+* Alessandro Coser, *basso* - [giu 2026]({{< ref "/2026/musica_sacra.md" >}})
+* Mario Curzel, *basso* - [dic 2017]({{< ref "/2017/Natale_Duomo.md" >}})
+* Anna D'Acunto, *soprano* - [apr 2015]({{< ref "/2015/Requiem_Livorno.md" >}})
+* Paolo Deanesi, *basso* - [giu 2005]({{< ref "/2005/festival_musica_sacra.md" >}})
+* Anastasiia Demchenko, *soprano* - [feb 2023]({{< ref "/2023/don_giovanni.md" >}})
+* Stefano Detassis, *voce recitante* - [dic 2023]({{< ref "/2023/callas.md" >}})
+* Vincenzo Di Donato, *tenore* - [mar 2012]({{< ref "/2012/liederalia.md" >}})
+* Cristiano Didonè, *tenore* - [mar 2015]({{< ref "/2015/Requiem_Marzo.md" >}})
+* Patrizia Diodato, *soprano* - [set 2001]({{< ref "/2001/va_pensiero_comano.md" >}}) · [nov 2001]({{< ref "/2001/arie_sinfonie_verdi.md" >}})
+* Eudossia Drei, *soprano* - [giu 2022]({{< ref "/2022/traviata.md" >}})
+* Lucrezia Drei, *soprano* - [giu 2022]({{< ref "/2022/traviata.md" >}})
+* Camillo Facchino, *tenore* - [mag 2017]({{< ref "/2017/Verdi_Requiem.md" >}})
+* Matteo Falcier, *tenore* - [giu 2022]({{< ref "/2022/traviata.md" >}})
+* Andrea Fasoli, *tenore* - [dic 1999]({{< ref "/1999/corale_calceranica.md" >}}) · [dic 1999]({{< ref "/1999/natale_san_giacomo.md" >}})
+* Resi Fontana, *soprano* - [nov 2025]({{< ref "/2025/santa_cecilia_montebelluna.md" >}})
+* Danilo Formaggia, *tenore* - [nov 2018]({{< ref "/2018/Beethoven_9_Soligo.md" >}})
+* Chiara Fracasso, *mezzosoprano* - [mag 2017]({{< ref "/2017/Verdi_Requiem.md" >}})
+* Maurizio Franceschetti, *basso* - [mag 2016]({{< ref "/2016/Verdi_Requiem_maggio.md" >}}) · [giu 2016]({{< ref "/2016/Verdi_Requiem_giugno.md" >}}) · [mag 2017]({{< ref "/2017/Verdi_Requiem.md" >}}) · [giu 2017]({{< ref "/2017/Beethoven_Nona.md" >}}) · [nov 2018]({{< ref "/2018/Beethoven_9_Soligo.md" >}}) · [giu 2022]({{< ref "/2022/traviata.md" >}}) · [feb 2023]({{< ref "/2023/don_giovanni.md" >}})
+* Evi Gallmetzer, *mezzosoprano* - [dic 1999]({{< ref "/1999/corale_calceranica.md" >}}) · [dic 1999]({{< ref "/1999/natale_san_giacomo.md" >}})
+* Elena Gallo, *soprano* - [mag 2011]({{< ref "/2011/stabat_mater_boccherini.md" >}})
+* Roberto Garniga, *tenore* - [apr 2008]({{< ref "/2008/le_betulle_di_satov.md" >}}) · [apr 2013]({{< ref "/2013/beethoven_messa_in_do.md" >}}) · [mag 2014]({{< ref "/2014/concerto_sinfonico_corale.md" >}}) · [gen 2015]({{< ref "/2015/Concerto_Lirico.md" >}})
+* Riccardo Gatto, *tenore* - [giu 2016]({{< ref "/2016/Verdi_Requiem_giugno.md" >}})
+* Giuliana Germani, *voce recitante* - [mar 2012]({{< ref "/2012/liederalia.md" >}})
+* Maria Letizia Grosselli, *soprano* - [dic 2005]({{< ref "/2005/natale_duomo.md" >}}) · [dic 2006]({{< ref "/2006/buon_natale_mozart.md" >}}) · [dic 2006]({{< ref "/2006/natale_duomo.md" >}})
+* Roberto Guastamacchia, *tenore* - [dic 2013]({{< ref "/2013/Concerto_Natale.md" >}}) · [dic 2014]({{< ref "/2014/Natale_Duomo.md" >}}) · [gen 2015]({{< ref "/2015/Concerto_Lirico.md" >}}) · [dic 2015]({{< ref "/2015/Natale_Duomo.md" >}}) · [giu 2016]({{< ref "/2016/Concerto_lirico.md" >}}) · [dic 2017]({{< ref "/2017/Natale_Duomo.md" >}})
+* Max Jota, *tenore* - [giu 2017]({{< ref "/2017/Beethoven_Nona.md" >}})
+* Vivian Jourdan, *soprano* - [apr 2019]({{< ref "/2019/gala_rovereto.md" >}})
+* Oxana Lazareva, *contralto* - [giu 2005]({{< ref "/2005/festival_musica_sacra.md" >}})
+* Rosanna Lo Greco, *soprano* - [mag 2016]({{< ref "/2016/Verdi_Requiem_maggio.md" >}}) · [giu 2016]({{< ref "/2016/Verdi_Requiem_giugno.md" >}}) · [mag 2017]({{< ref "/2017/Verdi_Requiem.md" >}}) · [dic 2022]({{< ref "/2022/natale_bolognano.md" >}}) · [feb 2023]({{< ref "/2023/don_giovanni.md" >}})
+* Lucia Lorenzato, *soprano* - [giu 2016]({{< ref "/2016/Concerto_lirico.md" >}}) · [dic 2016]({{< ref "/2016/Concerti_Natale.md" >}})
+* Ombretta Macchi, *soprano* - [apr 2008]({{< ref "/2008/le_betulle_di_satov.md" >}})
+* Ulrike Malsiner, *soprano* - [dic 1999]({{< ref "/1999/corale_calceranica.md" >}}) · [dic 1999]({{< ref "/1999/natale_san_giacomo.md" >}})
+* Anna Malvasio, *soprano* - [mar 2015]({{< ref "/2015/Requiem_Marzo.md" >}})
+* Simone Marchesini, *basso* - [apr 2008]({{< ref "/2008/le_betulle_di_satov.md" >}}) · [mag 2014]({{< ref "/2014/concerto_sinfonico_corale.md" >}})
+* Francesca Martinelli, *contralto* - [mar 2002]({{< ref "/2002/stabat_mater_pergolesi.md" >}})
+* Daria Matiienko, *soprano* - [giu 2023]({{< ref "/2023/musica_sacra.md" >}}) · [giu 2024]({{< ref "/2024/musica_sacra.md" >}})
+* Antonio Menicucci, *basso* - [apr 2015]({{< ref "/2015/Requiem_Livorno.md" >}})
+* Domenico Menini, *tenore* - [apr 2008]({{< ref "/2008/le_betulle_di_satov.md" >}})
+* Carlo Messeri, *tenore* - [apr 2015]({{< ref "/2015/Requiem_Livorno.md" >}})
+* Sabrina Modena, *soprano* - [nov 2004]({{< ref "/2004/corale_santa_elena_cadine.md" >}}) · [giu 2005]({{< ref "/2005/festival_musica_sacra.md" >}}) · [apr 2013]({{< ref "/2013/beethoven_messa_in_do.md" >}}) · [mag 2014]({{< ref "/2014/concerto_sinfonico_corale.md" >}}) · [gen 2015]({{< ref "/2015/Concerto_Lirico.md" >}})
+* Cecilia Molinari, *mezzosoprano* - [nov 2013]({{< ref "/2013/requiem_in_viaggio_con_mozart.md" >}})
+* Maria Pia Molinari, *soprano* - [dic 2009]({{< ref "/2009/Concerti_Natale.md" >}}) · [dic 2010]({{< ref "/2010/angelo_e_la_stella_san_pietro.md" >}}) · [nov 2013]({{< ref "/2013/requiem_in_viaggio_con_mozart.md" >}})
+* Francesco Maria Moncher, *tenore* - [nov 2013]({{< ref "/2013/requiem_in_viaggio_con_mozart.md" >}})
+* Sergio Mutalipassi, *basso* - [giu 2025]({{< ref "/2025/musica_sacra.md" >}})
+* Filippo Nardin, *tenore* - [giu 2016]({{< ref "/2016/Concerto_lirico.md" >}}) · [nov 2016]({{< ref "/2016/TEDxTrento.md" >}})
+* Mattia Nicolini, *baritono* - [apr 2008]({{< ref "/2008/le_betulle_di_satov.md" >}})
+* Francesco Paccorini, *tenore* - [giu 2017]({{< ref "/2017/Beethoven_Nona.md" >}})
+* Nicola Pamio, *tenore* - [giu 2022]({{< ref "/2022/traviata.md" >}})
+* Luciana Pansa, *mezzosoprano* - [mag 2016]({{< ref "/2016/Verdi_Requiem_maggio.md" >}}) · [giu 2017]({{< ref "/2017/Beethoven_Nona.md" >}}) · [nov 2018]({{< ref "/2018/Beethoven_9_Soligo.md" >}})
+* Anna Pellizzari, *soprano* - [mar 2002]({{< ref "/2002/stabat_mater_pergolesi.md" >}})
+* Daniela Pellizzari, *soprano* - [dic 2012]({{< ref "/2012/Concerti_Natale.md" >}})
+* Elisa Pichler, *soprano* - [dic 2013]({{< ref "/2013/Concerto_Natale.md" >}}) · [gen 2015]({{< ref "/2015/Concerto_Lirico.md" >}})
+* Isabella Pisoni, *soprano* - [dic 2008]({{< ref "/2008/Concerti_Natale.md" >}}) · [mar 2012]({{< ref "/2012/liederalia.md" >}})
+* Anton Radchenko, *tenore* - [giu 2023]({{< ref "/2023/musica_sacra.md" >}})
+* Ivo Rizzi, *baritono* - [mar 2012]({{< ref "/2012/liederalia.md" >}}) · [gen 2015]({{< ref "/2015/Concerto_Lirico.md" >}})
+* Alessandra Rostellato, *soprano* - [giu 2016]({{< ref "/2016/Concerto_lirico.md" >}})
+* Elisa Salvini, *voce recitante* - [lug 2021]({{< ref "/2021/si_torna_all_opera.md" >}})
+* Lorenza Sartori, *soprano* - [dic 2017]({{< ref "/2017/Natale_Duomo.md" >}})
+* Vadim Tarakanov, *baritono* - [apr 2008]({{< ref "/2008/le_betulle_di_satov.md" >}}) · [giu 2016]({{< ref "/2016/Concerto_lirico.md" >}})
+* Dania Tosi, *soprano* - [mar 2012]({{< ref "/2012/liederalia.md" >}})
+* Aurhelia Varak, *mezzosoprano* - [giu 2017]({{< ref "/2017/Beethoven_Nona.md" >}})
+* Elena Vianini, *contralto* - [giu 2025]({{< ref "/2025/musica_sacra.md" >}})
+* Claudio Zancopè, *basso* - [mar 2015]({{< ref "/2015/Requiem_Marzo.md" >}}) · [feb 2023]({{< ref "/2023/don_giovanni.md" >}})
+* Raffaele Zaninelli, *basso* - [apr 2013]({{< ref "/2013/beethoven_messa_in_do.md" >}}) · [nov 2013]({{< ref "/2013/requiem_in_viaggio_con_mozart.md" >}})
+* Lorenzo Ziller, *baritono* - [giu 2026]({{< ref "/2026/musica_sacra.md" >}})
+* Karin Zimmermann, *mezzosoprano* - [nov 2000]({{< ref "/2000/note_inverno.md" >}}) · [dic 2002]({{< ref "/2002/natale_villa_lagarina.md" >}})
+* Eugenia Zuin, *contralto* - [mar 2015]({{< ref "/2015/Requiem_Marzo.md" >}}) · [mag 2016]({{< ref "/2016/Verdi_Requiem_maggio.md" >}}) · [giu 2016]({{< ref "/2016/Verdi_Requiem_giugno.md" >}})
