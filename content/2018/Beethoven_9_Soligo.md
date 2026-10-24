@@ -12,8 +12,11 @@ title = "L. v. Beethoven - Sinfonia n° 9"
 
 ---
 
+Concerto per il Centenario della fine della Grande Guerra
+
 **Programma**
 
+* *E.A. Mario* - La leggenda del Piave
 * *L. van Beethoven* - Sinfonia n° 9
 
 ---
@@ -21,7 +24,7 @@ title = "L. v. Beethoven - Sinfonia n° 9"
 
 * **Orchestra "I Filarmonici" di Trento**
 * **Coro "Città di Piazzola sul Brenta"**
-* **Coro "I Polifonici Vicentini**
+* **Coro "I Polifonici Vicentini"**
 
 ---
 
