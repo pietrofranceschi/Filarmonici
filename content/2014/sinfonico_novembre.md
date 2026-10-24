@@ -40,3 +40,11 @@ Direttore: *Alessandro Arnoldo*
 {{< figure src="/images/2014_sinfonico_novembre_programma.jpg" width="500px">}}
 
 </center>
+
+---
+
+**Video**
+
+{{< youtube id="5Q5XV-MFTYs" title="E. Elgar - 'Nimrod' dalle Enigma Variations (bis)" loading="lazy" >}}
+*E. Elgar - "Nimrod" dalle Enigma Variations (bis)*  
+Trento, Sala della Filarmonica - 16 novembre 2014

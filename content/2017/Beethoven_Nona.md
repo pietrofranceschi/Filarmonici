@@ -55,3 +55,11 @@ Maestri concertatori: *Alessandro Arnoldo*, *Mauro Roveri*
 
 
 </center>
+
+---
+
+**Video**
+
+{{< youtube id="6qMwlUyYCeQ" title="L.v. Beethoven - Sinfonia n° 9" loading="lazy" >}}
+*L.v. Beethoven - Sinfonia n° 9*  
+Trento, Chiesa di S. Francesco Saverio - 18 giugno 2017

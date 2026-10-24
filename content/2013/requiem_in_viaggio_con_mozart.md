@@ -39,3 +39,15 @@ Direttore: *Maurizio Postai*
 {{< figure src="/images/2013_requiem_in_viaggio_con_mozart.jpg" width="500px">}}
 
 </center>
+
+---
+
+**Video**
+
+{{< youtube id="M_rIlAvQchM" title="W.A. Mozart - Requiem KV 626" loading="lazy" >}}
+*W.A. Mozart - Requiem KV 626*  
+Con il Coro Anzolim de la Tor e la Mozart B&G Orchestra - novembre/dicembre 2013
+
+{{< youtube id="85jdWNANNbw" title="W.A. Mozart - Requiem KV 626" loading="lazy" >}}
+*W.A. Mozart - Requiem KV 626*  
+Con il Coro Anzolim de la Tor e la Mozart B&G Orchestra - novembre/dicembre 2013

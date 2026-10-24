@@ -45,3 +45,11 @@ Direttore: *Fabrizio Cunial*
 {{< figure src="/images/2007_musica_per_diletto_fondo_tesero.jpg" width="500px">}}
 
 </center>
+
+---
+
+**Video**
+
+{{< youtube id="aSdIpMc49LU" title="P.I. Čajkovskij - Concerto per pianoforte n° 1 (Federica Marini)" loading="lazy" >}}
+*P.I. Čajkovskij - Concerto per pianoforte n° 1 (Federica Marini)*  
+Levico Terme, Palalevico - 2 giugno 2007

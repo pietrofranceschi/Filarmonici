@@ -67,3 +67,15 @@ Maestro Concertatore: *Maurizio Postai*
 {{< figure src="/images/lirico_2015.jpg" width="500px">}}
 
 </center>
+
+---
+
+**Video**
+
+{{< youtube id="KHsJDShbpnI" title="G. Verdi - 'Libiamo ne' lieti calici' da La Traviata" loading="lazy" >}}
+*G. Verdi - "Libiamo ne' lieti calici" da La Traviata*  
+Con il Laboratorio Musicale di Ravina - gennaio 2015
+
+{{< youtube id="iGiGHX9drM4" title="J. Offenbach - 'Belle nuit, ô nuit d'amour'" loading="lazy" >}}
+*J. Offenbach - "Belle nuit, ô nuit d'amour"*  
+Con il Laboratorio Musicale di Ravina - gennaio 2015

@@ -45,3 +45,11 @@ title = "Concerto con la Stadtorchester Feldkirch"
 {{< figure src="/images/2006_concerto_feldkirch_programma.jpg" width="500px">}}
 
 </center>
+
+---
+
+**Video**
+
+{{< youtube id="C5gwBIaU5Lo" title="Concerto con la Stadtorchester Feldkirch" loading="lazy" >}}
+*Concerto con la Stadtorchester Feldkirch*  
+Feldkirch (Austria), Landeskonservatorium - 26 marzo 2006

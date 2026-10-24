@@ -35,3 +35,15 @@ Direttore: *Alessandro Arnoldo*
 {{< figure src="/images/imperatore_2024.jpg" width="500px">}}
 
 </center>
+
+---
+
+**Video**
+
+{{< youtube id="pvrTGAh0bZA" title="L.v. Beethoven - Concerto per pianoforte n° 5 'Imperatore' (Daniele Lasta)" loading="lazy" >}}
+*L.v. Beethoven - Concerto per pianoforte n° 5 "Imperatore" (Daniele Lasta)*  
+Rovereto, Sala della Filarmonica - 10 marzo 2024
+
+{{< youtube id="SjcADlwsv48" title="E. Grieg - Peer Gynt, selezione dalle Suites" loading="lazy" >}}
+*E. Grieg - Peer Gynt, selezione dalle Suites*  
+marzo 2024

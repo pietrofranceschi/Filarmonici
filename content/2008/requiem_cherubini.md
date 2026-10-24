@@ -45,3 +45,31 @@ Direttore: *Fabrizio Cunial*
 {{< figure src="/images/2008_requiem_cherubini_levico_programma.jpg" width="500px">}}
 
 </center>
+
+---
+
+**Video**
+
+{{< youtube id="yy2jpYknPDU" title="L. Cherubini - Requiem in do minore: Introitus et Kyrie" loading="lazy" >}}
+*L. Cherubini - Requiem in do minore: Introitus et Kyrie*  
+Levico Terme, Chiesa del SS. Redentore - 13 giugno 2008
+
+{{< youtube id="aq0QoIN0xvY" title="L. Cherubini - Requiem in do minore: Graduale" loading="lazy" >}}
+*L. Cherubini - Requiem in do minore: Graduale*  
+Levico Terme, Chiesa del SS. Redentore - 13 giugno 2008
+
+{{< youtube id="SX6tAo6Ttic" title="L. Cherubini - Requiem in do minore: Dies irae" loading="lazy" >}}
+*L. Cherubini - Requiem in do minore: Dies irae*  
+Levico Terme, Chiesa del SS. Redentore - 13 giugno 2008
+
+{{< youtube id="vvd5mIIpEGs" title="L. Cherubini - Requiem in do minore: Sanctus" loading="lazy" >}}
+*L. Cherubini - Requiem in do minore: Sanctus*  
+Levico Terme, Chiesa del SS. Redentore - 13 giugno 2008
+
+{{< youtube id="6skaCB14Cv4" title="L. Cherubini - Requiem in do minore: Pie Jesu" loading="lazy" >}}
+*L. Cherubini - Requiem in do minore: Pie Jesu*  
+Levico Terme, Chiesa del SS. Redentore - 13 giugno 2008
+
+{{< youtube id="KvdXXDTZcZI" title="L. Cherubini - Requiem in do minore: Agnus Dei" loading="lazy" >}}
+*L. Cherubini - Requiem in do minore: Agnus Dei*  
+Levico Terme, Chiesa del SS. Redentore - 13 giugno 2008

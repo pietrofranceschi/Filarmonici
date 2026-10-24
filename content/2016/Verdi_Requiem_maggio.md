@@ -41,3 +41,27 @@ title = "Verdi Requiem - maggio"
 {{< figure src="/images/Verdi_Requiem_2.jpg" width="500px">}}
 
 </center>
+
+---
+
+**Video**
+
+{{< youtube id="jFxmt8yv1wA" title="G. Verdi - Messa da Requiem (esecuzione completa)" loading="lazy" >}}
+*G. Verdi - Messa da Requiem (esecuzione completa)*  
+Trento, Teatro Sociale - 21 maggio 2016
+
+{{< youtube id="OZPK3KChzAE" title="G. Verdi - Messa da Requiem: Dies irae" loading="lazy" >}}
+*G. Verdi - Messa da Requiem: Dies irae*  
+Trento, Teatro Sociale - 21 maggio 2016
+
+{{< youtube id="znHjRmAXYBw" title="G. Verdi - Messa da Requiem: Recordare, Quid sum miser" loading="lazy" >}}
+*G. Verdi - Messa da Requiem: Recordare, Quid sum miser*  
+Trento, Teatro Sociale - 21 maggio 2016
+
+{{< youtube id="5ddpmgBeHAg" title="G. Verdi - Messa da Requiem: Ingemisco, Confutatis" loading="lazy" >}}
+*G. Verdi - Messa da Requiem: Ingemisco, Confutatis*  
+Trento, Teatro Sociale - 21 maggio 2016
+
+{{< youtube id="SS39WB7eSzY" title="G. Verdi - Messa da Requiem: Lacrymosa" loading="lazy" >}}
+*G. Verdi - Messa da Requiem: Lacrymosa*  
+Trento, Teatro Sociale - 21 maggio 2016

@@ -33,3 +33,10 @@ Direttore: *Alessandro Arnoldo*
 
 ---
 
+---
+
+**Video**
+
+{{< youtube id="QiGxcjYx1HU" title="P.I. Čajkovskij - Concerto per violino op. 35 (Teofil Milenkovich)" loading="lazy" >}}
+*P.I. Čajkovskij - Concerto per violino op. 35 (Teofil Milenkovich)*  
+Rovereto, Teatro Zandonai - 14 aprile 2019

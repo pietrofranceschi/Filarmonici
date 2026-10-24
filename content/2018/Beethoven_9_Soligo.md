@@ -42,3 +42,15 @@ Direttore: *Gabriele Di Toma*
 
 {{< figure src="/images/Beethoven_9_Soligo.jpg" width="500px">}}
 </center>
+
+---
+
+**Video**
+
+{{< youtube id="Rr7hWMWvwpI" title="E.A. Mario - La leggenda del Piave" loading="lazy" >}}
+*E.A. Mario - La leggenda del Piave*  
+Pieve di Soligo, Duomo - 2 novembre 2018
+
+{{< youtube id="SZELTm-cE5o" title="L.v. Beethoven - Sinfonia n° 9: Inno alla gioia" loading="lazy" >}}
+*L.v. Beethoven - Sinfonia n° 9: Inno alla gioia*  
+Pieve di Soligo, Duomo - 2 novembre 2018

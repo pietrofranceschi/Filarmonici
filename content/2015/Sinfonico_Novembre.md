@@ -37,3 +37,11 @@ title = "Concerto Sinfonico"
 {{< figure src="/images/sinfonico_Novembre_2015.jpg" width="500px">}}
 
 </center>
+
+---
+
+**Video**
+
+{{< youtube id="mCs8XBhaWM0" title="R. Schumann - Concerto per violoncello op. 129 (Klaus Broz)" loading="lazy" >}}
+*R. Schumann - Concerto per violoncello op. 129 (Klaus Broz)*  
+Trento, Sala della Filarmonica - 22 novembre 2015

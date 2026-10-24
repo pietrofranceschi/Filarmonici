@@ -45,3 +45,15 @@ title = "Mozart - Requiem"
 {{< figure src="/images/locandina_Requiem_2015_PD.jpg" width="500px">}}
 
 </center>
+
+---
+
+**Video**
+
+{{< youtube id="Cq3ebRXInC4" title="W.A. Mozart - Requiem KV 626: Rex tremendae, Recordare" loading="lazy" >}}
+*W.A. Mozart - Requiem KV 626: Rex tremendae, Recordare*  
+Con il Coro Città di Piazzola sul Brenta - marzo 2015
+
+{{< youtube id="ZRxIhyDNmdY" title="W.A. Mozart - Ave verum corpus" loading="lazy" >}}
+*W.A. Mozart - Ave verum corpus*  
+Con il Coro Città di Piazzola sul Brenta - marzo 2015

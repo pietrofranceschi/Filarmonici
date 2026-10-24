@@ -38,3 +38,11 @@ Direttore: *Fabrizio Cunial*
 {{< figure src="/images/2010_angelo_e_la_stella_san_pietro.jpg" width="500px">}}
 
 </center>
+
+---
+
+**Video**
+
+{{< youtube id="VOgZTr1EVcU" title="F. Conti - 'Il Natale', inno sacro di A. Manzoni (Fabio Bonatti, tenore)" loading="lazy" >}}
+*F. Conti - "Il Natale", inno sacro di A. Manzoni (Fabio Bonatti, tenore)*  
+Trento, Chiesa di S. Pietro - 18 dicembre 2010

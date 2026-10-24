@@ -33,3 +33,11 @@ Direttore: *Simone Zuccatti*
 {{< figure src="/images/in_memoriam_rovereto_2025.jpg" width="500px">}}
 
 </center>
+
+---
+
+**Video**
+
+{{< youtube id="fQYegFgnDEI" title="F. Schubert - Sinfonia n° 8 'Incompiuta'" loading="lazy" >}}
+*F. Schubert - Sinfonia n° 8 "Incompiuta"*  
+Rovereto, Sala della Filarmonica - 21 novembre 2025

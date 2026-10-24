@@ -28,3 +28,11 @@ Organizzato dal Gruppo Concerti di Bolognano, nella rassegna "Musiche per il Nat
 * Violino: Elisa Cecchini
 
 Direttore: *Alessandro Arnoldo*
+
+---
+
+**Video**
+
+{{< youtube id="10vaCN0rEhA" title="F.X. Gruber - Stille Nacht (Elisa Cecchini, violino)" loading="lazy" >}}
+*F.X. Gruber - Stille Nacht (Elisa Cecchini, violino)*  
+Bolognano d'Arco - 26 dicembre 2024

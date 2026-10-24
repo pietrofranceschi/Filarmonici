@@ -39,3 +39,11 @@ Direttore: *Italo Rizzi*
 {{< figure src="/images/2011_stabat_mater_feltre.jpg" width="500px">}}
 
 </center>
+
+---
+
+**Video**
+
+{{< youtube id="gyxH1gATdX4" title="L. Boccherini - Stabat Mater: Quando corpus morietur" loading="lazy" >}}
+*L. Boccherini - Stabat Mater: Quando corpus morietur*  
+2011

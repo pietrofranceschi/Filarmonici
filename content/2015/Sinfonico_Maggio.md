@@ -38,3 +38,11 @@ title = "Concerto Sinfonico"
 {{< figure src="/images/locandina_maggio_2015.jpg" width="500px">}}
 
 </center>
+
+---
+
+**Video**
+
+{{< youtube id="gGtse1C_rDk" title="L.v. Beethoven - Concerto per pianoforte n° 3 (Art Marika)" loading="lazy" >}}
+*L.v. Beethoven - Concerto per pianoforte n° 3 (Art Marika)*  
+Rovereto, Sala della Filarmonica - 23 maggio 2015

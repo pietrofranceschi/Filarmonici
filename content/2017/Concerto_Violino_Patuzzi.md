@@ -44,3 +44,11 @@ Direttori: *Manuel Martinez Alvarez Nava*, *Simone Zuccati*
 {{< figure src="/images/Rovereto_Patuzzi_2017.jpg" width="500px">}}
 
 </center>
+
+---
+
+**Video**
+
+{{< youtube id="UfE7q-4mcNQ" title="P.I. Čajkovskij - Concerto per violino op. 35 (Maristella Patuzzi)" loading="lazy" >}}
+*P.I. Čajkovskij - Concerto per violino op. 35 (Maristella Patuzzi)*  
+novembre/dicembre 2017

@@ -49,3 +49,19 @@ Maestro concertatore: *Alessandro Arnoldo*
 {{< figure src="/images/musica_sacra_2023_p18.jpg" width="400px">}}
 
 </center>
+
+---
+
+**Video**
+
+{{< youtube id="U2G_rhkhaOg" title="O. Tonetti - Il Cantico di Frate Sole (estratto)" loading="lazy" >}}
+*O. Tonetti - Il Cantico di Frate Sole (estratto)*  
+Festival di Musica Sacra - giugno 2023
+
+{{< youtube id="-_5JqMZPTt0" title="O. Tonetti - Il Cantico di Frate Sole" loading="lazy" >}}
+*O. Tonetti - Il Cantico di Frate Sole*  
+San Pietro al Po (Cremona), Chiesa di San Giorgio - 11 novembre 2023
+
+{{< youtube id="Q-SVAuDE-H0" title="O. Tonetti - Il Cantico di Frate Sole" loading="lazy" >}}
+*O. Tonetti - Il Cantico di Frate Sole*  
+Pordenone, Duomo Concattedrale di San Marco - 17 dicembre 2023

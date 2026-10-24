@@ -40,3 +40,11 @@ Direttore: *Fabrizio Cunial*
 {{< figure src="/images/2010_concerto_per_simone_programma.jpg" width="700px">}}
 
 </center>
+
+---
+
+**Video**
+
+{{< youtube id="ZcTEVsRHyVE" title="Concerto per Simone" loading="lazy" >}}
+*Concerto per Simone*  
+Rovereto, Chiesa di S. Maria del Carmine - 17 aprile 2010

@@ -55,3 +55,31 @@ Maestro concertatore: *Mauro Roveri*
 {{< figure src="/images/don_giovanni_padova_2023.jpg" width="500px">}}
 
 </center>
+
+---
+
+**Video**
+
+{{< youtube id="uFuI8QJ6qGU" title="W.A. Mozart - Don Giovanni: 'Madamina, il catalogo è questo' (Maurizio Franceschetti)" loading="lazy" >}}
+*W.A. Mozart - Don Giovanni: "Madamina, il catalogo è questo" (Maurizio Franceschetti)*  
+Trento, Teatro di Villazzano - 5 febbraio 2023
+
+{{< youtube id="9qznJ_Bqe1c" title="W.A. Mozart - Don Giovanni: 'Ah chi mi dice mai' (Rosanna Lo Greco)" loading="lazy" >}}
+*W.A. Mozart - Don Giovanni: "Ah chi mi dice mai" (Rosanna Lo Greco)*  
+Trento, Teatro di Villazzano - 5 febbraio 2023
+
+{{< youtube id="raoe29Q_x_I" title="W.A. Mozart - Don Giovanni: 'Or sai chi l'onore' (Rosanna Lo Greco)" loading="lazy" >}}
+*W.A. Mozart - Don Giovanni: "Or sai chi l'onore" (Rosanna Lo Greco)*  
+Trento, Teatro di Villazzano - 5 febbraio 2023
+
+{{< youtube id="_3QfQwVmei4" title="W.A. Mozart - Don Giovanni: 'Batti, batti o bel Masetto' (Barbara Balduzzi)" loading="lazy" >}}
+*W.A. Mozart - Don Giovanni: "Batti, batti o bel Masetto" (Barbara Balduzzi)*  
+Trento, Teatro di Villazzano - 5 febbraio 2023
+
+{{< youtube id="KCxCn4yhr0Q" title="W.A. Mozart - Don Giovanni: 'Mi tradì quell'alma ingrata' (Rosanna Lo Greco)" loading="lazy" >}}
+*W.A. Mozart - Don Giovanni: "Mi tradì quell'alma ingrata" (Rosanna Lo Greco)*  
+Trento, Teatro di Villazzano - 5 febbraio 2023
+
+{{< youtube id="KN0-S0mcKKo" title="W.A. Mozart - Don Giovanni: 'Don Giovanni, a cenar teco'" loading="lazy" >}}
+*W.A. Mozart - Don Giovanni: "Don Giovanni, a cenar teco"*  
+Trento, Teatro di Villazzano - 5 febbraio 2023

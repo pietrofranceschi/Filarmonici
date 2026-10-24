@@ -43,3 +43,19 @@ Direttore: *Alessandro Arnoldo*
 {{< figure src="/images/musica_sacra_2026_p22.jpg" width="400px">}}
 
 </center>
+
+---
+
+**Video**
+
+{{< youtube id="zqeVdDqR8KA" title="G. Donizetti - Messa da Requiem (esecuzione completa)" loading="lazy" >}}
+*G. Donizetti - Messa da Requiem (esecuzione completa)*  
+Trento, Chiesa di S. Antonio - 21 giugno 2026
+
+{{< youtube id="MJrkKeXsHNI" title="G. Donizetti - Messa da Requiem: Requiem aeternam, Kyrie" loading="lazy" >}}
+*G. Donizetti - Messa da Requiem: Requiem aeternam, Kyrie*  
+Trento, Chiesa di S. Antonio - 21 giugno 2026
+
+{{< youtube id="AN5kS0cUtwY" title="G. Donizetti - Messa da Requiem: Ingemisco" loading="lazy" >}}
+*G. Donizetti - Messa da Requiem: Ingemisco*  
+Trento, Chiesa di S. Antonio - 21 giugno 2026

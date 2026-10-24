@@ -40,3 +40,11 @@ Direttore: *Fabrizio Cunial*
 {{< figure src="/images/2006_mozart_dvorak_curtarolo_programma.jpg" width="500px">}}
 
 </center>
+
+---
+
+**Video**
+
+{{< youtube id="IR5l-QQ2umQ" title="A. Dvořák - Sinfonia n° 9 'Dal Nuovo Mondo'" loading="lazy" >}}
+*A. Dvořák - Sinfonia n° 9 "Dal Nuovo Mondo"*  
+Curtarolo (PD), Sala Forum - 2 giugno 2006
