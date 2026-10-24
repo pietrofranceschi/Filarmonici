@@ -49,11 +49,6 @@ pluralizeListTitles = false
     weight = 4
 
 [[menu.main]]
-    name = "Archivio"
-    url = "/archivio/"
-    weight = 5
-
-[[menu.main]]
     name = "Timeline"
     url = "/timeline/"
     weight = 6
