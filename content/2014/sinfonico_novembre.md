@@ -17,6 +17,7 @@ title = "Concerto Sinfonico - Mozart, Schumann, Bizet"
 * *W.A. Mozart* - Ouverture dal "Don Giovanni" K 527
 * *R. Schumann* - Concerto per pianoforte e orchestra in la minore op. 54
 * *G. Bizet* - Carmen Suite n° 1
+* Bis: *E. Elgar* - "Nimrod" dalle Enigma Variations op. 36
 
 ---
 
