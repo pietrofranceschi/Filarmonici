@@ -90,6 +90,10 @@ Pordenone, Duomo Concattedrale di San Marco - 17 dicembre 2023 - [vai al concert
 
 ## 2019
 
+{{< youtube id="XeAC3Bc4oME" title="S. Rachmaninov - Concerto per pianoforte n° 2 (Daniele Lasta)" loading="lazy" >}}
+*S. Rachmaninov - Concerto per pianoforte n° 2 (Daniele Lasta)*  
+Trento, Chiesa di S. Francesco Saverio - 9 giugno 2019 - [vai al concerto]({{< ref "/2019/concerto_ventanni.md" >}})
+
 {{< youtube id="QiGxcjYx1HU" title="P.I. Čajkovskij - Concerto per violino op. 35 (Teofil Milenkovich)" loading="lazy" >}}
 *P.I. Čajkovskij - Concerto per violino op. 35 (Teofil Milenkovich)*  
 Rovereto, Teatro Zandonai - 14 aprile 2019 - [vai al concerto]({{< ref "/2019/gala_rovereto.md" >}})

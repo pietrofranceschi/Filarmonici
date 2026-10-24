@@ -12,12 +12,13 @@ title = "Concerto per i Vent'anni"
 
 ---
 
+Concerto per i vent'anni dell'orchestra (1999-2019), con il contributo della Circoscrizione Centro Storico - Piedicastello
+
 **Programma**
 
-* *R. Rachmaninov* -  Concerto per pianoforte e orchestra n.2
-* *J.S Bach - F. Busoni* - Corali per pianoforte 
-* *L.v Beethoven* - Sinfonia n.6 - "Pastorale"  
-
+* *J.S. Bach - F. Busoni* - Corali: Wachet auf, ruft uns die Stimme BWV 645; Ich ruf' zu dir, Herr BWV 639; Herr Gott, nun schleuß den Himmel auf BWV 617
+* *S. Rachmaninov* - Concerto per pianoforte e orchestra n° 2 in do minore op. 18
+* *L.v. Beethoven* - Sinfonia n° 6 in fa maggiore op. 68 "Pastorale"
 
 ---
 
@@ -27,9 +28,28 @@ title = "Concerto per i Vent'anni"
 
 * Pianoforte: Daniele Lasta
 
-
-
 Direttore: *Alessandro Arnoldo*
 
 ---
 
+<center>
+
+{{< figure src="/images/ventennale_2019_locandina.jpg" width="500px">}}
+
+---
+
+{{< figure src="/images/ventennale_2019_programma_1.jpg" width="700px">}}
+
+---
+
+{{< figure src="/images/ventennale_2019_programma_2.jpg" width="700px">}}
+
+</center>
+
+---
+
+**Video**
+
+{{< youtube id="XeAC3Bc4oME" title="S. Rachmaninov - Concerto per pianoforte n° 2 (Daniele Lasta)" loading="lazy" >}}
+*S. Rachmaninov - Concerto per pianoforte n° 2 (Daniele Lasta)*  
+Trento, Chiesa di S. Francesco Saverio - 9 giugno 2019
