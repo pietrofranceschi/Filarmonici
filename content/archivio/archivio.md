@@ -15,6 +15,7 @@ title = "Concerti"
 
 * [Concerto di S. Stefano - Bolognano e Mori]({{< ref "../2025/santo_stefano_mori.md" >}})
 * [In Memoriam - Rovereto]({{< ref "../2025/in_memoriam.md" >}})
+* [Concerto di Santa Cecilia - Montebelluna]({{< ref "../2025/santa_cecilia_montebelluna.md" >}})
 * [Festival di Musica Sacra - Bellini, Rheinberger]({{< ref "../2025/musica_sacra.md" >}})
 * [Dvořák, Dal Nuovo Mondo]({{< ref "../2025/nuovo_mondo.md" >}})
 
