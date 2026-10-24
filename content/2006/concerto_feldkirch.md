@@ -38,6 +38,10 @@ title = "Concerto con la Stadtorchester Feldkirch"
 
 ---
 
+{{< figure src="/images/2006_concerto_feldkirch_note.jpg" width="500px">}}
+
+---
+
 {{< figure src="/images/2006_concerto_feldkirch_programma.jpg" width="500px">}}
 
 </center>

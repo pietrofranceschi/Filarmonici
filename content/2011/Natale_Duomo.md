@@ -26,10 +26,11 @@ title = "Natale in Duomo"
 * Violino I: Gianni Romagnoli
 * Violino II: Astrid Harlan
 * Viola: Chizuru Deguchi
-* Violoncello: Eva Gruhn, Roberto Guastamacchia
+* Violoncello: Eva Gruhn
 * Contrabbasso: Daniele Giongo
 * Clarinetto: Pietro Franceschi
 * Corno: Marco Franceschi
+* Tromba: Roberto Guastamacchia
 
 
 ---

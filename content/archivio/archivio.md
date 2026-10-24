@@ -22,6 +22,7 @@ title = "Concerti"
 
 ## 2024
 
+* [Beethoven, Sinfonia "Pastorale" - Festival di Meteorologia]({{< ref "../2024/pastorale.md" >}})
 * [Festival di Musica Sacra - Mendelssohn, Miserachs]({{< ref "../2024/musica_sacra.md" >}})
 * [Beethoven "Imperatore" - Grieg, Peer Gynt]({{< ref "../2024/imperatore.md" >}})
 
@@ -29,6 +30,7 @@ title = "Concerti"
 
 ## 2023
 
+* [Omaggio a Maria Callas - Concerto lirico]({{< ref "../2023/callas.md" >}})
 * [Festival di Musica Sacra - Sorella musica]({{< ref "../2023/musica_sacra.md" >}})
 * [W.A. Mozart - Don Giovanni in forma di concerto]({{< ref "../2023/don_giovanni.md" >}})
 
@@ -36,6 +38,7 @@ title = "Concerti"
 
 ## 2022
 
+* [Verdi - La Traviata in forma di concerto]({{< ref "../2022/traviata.md" >}})
 * [Spagna ed Austria allo specchio]({{< ref "../2022/spagna_austria.md" >}})
 
 ---

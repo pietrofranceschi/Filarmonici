@@ -15,8 +15,19 @@ title = "Concerti di Natale"
 
 **Programma**
 
-* *Felix Mendelssohn* - Ouverture "Le grotte di Fingal" (Ebridi)
-* *Fabio Conti et al. (Arr.)* - Canti natalizi
+* *Melodia gregoriana* - Hodie Christus natus est
+* *Canto natalizio spagnolo* - A la nanita nana (elab. Riccardo Giavina)
+* *Canto tradizionale tedesco* - In dulci jubilo (parole di R.L. Pearsall, arr. John Rutter)
+* *F. Mendelssohn* - Ouverture "Le grotte di Fingal" (Ebridi)
+* *A. Adam* - Noël (arr. Fabio Conti)
+* *Melodia inglese del XVI secolo* - What child is this (parole di W.C. Dix, arr. Fabio Conti)
+* *Melodia gregoriana francese del XV secolo* - Veni Emmanuel (arr. Fabio Conti)
+* *Melodia tedesca del XIV secolo* - Personent hodie (arr. Fabio Conti)
+* *Carola tradizionale inglese* - God rest you merry, gentlemen (arr. Fabio Conti)
+* *L. Panzeri* - Quem vidistis pastores (arr. Fabio Conti)
+* *H. Purcell* - Sound the trumpet (arr. Fabio Conti)
+* *J. Brahms* - Ninna nanna (arr. Ludovico Lazzeri)
+* *F.X. Gruber* - Stille Nacht (parole di Joseph Mohr, arr. Fabio Conti)
 
 ---
 
@@ -26,6 +37,7 @@ title = "Concerti di Natale"
 ---
 
 * Soprano Solista: Isabella Pisoni
+* Maestro del coro: Claudia Rizzo
 
 
 Direttore: *Fabrizio Cunial*
