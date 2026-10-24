@@ -9,12 +9,15 @@ title = "52° Festival Regionale di Musica Sacra - Sorella musica"
 
 ##### Rovereto, Chiesa di S. Maria del Carmine - Venerdì 16 Giugno, ore 20:30
 ##### Trento, Chiesa di San Francesco Saverio - Sabato 17 Giugno, ore 20:30
-##### Pordenone, Duomo - Sabato 16 Dicembre, ore 20:30
+##### San Pietro al Po (Cremona), Chiesa di San Giorgio - Sabato 11 Novembre, ore 16:00
+##### Pordenone, Duomo Concattedrale di San Marco - Domenica 17 Dicembre, ore 15:30
 </center>
 
 ---
 
-"Sorella musica: sensibilità francescana per la custodia del creato", per l'800° anniversario della regola francescana
+"Sorella musica: sensibilità francescana per la custodia del creato", per l'800° anniversario della regola francescana.
+A Cremona per la festa patronale di Sant'Omobono; a Pordenone, con il titolo "Altissimo, onnipotente, bon Signore",
+nel Festival Internazionale di Musica Sacra (musiche di Eccher, Schubert, Tonetti)
 
 **Programma**
 
