@@ -15,6 +15,7 @@ title = "L'Angelo e la Stella"
 **Programma**
 
 * *F. Conti* - "L'Angelo e la Stella", testi di Giuseppe Calliari (in occasione dei 100 anni dell'Oratorio di S. Pietro)
+* *F. Conti* - "Il Natale", inno sacro di Alessandro Manzoni per tenore, coro e orchestra
 
 ---
 
