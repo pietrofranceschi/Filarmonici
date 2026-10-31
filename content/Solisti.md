@@ -30,6 +30,7 @@ Accanto a ogni nome, i concerti con I Filarmonici di Trento presenti nell'archiv
 * Maria Antonietta Marongiu, _clavicembalo_ - [apr 2010]({{< ref "/2010/concerto_per_simone.md" >}})
 * Stefano Miceli, _pianoforte_
 * Teofil Milenkovich, _violino_ - [apr 2019]({{< ref "/2019/gala_rovereto.md" >}})
+* Elena Nefedova, _pianoforte_ - [ott 2019]({{< ref "/2019/padova_rachmaninov.md" >}})
 * Maristella Patuzzi, _violino_ - [ago 2013]({{< ref "/2013/concerto_san_lorenzo_piuro.md" >}}) · [nov 2017]({{< ref "/2017/Concerto_Violino_Patuzzi.md" >}}) · [dic 2017]({{< ref "/2017/Concerti_Natale.md" >}}) · [giu 2018]({{< ref "/2018/Sinfonico_Abano.md" >}}) · [giu 2019]({{< ref "/2019/gala_lugano.md" >}}) · [dic 2019]({{< ref "/2019/concerto_natale.md" >}}) · [feb 2020]({{< ref "/2020/concerto_bergamo.md" >}})
 * Stefano Rattini, _organo_ - [dic 1999]({{< ref "/1999/natale_duomo.md" >}}) · [mar 2003]({{< ref "/2003/settecento_trionfo_concerto_sinfonia.md" >}}) · [dic 2017]({{< ref "/2017/Natale_Duomo.md" >}}) · [dic 2019]({{< ref "/2019/concerto_natale_duomo.md" >}})
 * Walter Salin, _chitarra_ - [giu 2013]({{< ref "/2013/suoni_del_mediterraneo.md" >}})

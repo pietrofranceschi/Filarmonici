@@ -54,6 +54,10 @@ Maestro concertatore: *Mauro Roveri*
 
 {{< figure src="/images/don_giovanni_padova_2023.jpg" width="500px">}}
 
+---
+
+{{< figure src="/images/don_giovanni_villazzano_2023_programma.jpg" width="500px">}}
+
 </center>
 
 ---

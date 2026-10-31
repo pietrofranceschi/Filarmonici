@@ -52,4 +52,8 @@ Direttore: *Fabrizio Cunial*
 
 {{< figure src="/images/2003_concerto_favrio_1.jpg" width="700px">}}
 
+---
+
+{{< figure src="/images/2003_concerto_favrio_2.jpg" width="700px">}}
+
 </center>

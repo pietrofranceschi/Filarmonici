@@ -42,6 +42,14 @@ Direttore: *Alessandro Arnoldo*
 
 {{< figure src="/images/musica_sacra_2026_p22.jpg" width="400px">}}
 
+---
+
+{{< figure src="/images/musica_sacra_2026_pieghevole_1.jpg" width="700px">}}
+
+---
+
+{{< figure src="/images/musica_sacra_2026_pieghevole_2.jpg" width="700px">}}
+
 </center>
 
 ---

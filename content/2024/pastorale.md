@@ -30,4 +30,16 @@ Direttore: *Alessandro Arnoldo*
 
 {{< figure src="/images/pastorale_rovereto_2024.jpg" width="400px">}}
 
+---
+
+{{< figure src="/images/pastorale_rovereto_2024_articolo.jpg" width="500px">}}
+
+---
+
+{{< figure src="/images/pastorale_rovereto_2024_festival_1.jpg" width="700px">}}
+
+---
+
+{{< figure src="/images/pastorale_rovereto_2024_festival_2.jpg" width="700px">}}
+
 </center>

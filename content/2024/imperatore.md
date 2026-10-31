@@ -34,6 +34,14 @@ Direttore: *Alessandro Arnoldo*
 
 {{< figure src="/images/imperatore_2024.jpg" width="500px">}}
 
+---
+
+{{< figure src="/images/imperatore_2024_rovereto.jpg" width="500px">}}
+
+---
+
+{{< figure src="/images/imperatore_2024_articolo.jpg" width="600px">}}
+
 </center>
 
 ---

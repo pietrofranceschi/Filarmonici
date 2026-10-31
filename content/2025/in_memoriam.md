@@ -32,6 +32,14 @@ Direttore: *Simone Zuccatti*
 
 {{< figure src="/images/in_memoriam_rovereto_2025.jpg" width="500px">}}
 
+---
+
+{{< figure src="/images/in_memoriam_rovereto_2025_banner.jpg" width="500px">}}
+
+---
+
+{{< figure src="/images/in_memoriam_rovereto_2025_note.jpg" width="400px">}}
+
 </center>
 
 ---

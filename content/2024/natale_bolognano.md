@@ -14,8 +14,8 @@ title = "Musiche per il Natale a Bolognano"
 
 **Programma**
 
-* *C. Saint-Saëns* - Introduzione e Rondò capriccioso op. 28
 * *L.v. Beethoven* - Sinfonia n° 6 in fa maggiore op. 68 "Pastorale"
+* *C. Saint-Saëns* - Introduzione e Rondò capriccioso op. 28
 
 ---
 
@@ -28,6 +28,22 @@ Organizzato dal Gruppo Concerti di Bolognano, nella rassegna "Musiche per il Nat
 * Violino: Elisa Cecchini
 
 Direttore: *Alessandro Arnoldo*
+
+---
+
+<center>
+
+{{< figure src="/images/natale_bolognano_2024_locandina.jpg" width="500px">}}
+
+---
+
+{{< figure src="/images/natale_bolognano_2024_programma.jpg" width="700px">}}
+
+---
+
+{{< figure src="/images/natale_bolognano_2024_programma_2.jpg" width="700px">}}
+
+</center>
 
 ---
 

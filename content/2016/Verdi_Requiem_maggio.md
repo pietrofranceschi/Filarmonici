@@ -40,6 +40,14 @@ title = "Verdi Requiem - maggio"
 {{< figure src="/images/Verdi_Requiem_1.jpg" width="500px">}}
 {{< figure src="/images/Verdi_Requiem_2.jpg" width="500px">}}
 
+---
+
+{{< figure src="/images/Verdi_Requiem_trento_programma_1.jpg" width="700px">}}
+
+---
+
+{{< figure src="/images/Verdi_Requiem_trento_programma_2.jpg" width="700px">}}
+
 </center>
 
 ---

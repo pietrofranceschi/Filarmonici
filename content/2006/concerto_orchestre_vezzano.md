@@ -8,6 +8,7 @@ title = "Concerto Orchestre"
 <center>
 
 ##### Vezzano, Chiesa Arcipretale - Venerdì 29 Settembre, ore 21:00
+##### Pergine Valsugana, Teatro don Bosco - Sabato 25 Novembre, ore 20:45
 </center>
 
 ---
@@ -29,6 +30,8 @@ title = "Concerto Orchestre"
 
 Direttore: *Fabrizio Cunial*
 
+A Pergine Valsugana, nella rassegna "La Stagione dei concerti" del Comune, il concerto è annunciato come "Sinfonia del Nuovo Mondo".
+
 ---
 
 <center>
@@ -38,5 +41,9 @@ Direttore: *Fabrizio Cunial*
 ---
 
 {{< figure src="/images/2006_nuovo_mondo_vezzano_programma.jpg" width="700px">}}
+
+---
+
+{{< figure src="/images/2006_nuovo_mondo_pergine.jpg" width="400px">}}
 
 </center>

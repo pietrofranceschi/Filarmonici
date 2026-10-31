@@ -48,6 +48,18 @@ Maestro concertatore: *Alessandro Arnoldo*
 
 {{< figure src="/images/musica_sacra_2023_p18.jpg" width="400px">}}
 
+---
+
+{{< figure src="/images/musica_sacra_2023_pieghevole_1.jpg" width="700px">}}
+
+---
+
+{{< figure src="/images/musica_sacra_2023_pieghevole_2.jpg" width="700px">}}
+
+---
+
+{{< figure src="/images/musica_sacra_2023_pieghevole_3.jpg" width="700px">}}
+
 </center>
 
 ---

@@ -65,6 +65,7 @@ title = "Concerti"
 
 * [Celebrazione del Natale nel Duomo di Trento]({{< ref "../2019/concerto_natale_duomo.md" >}})
 * [Concerti di Natale]({{< ref "../2019/concerto_natale.md" >}})
+* [Rachmaninov e Beethoven a Padova]({{< ref "../2019/padova_rachmaninov.md" >}})
 * [Capolavori in Orchestra - Lugano]({{< ref "../2019/gala_lugano.md" >}})
 * [Concerto per i Vent'anni]({{< ref "../2019/concerto_ventanni.md" >}})
 * [Galà Concerto - Fondazione Lucarelli Irion]({{< ref "../2019/gala_rovereto.md" >}})

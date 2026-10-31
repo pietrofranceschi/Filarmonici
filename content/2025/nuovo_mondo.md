@@ -33,4 +33,12 @@ Direttore: *Alessandro Arnoldo*
 
 {{< figure src="/images/nuovo_mondo_2025.jpg" width="500px">}}
 
+---
+
+{{< figure src="/images/nuovo_mondo_2025_programma.jpg" width="500px">}}
+
+---
+
+{{< figure src="/images/nuovo_mondo_2025_note.jpg" width="500px">}}
+
 </center>

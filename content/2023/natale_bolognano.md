@@ -14,12 +14,13 @@ title = "Concerto tra Natale e Capodanno a Bolognano"
 
 **Programma**
 
-* *E. Grieg* - Peer Gynt, pagine dalla Suite n° 2
+* *E. Grieg* - Suite del Peer Gynt (selezione dalle 2 Suites)
 * *A. Catalani* - "Ebben? Ne andrò lontana" da "La Wally"
 * *V. Bellini* - "Casta diva" da "Norma"
+* *P. Mascagni* - Intermezzo da "Cavalleria Rusticana"
 * *G. Puccini* - Valzer di Musetta da "La Bohème"
 * *G. Puccini* - "O mio babbino caro" da "Gianni Schicchi"
-* Brani della tradizione natalizia
+* White Christmas (solo orchestra), God rest ye merry gentlemen, Stille Nacht, Holy Night (tradizionali natalizi)
 
 ---
 
@@ -32,3 +33,19 @@ Organizzato dal Comune di Arco, con il sostegno della Cassa Rurale Alto Garda
 * Soprano: Irene Bottura
 
 Direttore: *Alessandro Arnoldo*
+
+---
+
+<center>
+
+{{< figure src="/images/natale_bolognano_2023_locandina.jpg" width="500px">}}
+
+---
+
+{{< figure src="/images/natale_bolognano_2023_programma_1.jpg" width="700px">}}
+
+---
+
+{{< figure src="/images/natale_bolognano_2023_programma_2.jpg" width="700px">}}
+
+</center>

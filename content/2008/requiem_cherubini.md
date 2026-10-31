@@ -34,6 +34,10 @@ Direttore: *Fabrizio Cunial*
 
 <center>
 
+{{< figure src="/images/2008_requiem_cherubini_titolo.jpg" width="500px">}}
+
+---
+
 {{< figure src="/images/2008_requiem_cherubini_trento.jpg" width="500px">}}
 
 ---

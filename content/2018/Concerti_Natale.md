@@ -32,4 +32,12 @@ Direttori: *Alessandro Arnoldo*, *Manuel Martinez Alvarez-Nava*
 <center>
 
 {{< figure src="/images/Natale2018.jpg" width="500px">}}
+
+---
+
+{{< figure src="/images/Natale2018_lasino_programma_1.jpg" width="700px">}}
+
+---
+
+{{< figure src="/images/Natale2018_lasino_programma_2.jpg" width="700px">}}
 </center>

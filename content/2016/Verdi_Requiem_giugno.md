@@ -38,4 +38,12 @@ title = "Verdi Requiem - giugno"
 
 {{< figure src="/images/Verdi_Requiem_3.jpg" width="500px">}}
 
+---
+
+{{< figure src="/images/Verdi_Requiem_glueckstadt_1.jpg" width="400px">}}
+
+---
+
+{{< figure src="/images/Verdi_Requiem_glueckstadt_2.jpg" width="700px">}}
+
 </center>
