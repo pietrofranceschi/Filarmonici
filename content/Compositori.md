@@ -11,13 +11,13 @@ Accanto a ogni nome, i concerti con I Filarmonici di Trento presenti nell'archiv
 * I. Dapreda - *Beatus qui intelligit* - [giu 2024]({{< ref "/2024/musica_sacra.md" >}})
 * Roberto Di Marino - *Un Frammento*, *Il Poeta* - [nov 2004]({{< ref "/2004/corale_santa_elena_cadine.md" >}}) · [apr 2007]({{< ref "/2007/organo_in_orchestra.md" >}}) · [mar 2012]({{< ref "/2012/liederalia.md" >}})
 * Sebastiano Evangelista - *Ottetto per la Notte di Natale* - [dic 2011]({{< ref "/2011/Concerti_Natale.md" >}}) · [dic 2011]({{< ref "/2011/Natale_Duomo.md" >}})
-* Gianfranco Grisi - *Erich von Stroheim: "Blind Husbands" (1919)* - musicazione
-* Marco Mantovani - *Erich von Stroheim: "Blind Husbands" (1919)* - musicazione
+* Gianfranco Grisi - *Erich von Stroheim: "Blind Husbands" (1919)* - musicazione - [apr 2009]({{< ref "/2009/blind_husbands_filmfestival.md" >}})
+* Marco Mantovani - *Erich von Stroheim: "Blind Husbands" (1919)* - musicazione - [apr 2009]({{< ref "/2009/blind_husbands_filmfestival.md" >}})
 * Enrico Miaroma - *L'abbandono*, *Sete* - [mar 2012]({{< ref "/2012/liederalia.md" >}})
 * Valentí Miserachs - *Beata Virgo Maria*, oratorio (Atto II) - [giu 2024]({{< ref "/2024/musica_sacra.md" >}})
-* Lucia Palaoro - *The Nightflyer*, *Angelus ad Virginem*, *Erich von Stroheim: "Blind Husbands" (1919)* - musicazione - [mar 2012]({{< ref "/2012/liederalia.md" >}}) · [dic 2013]({{< ref "/2013/Concerto_Natale.md" >}}) · [dic 2013]({{< ref "/2013/Concerto_Natale_Amnesty_International.md" >}})
-* Maurizio Postai - *Erich von Stroheim: "Blind Husbands" (1919)* - musicazione
+* Lucia Palaoro - *The Nightflyer*, *Angelus ad Virginem*, *Erich von Stroheim: "Blind Husbands" (1919)* - musicazione - [apr 2009]({{< ref "/2009/blind_husbands_filmfestival.md" >}}) · [mar 2012]({{< ref "/2012/liederalia.md" >}}) · [dic 2013]({{< ref "/2013/Concerto_Natale.md" >}}) · [dic 2013]({{< ref "/2013/Concerto_Natale_Amnesty_International.md" >}})
+* Maurizio Postai - *Erich von Stroheim: "Blind Husbands" (1919)* - musicazione - [apr 2009]({{< ref "/2009/blind_husbands_filmfestival.md" >}})
 * Nicola Segatta - *Concerto di Natale* - [dic 2012]({{< ref "/2012/Concerti_Natale.md" >}}) · [dic 2012]({{< ref "/2012/Natale_Duomo.md" >}})
 * Giovanni Veneri - *Requiem nei Monti* - [nov 2018]({{< ref "/2018/Requiem_nei_monti.md" >}})
 * J. Zendri - *Spiritus ubi vult spirat* (prima esecuzione assoluta) - [giu 2025]({{< ref "/2025/musica_sacra.md" >}})
-* Andrea Ziviani - *Pastorale*, *Il Racconto di Natale*, *Erich von Stroheim: "Blind Husbands" (1919)* - musicazione - [dic 2014]({{< ref "/2014/Natale_Duomo.md" >}}) · [dic 2015]({{< ref "/2015/Natale_Duomo.md" >}}) · [dic 2015]({{< ref "/2015/concerto_natalizio_villazzano.md" >}})
+* Andrea Ziviani - *Pastorale*, *Il Racconto di Natale*, *Erich von Stroheim: "Blind Husbands" (1919)* - musicazione - [apr 2009]({{< ref "/2009/blind_husbands_filmfestival.md" >}}) · [dic 2014]({{< ref "/2014/Natale_Duomo.md" >}}) · [dic 2015]({{< ref "/2015/Natale_Duomo.md" >}}) · [dic 2015]({{< ref "/2015/concerto_natalizio_villazzano.md" >}})

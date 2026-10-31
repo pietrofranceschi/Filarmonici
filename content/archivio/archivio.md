@@ -175,7 +175,7 @@ title = "Concerti"
 * [Il Barocco nella musica di Corelli e Vivaldi]({{< ref "../2009/barocco_corelli_vivaldi.md" >}})
 * [Concerti di Natale]({{< ref "../2009/Concerti_Natale.md" >}})
 * [Due passi tra i presepi]({{< ref "../2009/due_passi_tra_i_presepi.md" >}})
-* Serata di Inaugurale Filmfestival della Montagna - Musicazione di "Blind Husbands"
+* [Serata inaugurale del Filmfestival della Montagna - Musicazione di "Blind Husbands"]({{< ref "../2009/blind_husbands_filmfestival.md" >}})
 
 ---
 
