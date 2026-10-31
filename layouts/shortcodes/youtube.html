@@ -1,0 +1,13 @@
+{{- /*
+  Sostituisce lo shortcode YouTube di Hugo: mostra solo l'anteprima del video
+  e carica il player (da youtube-nocookie.com) quando si clicca.
+  Senza JavaScript resta un link al video su YouTube.
+  Uso: {{< youtube id="ID" title="Titolo" >}}  (oppure {{< youtube ID >}})
+*/ -}}
+{{- $id := .Get "id" | default (.Get 0) -}}
+{{- $title := .Get "title" | default "Video YouTube" -}}
+{{- $start := .Get "start" | default "" -}}
+<a class="yt-lite" href="https://www.youtube.com/watch?v={{ $id }}{{ with $start }}&t={{ . }}s{{ end }}" data-id="{{ $id }}" data-title="{{ $title }}"{{ with $start }} data-start="{{ . }}"{{ end }} aria-label="Riproduci il video: {{ $title }}">
+  <img src="https://i.ytimg.com/vi/{{ $id }}/hqdefault.jpg" alt="" loading="lazy" width="480" height="360">
+  <span class="yt-lite-play" aria-hidden="true"></span>
+</a>
