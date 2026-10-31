@@ -42,6 +42,10 @@ Rovereto, Sala della Filarmonica - 10 marzo 2024 - [vai al concerto]({{< ref "/2
 *E. Grieg - Peer Gynt, selezione dalle Suites*  
 marzo 2024 - [vai al concerto]({{< ref "/2024/imperatore.md" >}})
 
+{{< youtube id="3XgLqNxWayE" title="C. Saint-Saëns - Introduzione e Rondò capriccioso op. 28 (Elisa Cecchini, violino)" loading="lazy" >}}
+*C. Saint-Saëns - Introduzione e Rondò capriccioso op. 28 (Elisa Cecchini, violino)*  
+Bolognano d'Arco - 26 dicembre 2024 - [vai al concerto]({{< ref "/2024/natale_bolognano.md" >}})
+
 {{< youtube id="10vaCN0rEhA" title="F.X. Gruber - Stille Nacht (Elisa Cecchini, violino)" loading="lazy" >}}
 *F.X. Gruber - Stille Nacht (Elisa Cecchini, violino)*  
 Bolognano d'Arco - 26 dicembre 2024 - [vai al concerto]({{< ref "/2024/natale_bolognano.md" >}})
